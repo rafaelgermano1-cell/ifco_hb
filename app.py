@@ -377,6 +377,7 @@ collection_forecast = model_forecast(
     selected_models,
     collection_forecast_days,
 )
+forecast_model = forecast.copy()
 st.subheader("Previsão de consumo — hoje + próximos 5 dias operacionais")
 st.caption(
     "Valores abaixo são a previsão operacional. Para HB 623 e IFCO 6424, a proteção contra picos "
@@ -386,10 +387,27 @@ if "forecast_editor_version" not in st.session_state:
     st.session_state["forecast_editor_version"] = 0
 if "collection_editor_version" not in st.session_state:
     st.session_state["collection_editor_version"] = 0
+if "forecast_overrides" not in st.session_state:
+    st.session_state["forecast_overrides"] = {}
+
+
+def aplicar_ajustes_previsao(previsao):
+    previsao = previsao.copy()
+    for (data, modelo), valor in st.session_state["forecast_overrides"].items():
+        previsao.loc[
+            (previsao["data"] == data) & (previsao["modelo"] == modelo),
+            "previsao",
+        ] = valor
+    return previsao
+
+
 if st.button("Restaurar previsões do modelo", key="restore_forecast"):
+    st.session_state["forecast_overrides"] = {}
     st.session_state["forecast_editor_version"] += 1
     st.session_state["collection_editor_version"] += 1
     st.rerun()
+forecast = aplicar_ajustes_previsao(forecast)
+collection_forecast = aplicar_ajustes_previsao(collection_forecast)
 forecast_table = (
     forecast.pivot(index="data", columns="modelo", values="previsao")
     .reindex(columns=selected_models, fill_value=0)
@@ -428,11 +446,38 @@ for _, row in edited_forecast.iterrows():
         coluna = MODEL_LABELS.get(str(model), f"Caixa {model}")
         valor = pd.to_numeric(row.get(coluna), errors="coerce")
         if pd.notna(valor):
+            valor_ajustado = max(0.0, float(valor))
+            chave = (pd.Timestamp(data_alvo), model)
+            valor_modelo = forecast_model.loc[
+                (forecast_model["data"] == data_alvo)
+                & (forecast_model["modelo"] == model),
+                "previsao",
+            ]
+            if not valor_modelo.empty and math.isclose(
+                valor_ajustado,
+                float(valor_modelo.iloc[0]),
+                rel_tol=0.0,
+                abs_tol=1e-9,
+            ):
+                st.session_state["forecast_overrides"].pop(chave, None)
+            else:
+                st.session_state["forecast_overrides"][chave] = valor_ajustado
             forecast.loc[
                 (forecast["data"] == data_alvo) & (forecast["modelo"] == model),
                 "previsao",
-            ] = max(0.0, float(valor))
-st.caption("Você pode editar diretamente os valores previstos. Use o botão acima para voltar ao modelo.")
+            ] = valor_ajustado
+            collection_forecast.loc[
+                (collection_forecast["data"] == data_alvo)
+                & (collection_forecast["modelo"] == model),
+                "previsao",
+            ] = valor_ajustado
+st.caption(
+    "Edite a previsão e clique em 'Recalcular estoque e coletas' para aplicar "
+    "os valores à evolução e à coleta. Use 'Restaurar previsões do modelo' para remover os ajustes."
+)
+if st.button("Recalcular estoque e coletas", key="recalculate_forecast"):
+    st.session_state["collection_editor_version"] += 1
+    st.rerun()
 
 st.subheader("Estoque atual e evolução projetada")
 st.caption(

@@ -16,7 +16,10 @@ import streamlit as st
 ROOT = Path(__file__).resolve().parent
 OUTPUT_DIR = ROOT / "dados_processados_completo"
 NORMALIZED = OUTPUT_DIR / "uso_caixas_normalizado.csv"
-RAW = OUTPUT_DIR / "dados_processados.csv"
+RAW_CANDIDATES = (
+    OUTPUT_DIR / "dados_processados.csv",
+    ROOT / "dados_processados" / "dados_processados.csv",
+)
 REQUIRED_MODELS = ["618", "623", "6416", "6420", "6424"]
 MODEL_LABELS = {
     "618": "HB 618",
@@ -120,14 +123,15 @@ def calcular_coletas(forecast, selected_models, stock):
 @st.cache_data
 def load_data():
     """Load the row-level normalized data and retain PACKING from the raw export."""
-    if RAW.exists():
-        available_columns = pd.read_csv(RAW, nrows=0).columns
+    raw_path = next((path for path in RAW_CANDIDATES if path.exists()), None)
+    if raw_path is not None:
+        available_columns = pd.read_csv(raw_path, nrows=0).columns
         required = ["Data", "Origem", "PACKING", "Qtd. Caixa", "Desc. Embal.", "Desc. Produto"]
         if not set(required).issubset(available_columns):
             required = []
         parts = []
         chunks = (
-            pd.read_csv(RAW, usecols=required, chunksize=50_000, low_memory=False)
+            pd.read_csv(raw_path, usecols=required, chunksize=50_000, low_memory=False)
             if required
             else []
         )
@@ -146,9 +150,12 @@ def load_data():
         if parts:
             return pd.concat(parts, ignore_index=True)
 
-    if not NORMALIZED.exists():
-        raise FileNotFoundError("Nenhum CSV de dados foi encontrado em dados_processados_completo.")
-    normalized = pd.read_csv(NORMALIZED)
+    normalized_path = NORMALIZED
+    if not normalized_path.exists():
+        normalized_path = ROOT / "dados_processados" / "uso_caixas_normalizado.csv"
+    if not normalized_path.exists():
+        raise FileNotFoundError("Nenhum CSV de dados foi encontrado nas pastas processadas.")
+    normalized = pd.read_csv(normalized_path)
     normalized["data"] = pd.to_datetime(normalized["data"], errors="coerce")
     normalized["modelo"] = normalized["modelo_caixa"].astype(str)
     normalized["quantidade"] = pd.to_numeric(normalized["quantidade_caixas"], errors="coerce").fillna(0)

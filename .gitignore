@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+
+# Dados brutos grandes
+*.xlsx
+*.xls
+dados_processados_completo/dados_processados.csv
+
+# Arquivos temporários e relatórios locais
+*.log
+*.tmp
+*.bak

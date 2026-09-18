@@ -1,0 +1,69 @@
+{
+  "treino": [
+    "2026-06-01",
+    "2026-08-27"
+  ],
+  "teste": [
+    "2026-08-28",
+    "2026-09-17"
+  ],
+  "metrica_selecao": "WAPE_pct",
+  "ranking_geral": [
+    {
+      "escopo": "geral",
+      "modelo_previsao": "mediana_sazonal",
+      "MAE": 276.9558496790239,
+      "RMSE": 3427.119241342597,
+      "WAPE_pct": 87.09190743707903,
+      "viés": -88685.86303495339,
+      "MAPE_pct_positivos": 170.36414962364046,
+      "observacoes": 486,
+      "cobertura_ajuste_pct": 100.0
+    },
+    {
+      "escopo": "geral",
+      "modelo_previsao": "media_movel_3",
+      "MAE": 457.0553008888944,
+      "RMSE": 4012.9123751421007,
+      "WAPE_pct": 143.72622208476395,
+      "viés": -1115.333333333319,
+      "MAPE_pct_positivos": 311.7879702643804,
+      "observacoes": 486,
+      "cobertura_ajuste_pct": 100.0
+    },
+    {
+      "escopo": "geral",
+      "modelo_previsao": "arima_111",
+      "MAE": 492.94290848489027,
+      "RMSE": 4945.591755210993,
+      "WAPE_pct": 155.01148723627088,
+      "viés": 24757.756140373316,
+      "MAPE_pct_positivos": 333.3684229362534,
+      "observacoes": 486,
+      "cobertura_ajuste_pct": 77.77777777777779
+    },
+    {
+      "escopo": "geral",
+      "modelo_previsao": "holt_winters",
+      "MAE": 641.5194777941329,
+      "RMSE": 6555.7901292294555,
+      "WAPE_pct": 201.7330742206073,
+      "viés": 96325.3806125262,
+      "MAPE_pct_positivos": 297.1413413248837,
+      "observacoes": 486,
+      "cobertura_ajuste_pct": 77.77777777777779
+    },
+    {
+      "escopo": "geral",
+      "modelo_previsao": "sarima_111_100_6",
+      "MAE": 645.2814515510818,
+      "RMSE": 5805.6434877449965,
+      "WAPE_pct": 202.91606952690117,
+      "viés": 93096.03212406846,
+      "MAPE_pct_positivos": 371.91501543346044,
+      "observacoes": 486,
+      "cobertura_ajuste_pct": 77.77777777777779
+    }
+  ],
+  "melhor_modelo": "mediana_sazonal"
+}

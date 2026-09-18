@@ -1,0 +1,63 @@
+RELATÓRIO DE CONVERSÃO
+Origem: vendas 01jun a 16 set.xlsx
+Planilha: new sheet
+Tamanho da origem: 18,151,261 bytes
+Tamanho do CSV: 39,359,651 bytes
+
+Linhas: origem=75,334; CSV=75,334
+Colunas: origem=48; CSV=48
+Cabeçalhos iguais: True
+Amostras (primeiras, últimas e aleatórias) equivalentes: True
+Linhas vazias preservadas: 0
+Linhas com erro Excel: 0
+Tempo de conversão: 18.1 s
+
+TIPOS DETECTADOS
+Status | inteiro | 4 | 100.0%
+Status Romanteio | texto | Confirmado | 100.0%
+Tipo Operação | texto | Venda | 100.0%
+Cód. Parceiro | inteiro | 44820 | 99.92%
+Cód. Emb | identificador/código (texto preservado) | CX | 97.67%
+Nro. Un. Ped. | inteiro | 5598112 | 100.0%
+Num. Pedido | inteiro | 35737 | 100.0%
+Dt. Entrega | data | 2026-06-02 00:00:00 | 100.0%
+Observação | texto | TROCA DE NOTA | 89.51%
+Data | data | 2026-06-01 00:00:00 | 100.0%
+Prioridade | vazio/nulo |  | 0.98%
+Cliente | texto | ATACADAO CHAPADA MT - NOVO | 99.95%
+Estado | texto | MT | 99.95%
+Cód. Emp. | inteiro | 76 | 100.0%
+Origem | texto | PH CORUMBA (PF) | 100.0%
+Cód. Prod. | inteiro | 33415 | 100.0%
+Desc. Produto | texto | TOMATE LV AA MISTO COR 1/2 PAPELAO 18KG | 100.0%
+Cor | texto | TOMATE LV AA MISTO | 100.0%
+Qtd. | inteiro | 150 | 100.0%
+Qtd. Entreg. | inteiro | 150 | 100.0%
+Unidade | texto | CX | 100.0%
+Cód. Embal. | identificador/código (texto preservado) | CX | 97.67%
+Desc. Embal. | texto | Caixa | 97.67%
+NROPRODPH | inteiro | 340900 | 100.0%
+SEQUENCIA | inteiro | 1 | 100.0%
+Qtd. Caixa | inteiro | 150 | 99.96%
+Num. Romaneio | inteiro | 5599254 | 97.94%
+Equip. Cod | inteiro | 23 | 96.49%
+Equipe | texto | Equipe 2 | 51.38%
+Ordem Carga | inteiro | 60083 | 98.34%
+Vendedor | texto | FELIPE CASTILHO | 100.0%
+Gramatura | decimal | 18 | 100.0%
+Peso | decimal | 2700 | 100.0%
+Categoria Produto | texto | TOMATE LV AA | 100.0%
+MP Produto | texto | TOMATE LV EXTRA AA Cx Plastica24Kg | 100.0%
+NomeParcMatriz | texto | ATACADAO GRUPO CARREFOUR BRASIL | 99.78%
+Grupo Produto | texto | TOMATE LV GRANEL | 100.0%
+Altura IFCO | vazio/nulo |  | 0.0%
+Nr Packing | inteiro | 11 | 100.0%
+CODCXVOL | inteiro | 910 | 77.99%
+CXVOL | texto | TOMATE LV AA MISTO COR 1/2 PAPELAO 18KG | 100.0%
+PACKING | texto | PH ANAPOLIS GRANEL | 100.0%
+NROEQUIPE | inteiro | 23 | 96.49%
+AD_CODGRUPAINEL | inteiro | 31 | 87.86%
+NOMEPAINEL | texto | LV AA 1 E 2 | 87.86%
+EQUIPEPROD | texto | AA COLOR. | 96.49%
+Tipo Venda | texto | Normal | 98.43%
+DH Confirm. Pedido | texto | 01/06/2026 11:20:56 | 99.76%

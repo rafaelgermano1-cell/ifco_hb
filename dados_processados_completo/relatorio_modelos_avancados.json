@@ -1,0 +1,69 @@
+{
+  "treino": [
+    "2023-01-02",
+    "2026-08-27"
+  ],
+  "teste": [
+    "2026-08-28",
+    "2026-09-17"
+  ],
+  "metrica_selecao": "WAPE_pct",
+  "ranking_geral": [
+    {
+      "escopo": "geral",
+      "modelo_previsao": "mediana_sazonal",
+      "MAE": 139.31957328421737,
+      "RMSE": 2451.848428258032,
+      "WAPE_pct": 89.19941378373453,
+      "viés": -119441.60563351845,
+      "MAPE_pct_positivos": 159.2975866581153,
+      "observacoes": 990,
+      "cobertura_ajuste_pct": 100.0
+    },
+    {
+      "escopo": "geral",
+      "modelo_previsao": "arima_111",
+      "MAE": 159.82700175266288,
+      "RMSE": 2446.3642480015073,
+      "WAPE_pct": 102.32930324919727,
+      "viés": -57499.639071882775,
+      "MAPE_pct_positivos": 281.9017729924837,
+      "observacoes": 990,
+      "cobertura_ajuste_pct": 79.1919191919192
+    },
+    {
+      "escopo": "geral",
+      "modelo_previsao": "holt_winters",
+      "MAE": 161.06528011596902,
+      "RMSE": 2483.9994858108835,
+      "WAPE_pct": 103.1221114778204,
+      "viés": -48993.755819511774,
+      "MAPE_pct_positivos": 220.02446058747807,
+      "observacoes": 990,
+      "cobertura_ajuste_pct": 79.1919191919192
+    },
+    {
+      "escopo": "geral",
+      "modelo_previsao": "media_movel_3",
+      "MAE": 224.45066854384802,
+      "RMSE": 2811.6557355218997,
+      "WAPE_pct": 143.7046323464916,
+      "viés": -1192.3333333333333,
+      "MAPE_pct_positivos": 311.8220380901885,
+      "observacoes": 990,
+      "cobertura_ajuste_pct": 100.0
+    },
+    {
+      "escopo": "geral",
+      "modelo_previsao": "sarima_111_100_6",
+      "MAE": 229.04740445335534,
+      "RMSE": 3035.791071163337,
+      "WAPE_pct": 146.64769439284328,
+      "viés": 11686.528657445426,
+      "MAPE_pct_positivos": 306.60805686066647,
+      "observacoes": 990,
+      "cobertura_ajuste_pct": 79.1919191919192
+    }
+  ],
+  "melhor_modelo": "mediana_sazonal"
+}

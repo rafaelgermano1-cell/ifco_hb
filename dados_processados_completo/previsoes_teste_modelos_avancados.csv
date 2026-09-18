@@ -1,0 +1,991 @@
+data,origem,familia_caixa,modelo_caixa,dia_semana,real,mediana_sazonal,media_movel_3,holt_winters,arima_111,sarima_111_100_6,metodo_mediana_sazonal,metodo_media_movel_3,metodo_holt_winters,metodo_arima_111,metodo_sarima_111_100_6
+2026-08-28,AGROINDUSTRIA TREBESCHI,HB,618,sexta-feira,35.0,0.0,90.66666666666667,84.84493894615673,92.58870484862243,98.61998386353396,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,AGROINDUSTRIA TREBESCHI,HB,618,sábado,19.0,0.0,71.0,82.80039666374806,86.57629726812806,83.92421145424586,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,AGROINDUSTRIA TREBESCHI,HB,618,segunda-feira,85.0,0.0,46.0,77.71335300898926,70.98722518349471,72.8606698315977,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,AGROINDUSTRIA TREBESCHI,HB,618,terça-feira,166.0,0.0,46.333333333333336,84.26209511342171,62.71950501994666,63.73704871498383,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,AGROINDUSTRIA TREBESCHI,HB,618,quarta-feira,12.0,0.0,90.0,89.36222461173246,77.17206346242081,76.87218434688585,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,AGROINDUSTRIA TREBESCHI,HB,618,quinta-feira,12.0,0.0,87.66666666666667,75.63153784033996,86.4857890234585,87.3080982911201,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,AGROINDUSTRIA TREBESCHI,HB,618,sexta-feira,47.0,0.0,63.333333333333336,54.55800841374039,68.67288878752122,73.34888509220231,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,AGROINDUSTRIA TREBESCHI,HB,618,sábado,94.0,0.0,23.666666666666668,65.61874549168131,58.08884686264579,63.378911699855685,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,AGROINDUSTRIA TREBESCHI,HB,618,segunda-feira,0.0,0.0,51.0,74.72768946689138,60.01303421120445,58.386877022632774,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,AGROINDUSTRIA TREBESCHI,HB,618,terça-feira,94.0,0.0,47.0,72.73271399550283,60.03991146743358,50.858056429784554,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,AGROINDUSTRIA TREBESCHI,HB,618,quarta-feira,0.0,0.0,62.666666666666664,65.855086389876,53.258242867062684,58.30448949789849,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,AGROINDUSTRIA TREBESCHI,HB,618,quinta-feira,67.0,0.0,31.333333333333332,53.324724266967095,55.70013530934896,61.52914578996119,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,AGROINDUSTRIA TREBESCHI,HB,618,sexta-feira,52.0,0.0,53.666666666666664,43.78507532276536,47.033246297636836,48.54570327286786,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,AGROINDUSTRIA TREBESCHI,HB,618,sábado,130.0,0.0,39.666666666666664,57.58771494929631,50.91205481826704,47.87314241946798,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,AGROINDUSTRIA TREBESCHI,HB,618,segunda-feira,0.0,0.0,83.0,70.06460455234738,57.029014004305324,61.43836788037029,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,AGROINDUSTRIA TREBESCHI,HB,618,terça-feira,45.0,0.0,60.666666666666664,70.44255584120786,65.44484557380333,63.265072244771666,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,AGROINDUSTRIA TREBESCHI,HB,618,quarta-feira,0.0,0.0,58.333333333333336,56.156662258757905,52.95792126729332,56.62850058645702,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,AGROINDUSTRIA TREBESCHI,HB,618,quinta-feira,44.0,0.0,15.0,46.8308463111576,47.89426211302083,47.00443649087063,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,AGROINDUSTRIA TREBESCHI,HB,623,sexta-feira,0.0,0.0,2.0,1.6803750330800429,2.163874082502643,1.644526687748026,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,AGROINDUSTRIA TREBESCHI,HB,623,sábado,0.0,0.0,2.0,4.382660548924232,2.1085639752604908,5.101321256619079,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,AGROINDUSTRIA TREBESCHI,HB,623,segunda-feira,0.0,0.0,0.0,3.6381036458254243,2.0569082207944023,1.4946577129734102,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,AGROINDUSTRIA TREBESCHI,HB,623,terça-feira,0.0,0.0,0.0,2.483750872027745,2.0079524467222973,1.489018165196722,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,AGROINDUSTRIA TREBESCHI,HB,623,quarta-feira,0.0,0.0,0.0,1.7832627048396894,1.9618802369063748,2.508356041024874,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,AGROINDUSTRIA TREBESCHI,HB,623,quinta-feira,0.0,0.0,0.0,1.5489886470211747,1.9182890256082394,1.3996271869733101,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,AGROINDUSTRIA TREBESCHI,HB,623,sexta-feira,0.0,0.0,0.0,1.4701305097527522,1.8769303871921155,1.3824507323342974,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,AGROINDUSTRIA TREBESCHI,HB,623,sábado,8.0,0.0,0.0,3.6880144436915456,1.8369935946228861,1.3560172223401825,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,AGROINDUSTRIA TREBESCHI,HB,623,segunda-feira,0.0,0.0,2.6666666666666665,3.6325764265049463,2.0688034069118983,1.5677289768213267,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,AGROINDUSTRIA TREBESCHI,HB,623,terça-feira,0.0,0.0,2.6666666666666665,2.19162156813987,1.9337807134496474,1.461833629580189,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,AGROINDUSTRIA TREBESCHI,HB,623,quarta-feira,0.0,0.0,2.6666666666666665,1.4068632987060412,1.8930793618139843,1.4330894317022775,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,AGROINDUSTRIA TREBESCHI,HB,623,quinta-feira,0.0,0.0,0.0,1.147174627198848,1.8543815724240662,1.4062724759024652,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,AGROINDUSTRIA TREBESCHI,HB,623,sexta-feira,0.0,0.0,0.0,1.1001167524375446,1.8171541175259358,1.3800163419044795,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,AGROINDUSTRIA TREBESCHI,HB,623,sábado,0.0,0.0,0.0,4.152180602682877,1.7815365805565873,2.758774773816975,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,AGROINDUSTRIA TREBESCHI,HB,623,segunda-feira,0.0,0.0,0.0,3.205420218743066,1.7476873266236173,1.2982056132637207,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,AGROINDUSTRIA TREBESCHI,HB,623,terça-feira,22.0,0.0,0.0,1.9510219927494923,1.715160143113103,1.2904375291325774,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,AGROINDUSTRIA TREBESCHI,HB,623,quarta-feira,20.0,0.0,7.333333333333333,1.9118310858282417,2.315593353863308,1.8377415932571992,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,AGROINDUSTRIA TREBESCHI,HB,623,quinta-feira,0.0,0.0,14.0,2.905048697725878,3.3720465509093027,2.997706666850192,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,AGROINDUSTRIA TREBESCHI,IFCO,6416,sexta-feira,0.0,0.0,3.3333333333333335,7.664303458231303,6.051825085306085,6.11053160035995,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,AGROINDUSTRIA TREBESCHI,IFCO,6416,sábado,2.0,0.0,3.3333333333333335,5.427339272995066,5.966663449690583,6.021072028370793,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,AGROINDUSTRIA TREBESCHI,IFCO,6416,segunda-feira,0.0,0.0,0.6666666666666666,2.2414546525153005,6.04384494466024,6.093697539812327,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,AGROINDUSTRIA TREBESCHI,IFCO,6416,terça-feira,0.0,0.0,0.6666666666666666,2.2205777641889863,5.82784444917481,5.875990667248709,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,AGROINDUSTRIA TREBESCHI,IFCO,6416,quarta-feira,8.0,0.0,0.6666666666666666,10.249481711948366,5.745940619989253,5.724829492810729,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,AGROINDUSTRIA TREBESCHI,IFCO,6416,quinta-feira,0.0,0.0,2.6666666666666665,10.034208199913767,6.313494891009798,6.354254486486047,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,AGROINDUSTRIA TREBESCHI,IFCO,6416,sexta-feira,0.0,0.0,2.6666666666666665,7.157288908503652,5.697337506539205,5.738893420723403,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,AGROINDUSTRIA TREBESCHI,IFCO,6416,sábado,7.0,0.0,2.6666666666666665,5.099600227410963,5.616185838078707,5.642914140424073,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,AGROINDUSTRIA TREBESCHI,IFCO,6416,segunda-feira,0.0,0.0,2.3333333333333335,2.0616479245350945,6.105618549860708,6.13762554743819,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,AGROINDUSTRIA TREBESCHI,IFCO,6416,terça-feira,0.0,0.0,2.3333333333333335,2.0404974963147193,5.556516847623468,5.592114177724591,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,AGROINDUSTRIA TREBESCHI,IFCO,6416,quarta-feira,5.0,0.0,2.3333333333333335,9.853177423123311,5.476006747709957,5.46652578234072,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,AGROINDUSTRIA TREBESCHI,IFCO,6416,quinta-feira,0.0,0.0,1.6666666666666667,9.398223867844868,5.804821780217651,5.836017554758176,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,AGROINDUSTRIA TREBESCHI,IFCO,6416,sexta-feira,80.0,0.0,1.6666666666666667,6.689628447436843,5.389685512332739,5.419977342617217,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,AGROINDUSTRIA TREBESCHI,IFCO,6416,sábado,0.0,0.0,28.333333333333332,5.82362455383809,11.5541061763755,11.465740147294682,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,AGROINDUSTRIA TREBESCHI,IFCO,6416,segunda-feira,0.0,0.0,26.666666666666668,2.5594867927877747,6.401871167503302,6.464642279489499,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,AGROINDUSTRIA TREBESCHI,IFCO,6416,terça-feira,0.0,0.0,26.666666666666668,2.53430711950885,6.3108303433568125,6.368393617791744,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,AGROINDUSTRIA TREBESCHI,IFCO,6416,quarta-feira,4.0,0.0,0.0,10.39033428224094,6.223845803868556,6.238286391146567,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,AGROINDUSTRIA TREBESCHI,IFCO,6416,quinta-feira,0.0,0.0,1.3333333333333333,9.81132978707666,6.423653657639738,6.47505886029324,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,AGROINDUSTRIA TREBESCHI,IFCO,6424,sexta-feira,0.0,0.0,12.0,30.55179216137164,28.698711007098705,28.651178437112183,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,AGROINDUSTRIA TREBESCHI,IFCO,6424,sábado,20.0,0.0,5.333333333333333,31.407560671513068,27.389988318725152,27.702876206813634,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,AGROINDUSTRIA TREBESCHI,IFCO,6424,segunda-feira,0.0,0.0,6.666666666666667,20.76154522523405,24.72416532881195,26.704275451934627,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,AGROINDUSTRIA TREBESCHI,IFCO,6424,terça-feira,0.0,0.0,6.666666666666667,22.550131992666007,25.94001852246821,26.384614571654645,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,AGROINDUSTRIA TREBESCHI,IFCO,6424,quarta-feira,0.0,0.0,6.666666666666667,29.06321765058484,24.745104209904845,24.94808587045203,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,AGROINDUSTRIA TREBESCHI,IFCO,6424,quinta-feira,0.0,0.0,0.0,28.739992741245857,23.60558754816013,23.568767801761087,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,AGROINDUSTRIA TREBESCHI,IFCO,6424,sexta-feira,0.0,0.0,0.0,25.086785744827893,22.502461937204544,22.462424173220757,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,AGROINDUSTRIA TREBESCHI,IFCO,6424,sábado,20.0,0.0,0.0,26.22979764827552,21.451825513772825,21.7349311619066,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,AGROINDUSTRIA TREBESCHI,IFCO,6424,segunda-feira,0.0,0.0,6.666666666666667,15.72170374411708,19.035878798970153,19.07526051443201,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,AGROINDUSTRIA TREBESCHI,IFCO,6424,terça-feira,0.0,0.0,6.666666666666667,17.675034897092388,20.50549260462236,20.498018079909308,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,AGROINDUSTRIA TREBESCHI,IFCO,6424,quarta-feira,34.0,0.0,6.666666666666667,24.260963112732306,19.542001792068973,19.556533172183677,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,AGROINDUSTRIA TREBESCHI,IFCO,6424,quinta-feira,0.0,0.0,11.333333333333334,25.4779580583366,16.25404543569165,16.279720756947473,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,AGROINDUSTRIA TREBESCHI,IFCO,6424,sexta-feira,160.0,0.0,11.333333333333334,21.958489230192942,19.496139342926543,19.50935104973583,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,AGROINDUSTRIA TREBESCHI,IFCO,6424,sábado,20.0,0.0,64.66666666666667,29.374394823651958,7.255603546679161,7.573622462261312,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,AGROINDUSTRIA TREBESCHI,IFCO,6424,segunda-feira,0.0,0.0,60.0,18.724082747131856,24.32132939361335,24.22207508085956,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,AGROINDUSTRIA TREBESCHI,IFCO,6424,terça-feira,0.0,0.0,60.0,20.618445939949403,25.591018935071624,25.46747804165131,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,AGROINDUSTRIA TREBESCHI,IFCO,6424,quarta-feira,43.0,0.0,6.666666666666667,27.337906388516995,24.456455084068278,24.88172730679414,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,AGROINDUSTRIA TREBESCHI,IFCO,6424,quinta-feira,0.0,0.0,14.333333333333334,28.51074313061293,20.28332956155884,20.25239463954217,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,F. BICAME,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,F. BICAME,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,F. BICAME,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,F. BICAME,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,F. BICAME,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,F. BICAME,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,F. BICAME,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,F. BICAME,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,F. BICAME,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-08,F. BICAME,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-09,F. BICAME,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-10,F. BICAME,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-11,F. BICAME,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-12,F. BICAME,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-14,F. BICAME,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-15,F. BICAME,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-16,F. BICAME,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-17,F. BICAME,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-28,F. BICAME,IFCO,6424,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,F. BICAME,IFCO,6424,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,F. BICAME,IFCO,6424,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,F. BICAME,IFCO,6424,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,F. BICAME,IFCO,6424,quarta-feira,403.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,F. BICAME,IFCO,6424,quinta-feira,1537.0,0.0,134.33333333333334,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,F. BICAME,IFCO,6424,sexta-feira,720.0,0.0,646.6666666666666,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,F. BICAME,IFCO,6424,sábado,586.0,0.0,886.6666666666666,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,F. BICAME,IFCO,6424,segunda-feira,0.0,0.0,947.6666666666666,566.7315040313898,463.50491393268464,440.26721090811617,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,F. BICAME,IFCO,6424,terça-feira,0.0,0.0,435.3333333333333,369.00317181044943,29.981821869585808,28.666393505483555,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,F. BICAME,IFCO,6424,quarta-feira,440.0,0.0,195.33333333333334,282.8791705459044,28.650710223021825,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,F. BICAME,IFCO,6424,quinta-feira,0.0,0.0,146.66666666666666,319.5433787013034,271.94025090245657,121.33041570045054,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,F. BICAME,IFCO,6424,sexta-feira,0.0,0.0,146.66666666666666,261.8227581086298,44.10375986843549,109.02777824713607,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,F. BICAME,IFCO,6424,sábado,453.0,0.0,146.66666666666666,221.19698619302395,40.300133794945566,71.84270815779028,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,F. BICAME,IFCO,6424,segunda-feira,680.0,0.0,151.0,244.9503824922322,254.94951535418704,329.3903642484571,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,F. BICAME,IFCO,6424,terça-feira,0.0,0.0,377.6666666666667,313.0020733464993,365.045612693013,428.85983079723826,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,F. BICAME,IFCO,6424,quarta-feira,0.0,0.0,377.6666666666667,265.72272402693164,155.6875340878845,128.8757144946963,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,F. BICAME,IFCO,6424,quinta-feira,466.0,0.0,226.66666666666666,232.8671237546098,129.5648104050385,188.67886247636892,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,F. TAQUARIVAI,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,F. TAQUARIVAI,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,F. TAQUARIVAI,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,F. TAQUARIVAI,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,F. TAQUARIVAI,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,F. TAQUARIVAI,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,F. TAQUARIVAI,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,F. TAQUARIVAI,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,F. TAQUARIVAI,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,F. TAQUARIVAI,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,F. TAQUARIVAI,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,F. TAQUARIVAI,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,F. TAQUARIVAI,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,F. TAQUARIVAI,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,F. TAQUARIVAI,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,F. TAQUARIVAI,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,F. TAQUARIVAI,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,F. TAQUARIVAI,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,F. TAQUARIVAI,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,F. TAQUARIVAI,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,F. TAQUARIVAI,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,F. TAQUARIVAI,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,F. TAQUARIVAI,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,F. TAQUARIVAI,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,F. TAQUARIVAI,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,F. TAQUARIVAI,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,F. TAQUARIVAI,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,F. TAQUARIVAI,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,F. TAQUARIVAI,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,F. TAQUARIVAI,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,F. TAQUARIVAI,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,F. TAQUARIVAI,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,F. TAQUARIVAI,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,F. TAQUARIVAI,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,F. TAQUARIVAI,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,F. TAQUARIVAI,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,F. TAQUARIVAI,IFCO,6424,sexta-feira,0.0,0.0,0.0,7.557517617487173,0.0,0.04046516023905572,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,F. TAQUARIVAI,IFCO,6424,sábado,0.0,0.0,0.0,0.0,0.0,0.033316462674899724,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,F. TAQUARIVAI,IFCO,6424,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.04117462746263861,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,F. TAQUARIVAI,IFCO,6424,terça-feira,0.0,0.0,0.0,5.862405001848564,0.0,0.04015174654387142,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,F. TAQUARIVAI,IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.038514273261853,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,F. TAQUARIVAI,IFCO,6424,quinta-feira,0.0,0.0,0.0,26.322183599423894,0.0,0.039917840004752396,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,F. TAQUARIVAI,IFCO,6424,sexta-feira,0.0,0.0,0.0,7.488730082409563,0.0,0.024659025632356894,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,F. TAQUARIVAI,IFCO,6424,sábado,0.0,0.0,0.0,0.0,0.0,0.041351718528474905,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,F. TAQUARIVAI,IFCO,6424,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.04441975653289659,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,F. TAQUARIVAI,IFCO,6424,terça-feira,0.0,0.0,0.0,5.654439046238165,0.0,0.04012828256495289,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,F. TAQUARIVAI,IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.03975370938910653,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,F. TAQUARIVAI,IFCO,6424,quinta-feira,0.0,0.0,0.0,25.899099473549263,0.0,0.04223500677111122,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,F. TAQUARIVAI,IFCO,6424,sexta-feira,0.0,0.0,0.0,7.419278674294419,0.0,0.04054904780093123,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,F. TAQUARIVAI,IFCO,6424,sábado,0.0,0.0,0.0,0.0,0.0,0.04104058259897463,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,F. TAQUARIVAI,IFCO,6424,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0404362625408487,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,F. TAQUARIVAI,IFCO,6424,terça-feira,0.0,0.0,0.0,5.4517733414753105,0.0,0.04219154206327558,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,F. TAQUARIVAI,IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.05788167048180953,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,F. TAQUARIVAI,IFCO,6424,quinta-feira,0.0,0.0,0.0,25.47941557907648,0.0,0.04039235750582115,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH ALHO/CEBOLA,HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,PH ALHO/CEBOLA,HB,618,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,PH ALHO/CEBOLA,HB,618,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,PH ALHO/CEBOLA,HB,618,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,PH ALHO/CEBOLA,HB,618,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,PH ALHO/CEBOLA,HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,PH ALHO/CEBOLA,HB,618,sexta-feira,3.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,PH ALHO/CEBOLA,HB,618,sábado,0.0,0.0,1.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,PH ALHO/CEBOLA,HB,618,segunda-feira,0.0,0.0,1.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-08,PH ALHO/CEBOLA,HB,618,terça-feira,0.0,0.0,1.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-09,PH ALHO/CEBOLA,HB,618,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-10,PH ALHO/CEBOLA,HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-11,PH ALHO/CEBOLA,HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-12,PH ALHO/CEBOLA,HB,618,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-14,PH ALHO/CEBOLA,HB,618,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-15,PH ALHO/CEBOLA,HB,618,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-16,PH ALHO/CEBOLA,HB,618,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-17,PH ALHO/CEBOLA,HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-28,PH ALHO/CEBOLA,HB,623,sexta-feira,0.0,0.0,0.0,7.275780555203216,0.612800696027757,1.0894231951599975,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH ALHO/CEBOLA,HB,623,sábado,0.0,0.0,0.0,0.0,0.5948945314131718,1.068933938421528,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH ALHO/CEBOLA,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.5777474112423968,1.048637093560629,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH ALHO/CEBOLA,HB,623,terça-feira,0.0,0.0,0.0,22.25642878512128,0.5608781486710137,1.0298309609530416,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH ALHO/CEBOLA,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.5444325278900923,1.0117163083839213,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH ALHO/CEBOLA,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.5285748932073115,0.9923359954299226,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH ALHO/CEBOLA,HB,623,sexta-feira,0.0,0.0,0.0,7.2390603439144146,0.5133515569838458,0.9736860908253098,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH ALHO/CEBOLA,HB,623,sábado,0.0,0.0,0.0,0.0,0.49833474324638843,0.9556696725860192,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH ALHO/CEBOLA,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.4845571694578891,0.9381897695540832,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH ALHO/CEBOLA,HB,623,terça-feira,0.0,0.0,0.0,20.967622668075357,0.46953871111411016,0.9206391775498339,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH ALHO/CEBOLA,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.4559095265860579,0.9035441849895747,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH ALHO/CEBOLA,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.44210522059078067,0.8867397905045055,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH ALHO/CEBOLA,HB,623,sexta-feira,0.0,0.0,0.0,7.16911547935404,0.42904331051209355,0.8702398350631378,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH ALHO/CEBOLA,HB,623,sábado,0.0,0.0,0.0,0.0,0.41587892239678836,0.8539638829292696,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH ALHO/CEBOLA,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.4040964759477256,0.8379231788487209,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH ALHO/CEBOLA,HB,623,terça-feira,0.0,0.0,0.0,20.747068761253473,0.3919243170033331,0.8224405413267272,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH ALHO/CEBOLA,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.38155443387779175,0.807052257210792,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH ALHO/CEBOLA,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.3711824315418153,0.7919424120711028,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH ALHO/CEBOLA,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,PH ALHO/CEBOLA,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,PH ALHO/CEBOLA,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,PH ALHO/CEBOLA,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,PH ALHO/CEBOLA,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,PH ALHO/CEBOLA,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,PH ALHO/CEBOLA,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,PH ALHO/CEBOLA,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,PH ALHO/CEBOLA,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-08,PH ALHO/CEBOLA,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-09,PH ALHO/CEBOLA,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-10,PH ALHO/CEBOLA,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-11,PH ALHO/CEBOLA,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-12,PH ALHO/CEBOLA,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-14,PH ALHO/CEBOLA,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-15,PH ALHO/CEBOLA,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-16,PH ALHO/CEBOLA,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-17,PH ALHO/CEBOLA,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-28,PH ALHO/CEBOLA,IFCO,6424,sexta-feira,0.0,0.0,0.0,47.03688880710268,29.72105479319838,35.72337582295247,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH ALHO/CEBOLA,IFCO,6424,sábado,0.0,0.0,0.0,33.22005063822688,27.22387255822032,26.328644366958045,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH ALHO/CEBOLA,IFCO,6424,segunda-feira,0.0,0.0,0.0,19.766667887525628,24.939929010682192,24.58115513750236,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH ALHO/CEBOLA,IFCO,6424,terça-feira,0.0,0.0,0.0,34.907623380610545,22.847756102100487,22.64300142968671,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH ALHO/CEBOLA,IFCO,6424,quarta-feira,0.0,0.0,0.0,7.951865018739243,20.92835762722174,20.857351624036003,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH ALHO/CEBOLA,IFCO,6424,quinta-feira,0.0,0.0,0.0,4.138227794739906,19.167391996533983,19.207795959722276,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH ALHO/CEBOLA,IFCO,6424,sexta-feira,0.0,0.0,0.0,30.504044359265457,17.551043987897806,17.68846421271627,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH ALHO/CEBOLA,IFCO,6424,sábado,0.0,0.0,0.0,18.518848547230967,16.069305174886296,16.293310226019074,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH ALHO/CEBOLA,IFCO,6424,segunda-feira,0.0,0.0,0.0,6.778021633753253,14.707577531835916,14.990968737535637,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH ALHO/CEBOLA,IFCO,6424,terça-feira,0.0,0.0,0.0,23.29642842274972,13.462644556268948,13.796147138865111,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH ALHO/CEBOLA,IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,12.318570406058976,12.68949881937794,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH ALHO/CEBOLA,IFCO,6424,quinta-feira,0.0,0.0,0.0,0.0,11.273413175755637,11.6762883230083,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH ALHO/CEBOLA,IFCO,6424,sexta-feira,0.0,0.0,0.0,22.346246372961296,10.314399946393388,10.743820256093358,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH ALHO/CEBOLA,IFCO,6424,sábado,0.0,0.0,0.0,11.302412461495337,9.43662389233745,9.880543900005328,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH ALHO/CEBOLA,IFCO,6424,segunda-feira,0.0,0.0,0.0,0.4270327183862692,8.633138743449692,9.087644961065028,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH ALHO/CEBOLA,IFCO,6424,terça-feira,0.0,0.0,0.0,17.574205560496676,7.897871079327744,8.357291074467435,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH ALHO/CEBOLA,IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,7.2233570729832435,7.685164361391341,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH ALHO/CEBOLA,IFCO,6424,quinta-feira,0.0,0.0,0.0,0.0,6.606798682361284,7.067812099201284,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH CASCAVEL,HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH CASCAVEL,HB,618,sábado,0.0,0.0,0.0,0.04410149465322835,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH CASCAVEL,HB,618,segunda-feira,0.0,0.0,0.0,0.8706378918630524,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH CASCAVEL,HB,618,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH CASCAVEL,HB,618,quarta-feira,0.0,0.0,0.0,1.468349974014442,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH CASCAVEL,HB,618,quinta-feira,0.0,0.0,0.0,0.1619948546134656,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH CASCAVEL,HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH CASCAVEL,HB,618,sábado,0.0,0.0,0.0,0.04382011938502847,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH CASCAVEL,HB,618,segunda-feira,0.0,0.0,0.0,0.8661350214230327,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH CASCAVEL,HB,618,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH CASCAVEL,HB,618,quarta-feira,0.0,0.0,0.0,1.4606462170776287,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH CASCAVEL,HB,618,quinta-feira,0.0,0.0,0.0,0.16107841072579482,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH CASCAVEL,HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH CASCAVEL,HB,618,sábado,0.0,0.0,0.0,0.04358739721770555,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH CASCAVEL,HB,618,segunda-feira,0.0,0.0,0.0,0.8616025265607601,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH CASCAVEL,HB,618,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH CASCAVEL,HB,618,quarta-feira,0.0,0.0,0.0,1.4530806099083646,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH CASCAVEL,HB,618,quinta-feira,0.0,0.0,0.0,0.1602762225928079,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH CASCAVEL,HB,623,sexta-feira,0.0,0.0,0.0,51.875592659412085,8.226105409784193,8.390520238467875,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH CASCAVEL,HB,623,sábado,0.0,0.0,0.0,0.3918021150791553,7.348680789231578,7.525174223607685,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH CASCAVEL,HB,623,segunda-feira,0.0,0.0,0.0,0.0,6.564973104501917,6.750278650689842,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH CASCAVEL,HB,623,terça-feira,0.0,0.0,0.0,60.6924571894543,5.864004523288184,6.054788852109999,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH CASCAVEL,HB,623,quarta-feira,0.0,0.0,0.0,0.0,5.236312099213133,5.431061970796559,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH CASCAVEL,HB,623,quinta-feira,0.0,0.0,0.0,0.0,4.684828574931608,4.872142193135225,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH CASCAVEL,HB,623,sexta-feira,0.0,0.0,0.0,46.62150623315517,4.1862427980630255,4.371610241421734,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH CASCAVEL,HB,623,sábado,0.0,0.0,0.0,0.0,3.740474434794839,3.9216509466161,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH CASCAVEL,HB,623,segunda-feira,0.0,0.0,0.0,0.0,3.3422410401561957,3.5126373525214394,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH CASCAVEL,HB,623,terça-feira,0.0,0.0,0.0,56.08833813036547,2.9857721727680597,3.153938189123947,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH CASCAVEL,HB,623,quarta-feira,0.0,0.0,0.0,0.0,2.667415900276046,2.831106068547812,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH CASCAVEL,HB,623,quinta-feira,0.0,0.0,0.0,0.0,2.383410770729591,2.5397182917045247,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH CASCAVEL,HB,623,sexta-feira,0.0,0.0,0.0,43.36386707901439,2.1298661565895864,2.27808291910703,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH CASCAVEL,HB,623,sábado,0.0,0.0,0.0,0.0,1.8486509545001235,2.04268797023669,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH CASCAVEL,HB,623,segunda-feira,0.0,0.0,0.0,0.0,1.6516583363272508,1.8312589068507932,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH CASCAVEL,HB,623,terça-feira,0.0,0.0,0.0,53.02672416687624,1.4759546019578496,1.6414099679627485,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH CASCAVEL,HB,623,quarta-feira,0.0,0.0,0.0,0.0,1.3191371146744708,1.47544036148515,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH CASCAVEL,HB,623,quinta-feira,0.0,0.0,0.0,0.0,1.1791302605621325,1.3234679160844014,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH CASCAVEL,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,PH CASCAVEL,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,PH CASCAVEL,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,PH CASCAVEL,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,PH CASCAVEL,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,PH CASCAVEL,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,PH CASCAVEL,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,PH CASCAVEL,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,PH CASCAVEL,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-08,PH CASCAVEL,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-09,PH CASCAVEL,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-10,PH CASCAVEL,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-11,PH CASCAVEL,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-12,PH CASCAVEL,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-14,PH CASCAVEL,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-15,PH CASCAVEL,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-16,PH CASCAVEL,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-17,PH CASCAVEL,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-28,PH CASCAVEL,IFCO,6424,sexta-feira,0.0,0.0,23.333333333333332,175.75676535579606,114.12574626238323,114.19235855668481,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH CASCAVEL,IFCO,6424,sábado,220.0,0.0,0.0,226.0038140008619,102.82233223204622,101.51090912077188,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH CASCAVEL,IFCO,6424,segunda-feira,0.0,0.0,73.33333333333333,117.5242563788847,127.54723399062145,127.55914355694469,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH CASCAVEL,IFCO,6424,terça-feira,230.0,0.0,73.33333333333333,123.06877597302794,101.98369829819777,101.64192420107051,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH CASCAVEL,IFCO,6424,quarta-feira,0.0,0.0,150.0,0.0,128.35502450290772,128.2268002184459,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH CASCAVEL,IFCO,6424,quinta-feira,0.0,0.0,76.66666666666667,0.0,102.15522110845252,102.27459428047466,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH CASCAVEL,IFCO,6424,sexta-feira,0.0,0.0,76.66666666666667,156.06800443450078,92.0874111111204,92.10043766584465,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH CASCAVEL,IFCO,6424,sábado,0.0,0.0,0.0,210.3380856626473,82.97731366021061,81.68242705363915,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH CASCAVEL,IFCO,6424,segunda-feira,0.0,0.0,0.0,78.20399541334159,74.80874871537942,74.89275309713717,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH CASCAVEL,IFCO,6424,terça-feira,0.0,0.0,0.0,90.45457328221339,67.4266276818678,66.02987198167656,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH CASCAVEL,IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,60.75703907541143,60.8414189679282,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH CASCAVEL,IFCO,6424,quinta-feira,0.0,0.0,0.0,0.0,54.77726068256652,54.70258405628321,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH CASCAVEL,IFCO,6424,sexta-feira,0.0,0.0,0.0,109.91700792547844,49.35076440868958,49.24757653435278,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH CASCAVEL,IFCO,6424,sábado,0.0,0.0,0.0,168.16416382578325,44.4922280019193,44.34267673613469,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH CASCAVEL,IFCO,6424,segunda-feira,0.0,0.0,0.0,42.81672581201883,40.08339896370012,39.91969833508024,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH CASCAVEL,IFCO,6424,terça-feira,0.0,0.0,0.0,58.660323051810536,36.11832536712837,35.9076627063656,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH CASCAVEL,IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,32.549611032238474,32.36353276927002,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH CASCAVEL,IFCO,6424,quinta-feira,0.0,0.0,0.0,0.0,29.3334484213928,29.097911578386018,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH CORUMBA (PF),HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.005535259598777841,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH CORUMBA (PF),HB,618,sábado,0.0,0.0,0.0,0.5551254515281732,0.0,0.005554422041497548,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH CORUMBA (PF),HB,618,segunda-feira,0.0,0.0,0.0,0.3444485679933078,0.0,0.005575473679087763,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH CORUMBA (PF),HB,618,terça-feira,0.0,0.0,0.0,0.0,0.0,0.005590654857569546,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH CORUMBA (PF),HB,618,quarta-feira,0.0,0.0,0.0,7.254841912265877,0.0,0.005604946949552608,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH CORUMBA (PF),HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.005619202302992493,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH CORUMBA (PF),HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.005623423946750535,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH CORUMBA (PF),HB,618,sábado,0.0,0.0,0.0,0.5521194542741303,0.0,0.005624821141582184,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH CORUMBA (PF),HB,618,segunda-feira,0.0,0.0,0.0,0.34248946007413494,0.0,0.005620500970036383,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH CORUMBA (PF),HB,618,terça-feira,0.0,0.0,0.0,0.0,0.0,0.005606500761459832,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH CORUMBA (PF),HB,618,quarta-feira,0.0,0.0,0.0,7.217292021822399,0.0,0.00558901588057041,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH CORUMBA (PF),HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0055619543366519,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH CORUMBA (PF),HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.005526532068720471,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH CORUMBA (PF),HB,618,sábado,0.0,0.0,0.0,0.5493169107510363,0.0,0.005478987131159422,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH CORUMBA (PF),HB,618,segunda-feira,0.0,0.0,0.0,0.34073232511239765,0.0,0.005425548549741172,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH CORUMBA (PF),HB,618,terça-feira,0.0,0.0,0.0,0.0,0.0,0.005363130811537494,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH CORUMBA (PF),HB,618,quarta-feira,0.0,0.0,0.0,7.179725592938414,0.0,0.005303127349391503,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH CORUMBA (PF),HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0052502440471509804,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH CORUMBA (PF),HB,623,sexta-feira,0.0,0.0,470.0,455.4672470938244,409.700493676663,361.88577358247835,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH CORUMBA (PF),HB,623,sábado,1260.0,0.0,240.0,114.27841684106193,368.94212203887287,324.4243546715397,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH CORUMBA (PF),HB,623,segunda-feira,0.0,0.0,420.0,259.2002399961222,337.15936932503024,301.9301374073582,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH CORUMBA (PF),HB,623,terça-feira,1260.0,0.0,420.0,234.1199158584937,425.97171258944195,472.3522708097317,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH CORUMBA (PF),HB,623,quarta-feira,1260.0,0.0,840.0,589.967847456867,383.7964178590744,445.2288074879855,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH CORUMBA (PF),HB,623,quinta-feira,360.0,0.0,840.0,831.1742306469442,472.65550494564945,416.40352416999895,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH CORUMBA (PF),HB,623,sexta-feira,0.0,0.0,960.0,535.2940410755803,547.8399136479707,475.99383466885416,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH CORUMBA (PF),HB,623,sábado,0.0,0.0,540.0,338.4309094306043,528.9408538944533,640.9261021275706,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH CORUMBA (PF),HB,623,segunda-feira,0.0,0.0,120.0,251.94544853091574,477.6175936763899,427.97049357421633,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH CORUMBA (PF),HB,623,terça-feira,630.0,0.0,0.0,326.3380285965226,431.48797342899275,552.823679147533,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH CORUMBA (PF),HB,623,quarta-feira,0.0,0.0,210.0,598.6077784850085,392.99361003848117,524.8060484731733,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH CORUMBA (PF),HB,623,quinta-feira,1950.0,0.0,210.0,653.0010954054037,413.6689452583485,406.89424049028923,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH CORUMBA (PF),HB,623,sexta-feira,0.0,0.0,860.0,487.0635537933167,377.18622634637984,318.67841741975917,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH CORUMBA (PF),HB,623,sábado,640.0,0.0,650.0,307.47224279151055,528.8099485226829,447.12412462368536,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH CORUMBA (PF),HB,623,segunda-feira,630.0,0.0,863.3333333333334,278.2476329092033,477.1321436249639,410.2263301725417,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH CORUMBA (PF),HB,623,terça-feira,0.0,0.0,423.3333333333333,441.11488505705137,493.3113592782519,514.3606431385865,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH CORUMBA (PF),HB,623,quarta-feira,1000.0,0.0,423.3333333333333,586.716582462302,508.3622169476562,448.20811728839493,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH CORUMBA (PF),HB,623,quinta-feira,1320.0,0.0,543.3333333333334,863.8998047728926,456.918967259145,661.4295197196873,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH CORUMBA (PF),HB,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,PH CORUMBA (PF),HB,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,PH CORUMBA (PF),HB,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,PH CORUMBA (PF),HB,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,PH CORUMBA (PF),HB,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,PH CORUMBA (PF),HB,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,PH CORUMBA (PF),HB,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,PH CORUMBA (PF),HB,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,PH CORUMBA (PF),HB,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-08,PH CORUMBA (PF),HB,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-09,PH CORUMBA (PF),HB,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-10,PH CORUMBA (PF),HB,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-11,PH CORUMBA (PF),HB,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-12,PH CORUMBA (PF),HB,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-14,PH CORUMBA (PF),HB,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-15,PH CORUMBA (PF),HB,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-16,PH CORUMBA (PF),HB,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-17,PH CORUMBA (PF),HB,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-28,PH CORUMBA (PF),IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH CORUMBA (PF),IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH CORUMBA (PF),IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH CORUMBA (PF),IFCO,6416,terça-feira,0.0,0.0,0.0,25.912653967217484,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH CORUMBA (PF),IFCO,6416,quarta-feira,0.0,0.0,0.0,49.64834525497307,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH CORUMBA (PF),IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH CORUMBA (PF),IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH CORUMBA (PF),IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH CORUMBA (PF),IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH CORUMBA (PF),IFCO,6416,terça-feira,0.0,0.0,0.0,25.56424149905733,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH CORUMBA (PF),IFCO,6416,quarta-feira,0.0,0.0,0.0,48.83399989711357,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH CORUMBA (PF),IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH CORUMBA (PF),IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH CORUMBA (PF),IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH CORUMBA (PF),IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH CORUMBA (PF),IFCO,6416,terça-feira,0.0,0.0,0.0,25.23009866876028,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH CORUMBA (PF),IFCO,6416,quarta-feira,0.0,0.0,0.0,48.054055750010505,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH CORUMBA (PF),IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH CORUMBA (PF),IFCO,6424,sexta-feira,2491.0,0.0,426.6666666666667,474.46461043948034,435.5105608203596,485.92620266289333,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH CORUMBA (PF),IFCO,6424,sábado,0.0,82.5,1043.6666666666667,822.639036454298,893.272322700059,931.6137001384004,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH CORUMBA (PF),IFCO,6424,segunda-feira,0.0,0.0,1043.6666666666667,454.4622737441265,447.22155201271573,524.0424313915004,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH CORUMBA (PF),IFCO,6424,terça-feira,0.0,0.0,830.3333333333334,511.97093262315974,406.2645341802558,387.124420311791,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH CORUMBA (PF),IFCO,6424,quarta-feira,0.0,93.0,0.0,483.3151086529432,370.25421604391767,289.91875655264926,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH CORUMBA (PF),IFCO,6424,quinta-feira,960.0,74.0,0.0,479.4442284701182,338.049902755351,369.77359106509067,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH CORUMBA (PF),IFCO,6424,sexta-feira,240.0,0.0,320.0,549.6863072062264,533.0146515235245,806.7722309302085,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH CORUMBA (PF),IFCO,6424,sábado,397.0,80.0,400.0,509.2937581405024,402.8381462904796,275.2510802668484,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH CORUMBA (PF),IFCO,6424,segunda-feira,0.0,0.0,532.3333333333334,254.9806195111057,425.51050058469906,365.10069376769985,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH CORUMBA (PF),IFCO,6424,terça-feira,0.0,0.0,212.33333333333334,339.4444438829329,331.0749641880351,273.37592509183514,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH CORUMBA (PF),IFCO,6424,quarta-feira,1170.0,91.5,132.33333333333334,337.33619344189657,302.61966414875786,254.81980277789847,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH CORUMBA (PF),IFCO,6424,quinta-feira,900.0,74.5,390.0,534.1860491821733,548.2145561266623,636.1396211228757,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH CORUMBA (PF),IFCO,6424,sexta-feira,915.0,0.0,690.0,566.707346894176,539.9559542178906,497.28065345449903,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH CORUMBA (PF),IFCO,6424,sábado,900.0,82.5,995.0,622.9350719380816,575.0977365295348,564.8490649046531,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH CORUMBA (PF),IFCO,6424,segunda-feira,850.0,0.0,905.0,419.06327280175356,601.5813161922658,530.9336009936093,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH CORUMBA (PF),IFCO,6424,terça-feira,0.0,0.0,888.3333333333334,594.0026713106043,616.3440681383131,553.8226662034139,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH CORUMBA (PF),IFCO,6424,quarta-feira,900.0,93.0,583.3333333333334,581.237392622841,437.86439004478115,522.7885137854676,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH CORUMBA (PF),IFCO,6424,quinta-feira,1260.0,75.0,583.3333333333334,699.5546930830828,610.554989338445,641.096029585168,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH SUL (PF),HB,618,sexta-feira,0.0,0.0,0.0,0.11847688631993086,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH SUL (PF),HB,618,sábado,0.0,0.0,0.0,1.1574268706178035,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH SUL (PF),HB,618,segunda-feira,0.0,0.0,0.0,0.40015690354959677,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH SUL (PF),HB,618,terça-feira,0.0,0.0,0.0,1.1477454653545165,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH SUL (PF),HB,618,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH SUL (PF),HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH SUL (PF),HB,618,sexta-feira,0.0,0.0,0.0,0.026287668280160076,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH SUL (PF),HB,618,sábado,0.0,0.0,0.0,0.9456412822621192,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH SUL (PF),HB,618,segunda-feira,0.0,0.0,0.0,0.3582547853326517,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH SUL (PF),HB,618,terça-feira,0.0,0.0,0.0,1.0122243100361583,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH SUL (PF),HB,618,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH SUL (PF),HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH SUL (PF),HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH SUL (PF),HB,618,sábado,0.0,0.0,0.0,0.7692632682270608,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH SUL (PF),HB,618,segunda-feira,0.0,0.0,0.0,0.3171022149061751,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH SUL (PF),HB,618,terça-feira,0.0,0.0,0.0,0.8911825026534186,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH SUL (PF),HB,618,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH SUL (PF),HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH SUL (PF),HB,623,sexta-feira,60.0,0.0,160.0,88.01443193723223,95.31599258708394,73.76057261290191,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH SUL (PF),HB,623,sábado,56.0,0.0,100.66666666666667,81.57549067038896,99.16723375830682,82.25005643786906,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH SUL (PF),HB,623,segunda-feira,0.0,0.0,97.66666666666667,85.26963693989764,89.11638646021638,76.8688064303498,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH SUL (PF),HB,623,terça-feira,0.0,0.0,38.666666666666664,98.09316019864949,73.78454405049321,107.60338179910434,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH SUL (PF),HB,623,quarta-feira,0.0,0.0,18.666666666666668,69.37595839436995,56.83262738469921,58.005835448549945,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH SUL (PF),HB,623,quinta-feira,0.0,0.0,0.0,42.36164795446784,42.926660893467236,62.03382286102974,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH SUL (PF),HB,623,sexta-feira,0.0,0.0,0.0,18.781313187557945,32.3358105267658,29.890553984931994,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH SUL (PF),HB,623,sábado,0.0,0.0,0.0,14.462372996747298,24.27064122984389,20.53109300710498,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH SUL (PF),HB,623,segunda-feira,0.0,0.0,0.0,12.389430608975305,18.12930285636628,6.034337951223892,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH SUL (PF),HB,623,terça-feira,0.0,0.0,0.0,37.19220300607499,13.4533147313837,3.578934566480637,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH SUL (PF),HB,623,quarta-feira,0.0,0.0,0.0,23.91752106254751,9.893066595525625,2.616981657180301,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH SUL (PF),HB,623,quinta-feira,0.0,0.0,0.0,5.88092874449519,7.182583587434522,1.8753000751844164,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH SUL (PF),HB,623,sexta-feira,0.0,0.0,0.0,0.0,5.119073084591776,1.2963273806816673,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH SUL (PF),HB,623,sábado,0.0,0.0,0.0,0.0,3.547961445962983,0.835723380499024,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH SUL (PF),HB,623,segunda-feira,0.0,0.0,0.0,0.0,3.5571633693430194,0.4839135612433153,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH SUL (PF),HB,623,terça-feira,0.0,0.0,0.0,21.902175933848408,2.677423769979594,0.1837165175033628,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH SUL (PF),HB,623,quarta-feira,0.0,0.0,0.0,13.165625379671095,2.0067183928079046,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH SUL (PF),HB,623,quinta-feira,0.0,0.0,0.0,2.2412375450945925,1.4966344509656366,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH SUL (PF),IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH SUL (PF),IFCO,6416,sábado,0.0,0.0,0.0,4.756527018829532,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH SUL (PF),IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH SUL (PF),IFCO,6416,terça-feira,0.0,0.0,0.0,1.0200900510715787,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH SUL (PF),IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH SUL (PF),IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH SUL (PF),IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH SUL (PF),IFCO,6416,sábado,0.0,0.0,0.0,3.7705961597300686,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH SUL (PF),IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH SUL (PF),IFCO,6416,terça-feira,0.0,0.0,0.0,0.8586651374307728,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH SUL (PF),IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH SUL (PF),IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH SUL (PF),IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH SUL (PF),IFCO,6416,sábado,0.0,0.0,0.0,2.9712449612144862,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH SUL (PF),IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH SUL (PF),IFCO,6416,terça-feira,0.0,0.0,0.0,0.7123121634481517,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH SUL (PF),IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH SUL (PF),IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH SUL (PF),IFCO,6424,sexta-feira,0.0,0.0,0.0,36.474422135157546,0.9308398369194322,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH SUL (PF),IFCO,6424,sábado,0.0,0.0,0.0,27.390857615618003,0.6585239072094851,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH SUL (PF),IFCO,6424,segunda-feira,0.0,0.0,0.0,0.0,0.4393955788720376,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH SUL (PF),IFCO,6424,terça-feira,0.0,0.0,0.0,0.0,0.26326052397912747,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH SUL (PF),IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,0.1213589264252164,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH SUL (PF),IFCO,6424,quinta-feira,0.0,0.0,0.0,0.0,0.007378038291349753,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH SUL (PF),IFCO,6424,sexta-feira,0.0,0.0,0.0,30.79572288733293,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH SUL (PF),IFCO,6424,sábado,0.0,0.0,0.0,24.23893266664428,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH SUL (PF),IFCO,6424,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH SUL (PF),IFCO,6424,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH SUL (PF),IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH SUL (PF),IFCO,6424,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH SUL (PF),IFCO,6424,sexta-feira,0.0,0.0,0.0,26.23706106668018,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH SUL (PF),IFCO,6424,sábado,0.0,0.0,0.0,21.601192569962272,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH SUL (PF),IFCO,6424,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH SUL (PF),IFCO,6424,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH SUL (PF),IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH SUL (PF),IFCO,6424,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH SUL (PF),IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH SUL (PF),IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH SUL (PF),IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.16921388929961242,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH SUL (PF),IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH SUL (PF),IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.12054507765245054,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH SUL (PF),IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH SUL (PF),IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH SUL (PF),IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH SUL (PF),IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.16857842594680972,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH SUL (PF),IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH SUL (PF),IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.11982926284928609,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH SUL (PF),IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.00014038572094820373,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH SUL (PF),IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH SUL (PF),IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH SUL (PF),IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.1674184636481171,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH SUL (PF),IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH SUL (PF),IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.11932029757605486,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH SUL (PF),IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,7.091993720607231e-05,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH UBAJARA,HB,618,sexta-feira,0.0,0.0,74.0,2.7680576673881774,117.63831793572959,67.58725456413222,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH UBAJARA,HB,618,sábado,275.0,93.96291984173689,35.333333333333336,358.7344639317622,114.2525801157124,224.8497541402424,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH UBAJARA,HB,618,segunda-feira,0.0,0.0,91.66666666666667,16.41486242712311,90.89986467718093,61.92313011016904,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH UBAJARA,HB,618,terça-feira,104.0,0.0,91.66666666666667,136.01840146676733,116.74241627349592,119.48307927761667,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH UBAJARA,HB,618,quarta-feira,0.0,0.0,126.33333333333333,99.68265891852924,105.67637028854517,112.3564228739535,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH UBAJARA,HB,618,quinta-feira,118.0,0.0,34.666666666666664,13.778892613380563,113.52051337973272,66.83736654306145,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH UBAJARA,HB,618,sexta-feira,0.0,0.0,74.0,1.3864849521120846,101.48133674465832,59.92748432075574,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH UBAJARA,HB,618,sábado,334.0,94.92583968347378,39.333333333333336,345.5684775309577,110.8903490667899,190.33545568970493,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH UBAJARA,HB,618,segunda-feira,0.0,0.0,150.66666666666666,14.064931389469905,82.38610317747684,56.79391973987293,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH UBAJARA,HB,618,terça-feira,0.0,0.0,111.33333333333333,131.2760568925695,115.523919890558,113.7530671563761,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH UBAJARA,HB,618,quarta-feira,165.0,0.0,111.33333333333333,83.82989974627793,112.18805427185998,66.56123895829919,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH UBAJARA,HB,618,quinta-feira,117.0,0.0,55.0,29.744282251760794,96.27243113353275,111.97124287722531,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH UBAJARA,HB,618,sexta-feira,0.0,0.0,94.0,1.8590864877781428,102.10002774736782,62.98580897499736,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH UBAJARA,HB,618,sábado,413.0,95.96291984173689,94.0,344.5702647803152,111.70889712192862,218.5148333301033,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH UBAJARA,HB,618,segunda-feira,0.0,0.0,176.66666666666666,13.594309064099818,75.82580199501943,55.02417089349393,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH UBAJARA,HB,618,terça-feira,127.0,0.0,137.66666666666666,113.92809051704283,118.8397000426406,67.12415275337416,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH UBAJARA,HB,618,quarta-feira,149.0,0.0,180.0,98.8665268774166,105.14383309511206,137.96742299583366,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH UBAJARA,HB,618,quinta-feira,0.0,0.0,92.0,45.22872617842498,104.06948891651749,118.76916701293337,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH UBAJARA,HB,623,sexta-feira,0.0,0.0,18.333333333333332,0.0,19.266333086836166,14.223421518473543,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH UBAJARA,HB,623,sábado,35.0,1.0,0.0,45.155695412776794,18.692477134460837,19.23349807511999,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH UBAJARA,HB,623,segunda-feira,0.0,0.0,11.666666666666666,9.544557953457078,14.409454448433124,11.89502552930065,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH UBAJARA,HB,623,terça-feira,30.0,0.0,11.666666666666666,46.143434529603084,18.79845547776018,32.16597461182351,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH UBAJARA,HB,623,quarta-feira,0.0,0.0,21.666666666666668,0.0,15.017371763365336,13.096669106583136,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH UBAJARA,HB,623,quinta-feira,2.0,0.0,10.0,1.7260546225802855,18.725406541746995,13.82765878385253,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH UBAJARA,HB,623,sexta-feira,0.0,0.0,10.666666666666666,0.0,17.946383355953678,13.4564089458062,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH UBAJARA,HB,623,sábado,82.0,1.0,0.6666666666666666,43.88399035069098,17.673088952914448,24.903873597805074,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH UBAJARA,HB,623,segunda-feira,0.0,0.0,28.0,9.190074631391653,8.30294610302736,8.743113510756729,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH UBAJARA,HB,623,terça-feira,0.0,0.0,27.333333333333332,45.26628659305792,19.465935045718442,24.224162264694822,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH UBAJARA,HB,623,quarta-feira,35.0,0.0,27.333333333333332,0.0,18.904985609769398,14.684039982948594,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH UBAJARA,HB,623,quinta-feira,46.0,0.0,11.666666666666666,2.1998927940640858,14.516691366932974,12.05647503104452,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH UBAJARA,HB,623,sexta-feira,0.0,0.0,27.0,0.0,13.951740438354484,11.185656646094031,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH UBAJARA,HB,623,sábado,63.0,1.0,27.0,47.93817675447151,19.94816415799397,41.75209243796053,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH UBAJARA,HB,623,segunda-feira,0.0,0.0,36.333333333333336,9.25758191294014,12.380336399147552,12.098752582310375,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH UBAJARA,HB,623,terça-feira,43.0,0.0,21.0,42.67184704416036,20.88725523123364,14.81539922004541,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH UBAJARA,HB,623,quarta-feira,1.0,0.0,35.333333333333336,3.9440313961245597,15.45012264648409,23.38032473030239,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH UBAJARA,HB,623,quinta-feira,0.0,0.0,14.666666666666666,6.281168180562508,21.017270373334753,31.09753847276972,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH UBAJARA,HB,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.004565580643532342,0.014118673074194824,0.014170508569269134,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH UBAJARA,HB,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.050525131953404245,0.01399205080941949,0.015080898948733816,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH UBAJARA,HB,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.00010089519099350588,0.014097187940347039,0.015059454863417913,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH UBAJARA,HB,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.058331128920467296,0.013863849388234655,0.015049120121298384,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH UBAJARA,HB,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0007108342402322131,0.013742692111213178,0.014686341099732268,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH UBAJARA,HB,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0007093006303661754,0.01358271439496363,0.013907105801511685,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH UBAJARA,HB,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.004426708460579267,0.013471502574537149,0.014396011296897179,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH UBAJARA,HB,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.046727619349646934,0.013310800038369593,0.01308673236194663,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH UBAJARA,HB,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.000642105505959209,0.013264624267369662,0.014257477451816153,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH UBAJARA,HB,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.05614888496555359,0.01305604552422775,0.013042531729356665,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH UBAJARA,HB,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0004752215680693117,0.012838630379015406,0.014170686278071212,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH UBAJARA,HB,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.00047895719761268177,0.01277232181116546,0.013795922959450594,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH UBAJARA,HB,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0037933791801446227,0.012733014361617986,0.014307170031831299,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH UBAJARA,HB,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.04607906945106078,0.012510139667751219,0.01309759659501908,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH UBAJARA,HB,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.00041956895398650995,0.012393089556738839,0.013543676387783669,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH UBAJARA,HB,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.05370203162196292,0.01227674496133117,0.013022192779514535,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH UBAJARA,HB,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.00026677039391293476,0.01228659247992078,0.012410183859191267,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH UBAJARA,HB,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.00026296631627034314,0.012142012236987722,0.013065216882268454,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH UBAJARA,IFCO,6416,sexta-feira,148.0,92.0,230.66666666666666,108.43697445363631,151.01273029172802,125.85570360699498,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH UBAJARA,IFCO,6416,sábado,46.0,423.5333333333333,132.33333333333334,103.5401125417147,154.14891017179025,130.75915518044906,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH UBAJARA,IFCO,6416,segunda-feira,191.0,127.0,134.33333333333334,154.96467934845757,159.3264486801712,74.89184054631897,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH UBAJARA,IFCO,6416,terça-feira,26.0,362.3333333333333,128.33333333333334,101.70800683341058,150.71128146116394,276.3923803687505,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH UBAJARA,IFCO,6416,quarta-feira,0.0,288.0,87.66666666666667,75.6438883869113,159.50687567263213,109.09243250200876,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH UBAJARA,IFCO,6416,quinta-feira,188.0,135.0,72.33333333333333,244.30696963108664,159.90789404637087,176.37505222496037,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH UBAJARA,IFCO,6416,sexta-feira,126.0,92.0,71.33333333333333,112.44023304908112,148.96946286078423,136.8483022938061,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH UBAJARA,IFCO,6416,sábado,0.0,419.06666666666666,104.66666666666667,93.04729062632025,152.21159046140951,88.96731947582353,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH UBAJARA,IFCO,6416,segunda-feira,0.0,129.5,104.66666666666667,158.10323819672013,158.55622649017073,166.6573071589055,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH UBAJARA,IFCO,6416,terça-feira,279.0,360.2,42.0,83.74610373933035,157.68181723054818,90.08394457499364,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH UBAJARA,IFCO,6416,quarta-feira,6.0,287.5,93.0,60.70776593517043,141.7387369904818,46.31661738996783,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH UBAJARA,IFCO,6416,quinta-feira,352.0,137.0,95.0,230.97805116792352,156.64248638212712,161.9768633251262,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH UBAJARA,IFCO,6416,sexta-feira,0.0,93.0,212.33333333333334,113.12055606018336,137.06190562945295,109.88082162055164,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH UBAJARA,IFCO,6416,sábado,116.0,416.5333333333333,119.33333333333333,73.28950301380199,131.45943375351112,75.27586582824397,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH UBAJARA,IFCO,6416,segunda-feira,40.0,127.0,156.0,129.43943828847057,149.4027381574146,59.48538830358122,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH UBAJARA,IFCO,6416,terça-feira,24.0,358.06666666666666,52.0,119.40663273785485,153.10384056953353,203.97315543579177,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH UBAJARA,IFCO,6416,quarta-feira,0.0,287.0,60.0,47.92076954202384,153.20338510494042,81.30323990061822,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH UBAJARA,IFCO,6416,quinta-feira,552.0,139.0,21.333333333333332,252.27402655706243,153.69554225380676,244.1359853942191,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH UBAJARA,IFCO,6420,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,PH UBAJARA,IFCO,6420,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,PH UBAJARA,IFCO,6420,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,PH UBAJARA,IFCO,6420,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,PH UBAJARA,IFCO,6420,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,PH UBAJARA,IFCO,6420,quinta-feira,5.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,PH UBAJARA,IFCO,6420,sexta-feira,0.0,0.0,1.6666666666666667,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,PH UBAJARA,IFCO,6420,sábado,0.0,0.0,1.6666666666666667,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,PH UBAJARA,IFCO,6420,segunda-feira,0.0,0.0,1.6666666666666667,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-08,PH UBAJARA,IFCO,6420,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-09,PH UBAJARA,IFCO,6420,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-10,PH UBAJARA,IFCO,6420,quinta-feira,8.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-11,PH UBAJARA,IFCO,6420,sexta-feira,0.0,0.0,2.6666666666666665,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-12,PH UBAJARA,IFCO,6420,sábado,0.0,0.0,2.6666666666666665,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-14,PH UBAJARA,IFCO,6420,segunda-feira,0.0,0.0,2.6666666666666665,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-15,PH UBAJARA,IFCO,6420,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-16,PH UBAJARA,IFCO,6420,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-17,PH UBAJARA,IFCO,6420,quinta-feira,10.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-28,PH UBAJARA,IFCO,6424,sexta-feira,4.0,27.5,282.3333333333333,134.36148697845726,222.55923583770613,169.91104972798234,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH UBAJARA,IFCO,6424,sábado,265.0,332.5,163.0,290.84319397388794,232.99634812057226,251.37911826966285,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH UBAJARA,IFCO,6424,segunda-feira,268.0,19.0,127.66666666666667,193.8628806970361,193.87195096163697,150.55617300485,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH UBAJARA,IFCO,6424,terça-feira,494.0,135.0,179.0,247.35746977070443,195.7432394415267,248.58577574209625,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH UBAJARA,IFCO,6424,quarta-feira,0.0,114.0,342.3333333333333,201.4356237267563,170.1008357796632,241.32956064723217,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH UBAJARA,IFCO,6424,quinta-feira,159.0,54.0,254.0,168.14926247413945,241.06578301682413,223.75425690860692,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH UBAJARA,IFCO,6424,sexta-feira,6.0,27.0,217.66666666666666,121.25218461562478,214.20081092581415,161.0349837285368,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH UBAJARA,IFCO,6424,sábado,177.0,332.0,55.0,287.45845980279347,231.58165252925653,249.48762092034133,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH UBAJARA,IFCO,6424,segunda-feira,0.0,19.5,114.0,202.56017616008413,203.70859396779457,237.07294069614892,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH UBAJARA,IFCO,6424,terça-feira,229.0,140.5,61.0,273.556841215272,224.81062495359987,320.60585576969083,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH UBAJARA,IFCO,6424,quarta-feira,200.0,113.5,135.33333333333334,170.72337500952517,189.8138701485459,154.2532048683169,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH UBAJARA,IFCO,6424,quinta-feira,107.0,54.0,143.0,162.79411020302297,194.66486120282002,187.18334734716194,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH UBAJARA,IFCO,6424,sexta-feira,0.0,25.0,178.66666666666666,100.23227520150216,206.36275561101857,158.53600299079181,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH UBAJARA,IFCO,6424,sábado,256.0,330.0,102.33333333333333,269.6609064151928,216.53802948268407,212.95002553792773,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH UBAJARA,IFCO,6424,segunda-feira,513.0,19.0,121.0,174.05673366784893,178.46675311925435,136.44868445747613,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH UBAJARA,IFCO,6424,terça-feira,113.0,146.0,256.3333333333333,270.1647478667717,149.4288890319557,172.43103956663361,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH UBAJARA,IFCO,6424,quarta-feira,70.0,114.0,294.0,176.97999262067577,209.71294623328401,221.16667443267266,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH UBAJARA,IFCO,6424,quinta-feira,341.0,54.0,232.0,157.09554743777073,212.15808944482797,195.51735817568522,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,PH UBAJARA,IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,PH UBAJARA,IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,PH UBAJARA,IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,PH UBAJARA,IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,PH UBAJARA,IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,PH UBAJARA,IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,PH UBAJARA,IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,PH UBAJARA,IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,PH UBAJARA,IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,PH UBAJARA,IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,PH UBAJARA,IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,PH UBAJARA,IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,PH UBAJARA,IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,PH UBAJARA,IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,PH UBAJARA,IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,PH UBAJARA,IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,PH UBAJARA,IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,PH UBAJARA,IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB GOIANIA - GALPAO CD,HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,TREB GOIANIA - GALPAO CD,HB,618,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,TREB GOIANIA - GALPAO CD,HB,618,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,TREB GOIANIA - GALPAO CD,HB,618,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,TREB GOIANIA - GALPAO CD,HB,618,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,TREB GOIANIA - GALPAO CD,HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,TREB GOIANIA - GALPAO CD,HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,TREB GOIANIA - GALPAO CD,HB,618,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,TREB GOIANIA - GALPAO CD,HB,618,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-08,TREB GOIANIA - GALPAO CD,HB,618,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-09,TREB GOIANIA - GALPAO CD,HB,618,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-10,TREB GOIANIA - GALPAO CD,HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-11,TREB GOIANIA - GALPAO CD,HB,618,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-12,TREB GOIANIA - GALPAO CD,HB,618,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-14,TREB GOIANIA - GALPAO CD,HB,618,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-15,TREB GOIANIA - GALPAO CD,HB,618,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-16,TREB GOIANIA - GALPAO CD,HB,618,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-17,TREB GOIANIA - GALPAO CD,HB,618,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-28,TREB GOIANIA - GALPAO CD,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,TREB GOIANIA - GALPAO CD,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,TREB GOIANIA - GALPAO CD,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,TREB GOIANIA - GALPAO CD,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,TREB GOIANIA - GALPAO CD,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,TREB GOIANIA - GALPAO CD,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,TREB GOIANIA - GALPAO CD,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,TREB GOIANIA - GALPAO CD,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,TREB GOIANIA - GALPAO CD,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-08,TREB GOIANIA - GALPAO CD,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-09,TREB GOIANIA - GALPAO CD,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-10,TREB GOIANIA - GALPAO CD,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-11,TREB GOIANIA - GALPAO CD,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-12,TREB GOIANIA - GALPAO CD,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-14,TREB GOIANIA - GALPAO CD,HB,623,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-15,TREB GOIANIA - GALPAO CD,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-16,TREB GOIANIA - GALPAO CD,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-17,TREB GOIANIA - GALPAO CD,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-28,TREB GOIANIA - GALPAO CD,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,TREB GOIANIA - GALPAO CD,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,TREB GOIANIA - GALPAO CD,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,TREB GOIANIA - GALPAO CD,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,TREB GOIANIA - GALPAO CD,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,TREB GOIANIA - GALPAO CD,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,TREB GOIANIA - GALPAO CD,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,TREB GOIANIA - GALPAO CD,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,TREB GOIANIA - GALPAO CD,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-08,TREB GOIANIA - GALPAO CD,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-09,TREB GOIANIA - GALPAO CD,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-10,TREB GOIANIA - GALPAO CD,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-11,TREB GOIANIA - GALPAO CD,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-12,TREB GOIANIA - GALPAO CD,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-14,TREB GOIANIA - GALPAO CD,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-15,TREB GOIANIA - GALPAO CD,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-16,TREB GOIANIA - GALPAO CD,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-17,TREB GOIANIA - GALPAO CD,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-28,TREB GOIANIA - GALPAO CD,IFCO,6424,sexta-feira,0.0,0.0,0.0,8.730433007564038,4.086461454252869,4.119038913768321,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB GOIANIA - GALPAO CD,IFCO,6424,sábado,0.0,0.0,0.0,3.187739203626628,4.072485514541726,4.1090710668141535,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB GOIANIA - GALPAO CD,IFCO,6424,segunda-feira,0.0,0.0,0.0,4.863139851991311,4.062621730373985,4.09827095657557,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB GOIANIA - GALPAO CD,IFCO,6424,terça-feira,0.0,0.0,0.0,2.5778968689695576,4.055795966021025,4.0885733877242165,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB GOIANIA - GALPAO CD,IFCO,6424,quarta-feira,0.0,0.0,0.0,2.656012821623041,4.041900576195237,4.077438286819669,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB GOIANIA - GALPAO CD,IFCO,6424,quinta-feira,0.0,0.0,0.0,3.875566360910662,4.038489633784092,4.0676470655434,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB GOIANIA - GALPAO CD,IFCO,6424,sexta-feira,0.0,0.0,0.0,8.643572876560206,4.0279263717826685,4.05803744150521,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB GOIANIA - GALPAO CD,IFCO,6424,sábado,0.0,0.0,0.0,3.130563123463494,4.0151128227814255,4.047096427863542,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB GOIANIA - GALPAO CD,IFCO,6424,segunda-feira,0.0,0.0,0.0,4.797186557354008,4.007880902699052,4.037422102117123,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB GOIANIA - GALPAO CD,IFCO,6424,terça-feira,0.0,0.0,0.0,2.5245342499236227,3.997544010340202,4.027566657640794,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB GOIANIA - GALPAO CD,IFCO,6424,quarta-feira,0.0,0.0,0.0,2.6019770722208158,3.9855099240615024,4.017053050524441,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB GOIANIA - GALPAO CD,IFCO,6424,quinta-feira,0.0,0.0,0.0,3.815266184094087,3.98068202893692,4.007570312096308,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB GOIANIA - GALPAO CD,IFCO,6424,sexta-feira,0.0,0.0,0.0,8.558916373689154,3.9669191583950045,3.9973690174507315,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB GOIANIA - GALPAO CD,IFCO,6424,sábado,0.0,0.0,0.0,3.074549491336263,3.959100365118681,3.9874205248099117,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB GOIANIA - GALPAO CD,IFCO,6424,segunda-feira,0.0,0.0,0.0,4.732407409192134,3.9504685544846465,3.977728102032307,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB GOIANIA - GALPAO CD,IFCO,6424,terça-feira,0.0,0.0,0.0,2.471225211663785,3.938723542235234,3.968023766133707,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB GOIANIA - GALPAO CD,IFCO,6424,quarta-feira,0.0,0.0,0.0,2.5488306553803275,3.928507478216599,3.9580723814190875,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB GOIANIA - GALPAO CD,IFCO,6424,quinta-feira,0.0,0.0,0.0,3.756004540851451,3.920159648175205,3.9471312148502298,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB. CEAGESP,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.2658301595970243,0.25869744742999806,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB. CEAGESP,HB,623,sábado,0.0,0.0,0.0,0.0,0.2646125490726037,0.2579150735967989,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB. CEAGESP,HB,623,segunda-feira,0.0,0.0,0.0,1.216868592779901,0.26381422979207036,0.2556946013313232,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB. CEAGESP,HB,623,terça-feira,0.0,0.0,0.0,0.055414571217043004,0.2619171975353246,0.25408530101693644,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB. CEAGESP,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.2596705544104736,0.25196042248350453,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB. CEAGESP,HB,623,quinta-feira,0.0,0.0,0.0,0.0738022789771801,0.26143162670636366,0.25069142454325627,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB. CEAGESP,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.2567591638150555,0.2493051794956833,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB. CEAGESP,HB,623,sábado,0.0,0.0,0.0,0.0,0.25231298925107504,0.2476555717708675,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB. CEAGESP,HB,623,segunda-feira,0.0,0.0,0.0,1.216182735453291,0.25088692327377304,0.2460460434196833,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB. CEAGESP,HB,623,terça-feira,0.0,0.0,0.0,0.055137775748064596,0.2494769639444736,0.24470566571306596,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB. CEAGESP,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.24786867732360307,0.24289609093047884,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB. CEAGESP,HB,623,quinta-feira,0.0,0.0,0.0,0.0734075693328714,0.24868502899425027,0.24136834895471104,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB. CEAGESP,HB,623,sexta-feira,0.0,0.0,0.0,0.0,0.2477788377549751,0.24056794359685774,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB. CEAGESP,HB,623,sábado,0.0,0.0,0.0,0.0,0.24847699466376116,0.23846666571945266,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB. CEAGESP,HB,623,segunda-feira,0.0,0.0,0.0,1.2098714188555764,0.24476457512918692,0.23941629607577364,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB. CEAGESP,HB,623,terça-feira,0.0,0.0,0.0,0.05485221571314805,0.24515252340362692,0.23554036050267232,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB. CEAGESP,HB,623,quarta-feira,0.0,0.0,0.0,0.0,0.2434354754622846,0.23652818629999406,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB. CEAGESP,HB,623,quinta-feira,0.0,0.0,0.0,0.0730199593460613,0.24148579593676978,0.2329393163991037,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB. CEAGESP,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,TREB. CEAGESP,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,TREB. CEAGESP,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,TREB. CEAGESP,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,TREB. CEAGESP,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,TREB. CEAGESP,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,TREB. CEAGESP,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,TREB. CEAGESP,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,TREB. CEAGESP,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-08,TREB. CEAGESP,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-09,TREB. CEAGESP,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-10,TREB. CEAGESP,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-11,TREB. CEAGESP,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-12,TREB. CEAGESP,IFCO,6416,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-14,TREB. CEAGESP,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-15,TREB. CEAGESP,IFCO,6416,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-16,TREB. CEAGESP,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-17,TREB. CEAGESP,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-28,TREB. CEAGESP,IFCO,6424,sexta-feira,0.0,0.0,0.0,0.6296937334297285,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB. CEAGESP,IFCO,6424,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB. CEAGESP,IFCO,6424,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB. CEAGESP,IFCO,6424,terça-feira,0.0,0.0,0.0,1.001935681382403,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB. CEAGESP,IFCO,6424,quarta-feira,0.0,0.0,0.0,1.9720534098552303,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB. CEAGESP,IFCO,6424,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB. CEAGESP,IFCO,6424,sexta-feira,0.0,0.0,0.0,0.6240636814359304,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB. CEAGESP,IFCO,6424,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB. CEAGESP,IFCO,6424,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB. CEAGESP,IFCO,6424,terça-feira,0.0,0.0,0.0,0.994974024930809,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB. CEAGESP,IFCO,6424,quarta-feira,0.0,0.0,0.0,1.960228781511382,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB. CEAGESP,IFCO,6424,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB. CEAGESP,IFCO,6424,sexta-feira,0.0,0.0,0.0,0.6195580998081509,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB. CEAGESP,IFCO,6424,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB. CEAGESP,IFCO,6424,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB. CEAGESP,IFCO,6424,terça-feira,0.0,0.0,0.0,0.9888915046790735,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB. CEAGESP,IFCO,6424,quarta-feira,0.0,0.0,0.0,1.9493101347308763,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB. CEAGESP,IFCO,6424,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB. CEARA,HB,618,sexta-feira,0.0,0.0,0.0,1.2632803764502505,6.10484348565783,4.797460239661934,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB. CEARA,HB,618,sábado,15.0,0.0,0.0,14.38816753267751,5.846783023229391,4.993471217329948,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB. CEARA,HB,618,segunda-feira,0.0,0.0,5.0,1.0371847756409496,5.174155233105882,4.47326251644369,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB. CEARA,HB,618,terça-feira,0.0,0.0,5.0,13.14744756615129,6.043133288706861,4.8360901078532095,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB. CEARA,HB,618,quarta-feira,0.0,0.0,5.0,3.524214254536995,5.786606636975705,4.705057781934983,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB. CEARA,HB,618,quinta-feira,0.0,0.0,0.0,0.5845914197595254,5.531473202841799,4.581198400556476,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB. CEARA,HB,618,sexta-feira,0.0,0.0,0.0,0.7575715703748962,5.276264941396348,4.4649091856355385,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB. CEARA,HB,618,sábado,0.0,0.0,0.0,13.825732794383061,5.019204645543821,6.880676509706978,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB. CEARA,HB,618,segunda-feira,0.0,0.0,0.0,0.15429957921256676,4.762285731117615,4.279565592190557,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB. CEARA,HB,618,terça-feira,0.0,0.0,0.0,10.900749545124071,4.505599654381576,4.105300484187342,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB. CEARA,HB,618,quarta-feira,0.0,0.0,0.0,2.2777314295233637,4.251712089204978,4.009253567577313,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB. CEARA,HB,618,quinta-feira,0.0,0.0,0.0,0.0,4.002481947625415,3.9157545549610866,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB. CEARA,HB,618,sexta-feira,0.0,0.0,0.0,0.0,3.7604378588850325,3.8246807349836915,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB. CEARA,HB,618,sábado,0.0,0.0,0.0,11.624913128142346,3.527035027754883,3.735330347382286,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB. CEARA,HB,618,segunda-feira,0.0,0.0,0.0,0.0,3.3035765524063336,3.6463668844460315,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB. CEARA,HB,618,terça-feira,20.0,0.0,0.0,8.970793442387624,3.0910255571068377,3.556888198706381,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB. CEARA,HB,618,quarta-feira,5.0,0.0,6.666666666666667,2.072415975010037,2.6646313522872913,3.4505879172867147,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB. CEARA,HB,618,quinta-feira,0.0,0.0,8.333333333333334,0.0,3.8997008647374782,3.8727678520127875,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB. CEARA,IFCO,6416,sexta-feira,0.0,0.0,46.666666666666664,11.422437703257078,22.476587261738196,20.125876409446725,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB. CEARA,IFCO,6416,sábado,0.0,0.0,4.0,12.357433230631639,24.281600473465343,21.030085025224075,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB. CEARA,IFCO,6416,segunda-feira,66.0,0.0,4.0,33.751399814589966,23.67317788608926,20.540227437663404,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB. CEARA,IFCO,6416,terça-feira,0.0,0.0,22.0,17.859653454066496,11.832766235911365,26.081286239920964,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB. CEARA,IFCO,6416,quarta-feira,0.0,0.0,22.0,24.90282174365643,24.551167386908066,24.426582968797597,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB. CEARA,IFCO,6416,quinta-feira,9.0,0.0,22.0,24.04929765573536,23.936841192760394,22.31263900315503,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB. CEARA,IFCO,6416,sexta-feira,0.0,0.0,3.0,9.520841558147534,21.810678738340137,19.111844859164385,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB. CEARA,IFCO,6416,sábado,0.0,0.0,3.0,10.46596443194088,23.0350198568153,20.09540866141503,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB. CEARA,IFCO,6416,segunda-feira,0.0,0.0,3.0,38.37119372907447,22.451080004151446,27.990329229730904,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB. CEARA,IFCO,6416,terça-feira,11.0,0.0,0.0,15.288741396321605,21.87448696135438,20.59398693526524,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB. CEARA,IFCO,6416,quarta-feira,0.0,0.0,3.6666666666666665,21.872005435164304,19.484852462075892,16.808795795550832,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB. CEARA,IFCO,6416,quinta-feira,30.0,0.0,3.6666666666666665,22.044248352531834,21.09817114081493,19.580670162009767,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB. CEARA,IFCO,6416,sexta-feira,0.0,0.0,13.666666666666666,8.412089264763225,15.586198417997178,13.349671351186906,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB. CEARA,IFCO,6416,sábado,0.0,0.0,10.0,9.201350234946656,20.972883225301395,18.43221918511293,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB. CEARA,IFCO,6416,segunda-feira,0.0,0.0,10.0,33.335122567705525,20.405666059818223,17.982820129451365,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB. CEARA,IFCO,6416,terça-feira,0.0,0.0,0.0,14.8651618579107,19.840351473752815,18.93491421318094,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB. CEARA,IFCO,6416,quarta-feira,0.0,0.0,0.0,19.053766929991358,19.27586227606259,17.33008573502437,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB. CEARA,IFCO,6416,quinta-feira,99.0,0.0,0.0,23.12067914654241,18.710861421495732,20.47026102573968,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB. CEARA,IFCO,6424,sexta-feira,0.0,0.0,0.0,0.3597334298232924,0.8247595098881267,0.8192932641739332,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB. CEARA,IFCO,6424,sábado,3.0,0.0,0.0,0.926769172917923,0.7785587469147645,0.7729637416285393,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB. CEARA,IFCO,6424,segunda-feira,0.0,0.0,1.0,0.9033055618805116,1.0015922720120078,0.9933143469737771,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB. CEARA,IFCO,6424,terça-feira,0.0,0.0,1.0,1.2086826416932346,0.8494544472153162,0.84530709574666,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB. CEARA,IFCO,6424,quarta-feira,0.0,0.0,1.0,0.5175306065103471,0.8033506143679393,0.799024996174176,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB. CEARA,IFCO,6424,quinta-feira,0.0,0.0,0.0,0.6825575663267911,0.7598824062058009,0.7553318573356452,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB. CEARA,IFCO,6424,sexta-feira,0.0,0.0,0.0,0.2730807666831944,0.7187531473046703,0.7142887700325518,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB. CEARA,IFCO,6424,sábado,0.0,0.0,0.0,0.8582424149152129,0.6798691062945776,0.6689230449874258,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB. CEARA,IFCO,6424,segunda-feira,0.0,0.0,0.0,0.6531111951266186,0.6431539413645438,0.6391131535033928,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB. CEARA,IFCO,6424,terça-feira,0.0,0.0,0.0,0.9710701063899266,0.6088058482658854,0.6043521034924397,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB. CEARA,IFCO,6424,quarta-feira,0.0,0.0,0.0,0.29703611177276856,0.5759607999152063,0.5716220382233187,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB. CEARA,IFCO,6424,quinta-feira,0.0,0.0,0.0,0.47364714862752333,0.5451117056857513,0.5408231717924796,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB. CEARA,IFCO,6424,sexta-feira,0.0,0.0,0.0,0.07807287098687254,0.5159446772368017,0.5116850128152264,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB. CEARA,IFCO,6424,sábado,0.0,0.0,0.0,0.6711057294988308,0.4884346932069326,0.48398693096360357,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB. CEARA,IFCO,6424,segunda-feira,0.0,0.0,0.0,0.4775663388746917,0.462415853147772,0.4581479244233075,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB. CEARA,IFCO,6424,terça-feira,3.0,0.0,0.0,0.8037316975874887,0.4378189748510906,0.43356998329413343,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB. CEARA,IFCO,6424,quarta-feira,0.0,0.0,1.0,0.3084033349777096,0.6706259507555271,0.6632026181513737,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB. CEARA,IFCO,6424,quinta-feira,0.0,0.0,1.0,0.48373352900341965,0.5406152645920332,0.5378252410956806,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB. MINAS,HB,618,sexta-feira,90.0,253.5,633.8593352861981,318.4595613953443,481.0865362062995,404.89463286746457,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB. MINAS,HB,618,sábado,648.5692358200328,664.0664207581558,456.6666666666667,837.1426467534026,687.4158233659728,650.9478479459622,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB. MINAS,HB,618,segunda-feira,357.0,369.7800585859413,561.8564119400108,579.9451721961442,524.9752676377384,499.3918464800887,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB. MINAS,HB,618,terça-feira,329.0,424.0,365.1897452733442,545.6058241064619,592.1817671405831,585.4943513401169,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB. MINAS,HB,618,quarta-feira,455.0,420.007394159555,444.8564119400109,401.41167079775835,574.9711123132834,440.5194103135067,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB. MINAS,HB,618,quinta-feira,637.0,614.0229892168693,380.3333333333333,646.232586676309,527.8101402245422,728.9490386471264,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB. MINAS,HB,618,sexta-feira,390.0,252.0,473.6666666666667,234.89010969746664,487.0800652205297,312.7484698521496,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB. MINAS,HB,618,sábado,982.0,662.1328415163117,494.0,784.6886304584878,548.2833204089898,580.3966087925769,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB. MINAS,HB,618,segunda-feira,495.0,365.39002929297067,669.6666666666666,548.5064627357874,422.1711139098041,438.24935126191815,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB. MINAS,HB,618,terça-feira,474.0,419.9373411447922,622.3333333333334,526.3171940887254,568.3196964766186,442.5969221652396,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB. MINAS,HB,618,quarta-feira,551.0,422.02178082698333,650.3333333333334,429.99912439405756,565.5990399621704,505.83199371245075,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB. MINAS,HB,618,quinta-feira,656.5692358200328,625.378294392778,506.6666666666667,670.7218382134818,542.7272747598971,595.8497214728774,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB. MINAS,HB,618,sexta-feira,210.0,253.5,560.5230786066776,281.6049501244258,524.0942460773192,476.8601737254147,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB. MINAS,HB,618,sábado,775.0,664.0664207581558,472.52307860667753,821.9359912589795,621.2576207486933,771.6120664930082,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB. MINAS,HB,618,segunda-feira,405.0,369.7800585859413,547.1897452733442,535.249301939964,475.57162093103665,521.3792482056072,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB. MINAS,HB,618,terça-feira,572.4373411447922,424.0,463.3333333333333,508.0806677801766,574.7487153517152,513.137157342753,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB. MINAS,HB,618,quarta-feira,228.0,424.0361674944117,584.1457803815974,443.24288555625037,527.1233810349013,545.035726380769,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB. MINAS,HB,618,quinta-feira,552.0,636.7335995686867,401.8124470482641,643.011883047204,596.9242731083697,602.9281283186701,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB. MINAS,HB,623,sexta-feira,95.0,109.55419396710893,319.8073313804686,1828.9505143930105,1111.9760982528007,1789.0009042037545,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB. MINAS,HB,623,sábado,1433.4307641799671,624.1075373601382,251.33333333333334,1124.184516187444,995.6692541159416,914.9015328693808,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB. MINAS,HB,623,segunda-feira,285.0,214.01516394567395,649.143588059989,385.90261043085775,929.182384223045,942.6371951180358,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB. MINAS,HB,623,terça-feira,321.0,226.0,604.4769213933224,504.2542040258249,949.7523576527987,738.6678808010738,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB. MINAS,HB,623,quarta-feira,1046.0,256.6289799094112,679.8102547266557,471.85641074801583,854.0243393094102,651.4611329908826,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB. MINAS,HB,623,quinta-feira,2276.0,447.0,550.6666666666666,1347.07389747954,809.9628011739328,685.2034147148076,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB. MINAS,HB,623,sexta-feira,940.0,105.0,1214.3333333333333,1541.6020337133687,903.0181446777977,701.0168377334767,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB. MINAS,HB,623,sábado,480.0,640.5999972877254,1420.6666666666667,1272.2709648437703,1038.5016955084302,1157.9016106227034,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB. MINAS,HB,623,segunda-feira,190.0,220.007581972837,1232.0,363.91007331272505,1006.1558095013526,857.4272783653853,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB. MINAS,HB,623,terça-feira,1950.0,231.35166178450487,536.6666666666666,464.9751056781609,920.3354371269165,793.1315834618165,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB. MINAS,HB,623,quarta-feira,190.0,263.58669892306204,873.3333333333334,717.1181535980144,894.5506568322935,970.9196967537338,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB. MINAS,HB,623,quinta-feira,77233.43076417997,447.74593357358526,776.6666666666666,1492.565727725631,970.4356924559231,1339.3979794622112,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB. MINAS,HB,623,sexta-feira,830.0,109.55419396710893,26457.810254726657,3999.4909035398673,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB. MINAS,HB,623,sábado,1325.0,624.1075373601382,26084.47692139332,2610.855599986963,6286.480910080978,35317.488206067625,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB. MINAS,HB,623,segunda-feira,860.0,214.01516394567395,26462.810254726657,751.8039168526238,4692.915047646132,3072.537606460374,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB. MINAS,HB,623,terça-feira,788.5626588552078,236.70332356900977,1005.0,1204.347910984192,4188.654694556519,3694.9339625658868,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB. MINAS,HB,623,quarta-feira,870.0,256.6289799094112,991.1875529517359,876.558154235825,3818.7246308536437,2339.8319919730357,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB. MINAS,HB,623,quinta-feira,1253.0,448.4918671471705,839.5208862850692,19134.59202855706,3572.589814729178,47594.79587461303,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB. MINAS,HB,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB. MINAS,HB,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB. MINAS,HB,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB. MINAS,HB,NAO_INFORMADO,terça-feira,0.0,2.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB. MINAS,HB,NAO_INFORMADO,quarta-feira,0.0,2.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB. MINAS,HB,NAO_INFORMADO,quinta-feira,0.0,13.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB. MINAS,HB,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB. MINAS,HB,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB. MINAS,HB,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB. MINAS,HB,NAO_INFORMADO,terça-feira,0.0,1.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB. MINAS,HB,NAO_INFORMADO,quarta-feira,0.0,1.5,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB. MINAS,HB,NAO_INFORMADO,quinta-feira,0.0,12.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB. MINAS,HB,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB. MINAS,HB,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB. MINAS,HB,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB. MINAS,HB,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB. MINAS,HB,NAO_INFORMADO,quarta-feira,0.0,1.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB. MINAS,HB,NAO_INFORMADO,quinta-feira,0.0,11.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB. MINAS,IFCO,6416,sexta-feira,677.0,516.5,422.0,625.1371124181092,527.5174391730869,512.3065290879028,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB. MINAS,IFCO,6416,sábado,492.0,723.5,509.6666666666667,458.7993277619125,484.343299407162,583.5822899995009,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB. MINAS,IFCO,6416,segunda-feira,481.0,428.0,395.3333333333333,234.84065527109317,503.82234088883473,448.6855795331202,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB. MINAS,IFCO,6416,terça-feira,623.0,598.0,550.0,391.81564368101846,500.98607467567484,460.0320762609742,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB. MINAS,IFCO,6416,quarta-feira,650.0,634.0,532.0,1236.8889068113394,505.48295136938947,669.1284886067899,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB. MINAS,IFCO,6416,quinta-feira,17.0,161.0,584.6666666666666,11.256015552564975,525.188395686616,291.27775348897984,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB. MINAS,IFCO,6416,sexta-feira,0.0,518.0,430.0,627.4420366854431,508.53700861396914,558.0524279197894,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB. MINAS,IFCO,6416,sábado,127.0,718.0,222.33333333333334,348.39931097536567,429.0918265827256,415.5444341778384,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB. MINAS,IFCO,6416,segunda-feira,474.0,428.5,48.0,119.13925400446064,367.9728093405681,393.2175439175625,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB. MINAS,IFCO,6416,terça-feira,680.0,608.0,200.33333333333334,291.70894803513687,349.8283484816467,477.1161834046704,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB. MINAS,IFCO,6416,quarta-feira,1567.0,636.0,427.0,1021.6458684444469,381.25341882705453,511.8831519206593,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB. MINAS,IFCO,6416,quinta-feira,0.0,152.5,907.0,82.36474867793243,481.79766248766845,346.77491110739857,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB. MINAS,IFCO,6416,sexta-feira,828.0,516.5,749.0,574.1181151353651,558.2348974372762,259.57560850379025,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB. MINAS,IFCO,6416,sábado,724.0,717.5,798.3333333333334,509.72322723514236,518.2322809842683,395.9179910319535,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB. MINAS,IFCO,6416,segunda-feira,494.0,429.0,517.3333333333334,449.8126456397076,560.5782809545999,575.3212564653032,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB. MINAS,IFCO,6416,terça-feira,698.0,618.0,682.0,577.2822149941511,572.6792254667827,647.6801290953354,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB. MINAS,IFCO,6416,quarta-feira,503.0,638.0,638.6666666666666,1290.6671420457037,571.73439792941,1058.5456440763883,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB. MINAS,IFCO,6416,quinta-feira,0.0,144.0,565.0,27.98521972809982,580.0292882586207,280.9011506253398,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB. MINAS,IFCO,6424,sexta-feira,2238.0,241.0,1793.3333333333333,1085.2967850187829,1123.328426852558,978.7901138944478,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB. MINAS,IFCO,6424,sábado,0.0,451.0,2166.0,1308.3169527331963,1302.448617402489,1254.726455756188,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB. MINAS,IFCO,6424,segunda-feira,0.0,87.57142857142857,1227.0,812.8168385319246,1064.5159967601564,1066.5874712124648,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB. MINAS,IFCO,6424,terça-feira,0.0,242.0,746.0,899.9706655598341,914.0701186345402,934.2536615474693,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB. MINAS,IFCO,6424,quarta-feira,1050.0,352.0,0.0,1185.1201644905395,791.7633788958053,1040.4085977199124,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB. MINAS,IFCO,6424,quinta-feira,1161.0,185.0,350.0,982.4825191188802,861.7156771214617,912.3813963455539,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB. MINAS,IFCO,6424,sexta-feira,5.0,242.0,737.0,870.8901276895658,905.2445117898397,1055.0922409196908,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB. MINAS,IFCO,6424,sábado,0.0,440.0,738.6666666666666,697.7280504693152,749.9405764220753,597.8404202766267,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB. MINAS,IFCO,6424,segunda-feira,0.0,84.78571428571428,388.6666666666667,311.2173930791837,651.1537585743166,542.9025775233742,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB. MINAS,IFCO,6424,terça-feira,0.0,239.5,1.6666666666666667,476.9060939139505,565.120623437469,481.25722761977545,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB. MINAS,IFCO,6424,quarta-feira,263.0,354.0,0.0,868.4044245460991,489.6017488316747,558.8952893771173,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB. MINAS,IFCO,6424,quinta-feira,596.0,190.0,87.66666666666667,591.1964321882574,468.4047947158606,545.5954321926822,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB. MINAS,IFCO,6424,sexta-feira,40.0,241.0,286.3333333333333,414.9745077615135,497.7571886745807,422.73065330653907,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB. MINAS,IFCO,6424,sábado,80.0,437.5,299.6666666666667,313.9015392545593,416.6562345316543,356.5667819976083,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB. MINAS,IFCO,6424,segunda-feira,240.0,82.0,238.66666666666666,10.29503723637555,372.3984152590922,326.6485197515176,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB. MINAS,IFCO,6424,terça-feira,400.0,237.0,120.0,249.37145440177764,359.9504815279248,324.843429975586,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB. MINAS,IFCO,6424,quarta-feira,2124.0,352.0,240.0,713.359825005208,371.00371715806796,375.2780005351582,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB. MINAS,IFCO,6424,quinta-feira,0.0,195.0,921.3333333333334,774.1545586619818,668.8466272828721,707.5025925768502,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREB. MINAS,IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREB. MINAS,IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREB. MINAS,IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.1551092381977325,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREB. MINAS,IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.015549197133075454,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREB. MINAS,IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREB. MINAS,IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREB. MINAS,IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREB. MINAS,IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREB. MINAS,IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.14819348370850538,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREB. MINAS,IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.014508141759635718,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREB. MINAS,IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREB. MINAS,IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREB. MINAS,IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREB. MINAS,IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREB. MINAS,IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.14146519871154603,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREB. MINAS,IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.013426937175139597,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREB. MINAS,IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREB. MINAS,IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREBESCHI DF,HB,618,sexta-feira,0.0,0.0,0.0,0.7540506868634763,0.1878428353164152,0.18811099083708874,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREBESCHI DF,HB,618,sábado,0.0,0.0,0.0,0.015518256645445719,0.18793052713777406,0.1872692936628586,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREBESCHI DF,HB,618,segunda-feira,0.0,0.0,0.0,0.029602062807429774,0.18686557102682244,0.18777887501789076,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREBESCHI DF,HB,618,terça-feira,0.0,0.0,0.0,0.0484311431548263,0.18635902945964467,0.18579644567998604,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREBESCHI DF,HB,618,quarta-feira,0.0,0.0,0.0,0.11728105044175503,0.18460168062122126,0.18546578992566873,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREBESCHI DF,HB,618,quinta-feira,0.0,0.0,0.0,0.05176078028504777,0.18500248971099234,0.18472635875050303,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREBESCHI DF,HB,618,sexta-feira,0.0,0.0,0.0,0.6850636777333523,0.18512196600009811,0.18441117002399296,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREBESCHI DF,HB,618,sábado,0.0,0.0,0.0,0.013331236101551597,0.18418444301051334,0.18325996468598313,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREBESCHI DF,HB,618,segunda-feira,0.0,0.0,0.0,0.055458412527966225,0.183895693295079,0.18330656823025537,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREBESCHI DF,HB,618,terça-feira,0.0,0.0,0.0,0.01743105838574302,0.18270633482265486,0.1826532296753946,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREBESCHI DF,HB,618,quarta-feira,0.0,0.0,0.0,0.14614592997168582,0.18134338569844632,0.18148439318893234,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREBESCHI DF,HB,618,quinta-feira,0.0,0.0,0.0,0.07873093994752348,0.18149180795190706,0.18090529801078814,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREBESCHI DF,HB,618,sexta-feira,0.0,0.0,0.0,0.6786031454332585,0.18097500094585445,0.1803314033590179,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREBESCHI DF,HB,618,sábado,0.0,0.0,0.0,0.03834047766111223,0.18056405597470443,0.18028693237840063,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREBESCHI DF,HB,618,segunda-feira,0.0,0.0,0.0,0.05271509897437496,0.17981544808384792,0.17998972332777582,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREBESCHI DF,HB,618,terça-feira,0.0,0.0,0.0,0.04300205572901507,0.17869805371695532,0.17861108009487614,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREBESCHI DF,HB,618,quarta-feira,0.0,0.0,0.0,0.11056044395867776,0.1782699336954599,0.17888272226300844,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREBESCHI DF,HB,618,quinta-feira,0.0,0.0,0.0,0.07564231319004365,0.17815376492038595,0.17934266139840818,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREBESCHI DF,HB,623,sexta-feira,0.0,0.0,0.0,0.11237781630302243,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREBESCHI DF,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREBESCHI DF,HB,623,segunda-feira,0.0,0.0,0.0,0.6889774664207229,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREBESCHI DF,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREBESCHI DF,HB,623,quarta-feira,0.0,0.0,0.0,0.002299014148691188,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREBESCHI DF,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREBESCHI DF,HB,623,sexta-feira,0.0,0.0,0.0,0.11179513574636442,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREBESCHI DF,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREBESCHI DF,HB,623,segunda-feira,0.0,0.0,0.0,0.6853841326029373,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREBESCHI DF,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREBESCHI DF,HB,623,quarta-feira,0.0,0.0,0.0,0.0022851354940934734,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREBESCHI DF,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREBESCHI DF,HB,623,sexta-feira,0.0,0.0,0.0,0.1112137412552827,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREBESCHI DF,HB,623,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREBESCHI DF,HB,623,segunda-feira,0.0,0.0,0.0,0.6818246193480327,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREBESCHI DF,HB,623,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREBESCHI DF,HB,623,quarta-feira,0.0,0.0,0.0,0.0022612156239199873,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREBESCHI DF,HB,623,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREBESCHI DF,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,3.652919203131949,3.4988676403692485,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREBESCHI DF,IFCO,6416,sábado,0.0,0.0,0.0,0.0,3.6322549308049457,3.486380971671053,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREBESCHI DF,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.38336603491767773,3.625350651941993,3.4716755846012566,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREBESCHI DF,IFCO,6416,terça-feira,0.0,0.0,0.0,18.392303132737126,3.603074328699533,3.464127042749683,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREBESCHI DF,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.09868904392635569,3.6004789712708076,3.45275357170106,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREBESCHI DF,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.2261121393865153,3.589435372050866,3.4378925430929907,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREBESCHI DF,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.0,3.5676272654024808,3.4249564452038674,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREBESCHI DF,IFCO,6416,sábado,0.0,0.0,0.0,0.35762312003235763,3.564641166432893,3.414710672537273,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREBESCHI DF,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.32537257174568746,3.5521291500335597,3.406377045046764,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREBESCHI DF,IFCO,6416,terça-feira,0.0,0.0,0.0,18.21552073258011,3.540469163105093,3.3893912363618317,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREBESCHI DF,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.042691943379101094,3.5259097792808354,3.3776199073524062,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREBESCHI DF,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,3.5157337060744536,3.365571585953088,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREBESCHI DF,IFCO,6416,sexta-feira,0.0,0.0,0.0,0.2041256798168556,3.5012899310709993,3.3539743385911476,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREBESCHI DF,IFCO,6416,sábado,0.0,0.0,0.0,0.0,3.473082153499294,3.35369699655424,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREBESCHI DF,IFCO,6416,segunda-feira,0.0,0.0,0.0,0.2693664877992048,3.4601694360937443,3.3300371781293796,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREBESCHI DF,IFCO,6416,terça-feira,0.0,0.0,0.0,20.115912151192347,3.4700280341894842,3.31770619629905,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREBESCHI DF,IFCO,6416,quarta-feira,0.0,0.0,0.0,0.0,3.446744207633321,3.303376240329049,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREBESCHI DF,IFCO,6416,quinta-feira,0.0,0.0,0.0,0.0,3.419141965575292,3.294842110569375,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREBESCHI DF,IFCO,6424,sexta-feira,0.0,0.0,0.0,0.2654847052019286,2.4697695051428478e-05,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-29,TREBESCHI DF,IFCO,6424,sábado,0.0,0.0,0.0,0.0,2.3003874493852938e-05,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-31,TREBESCHI DF,IFCO,6424,segunda-feira,0.0,0.0,0.0,1.0350623802981902,2.0739933226886914e-05,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-01,TREBESCHI DF,IFCO,6424,terça-feira,0.0,0.0,0.0,0.0,1.856352273093588e-05,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-02,TREBESCHI DF,IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,1.685312590132132e-05,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-03,TREBESCHI DF,IFCO,6424,quinta-feira,0.0,0.0,0.0,1.3387695439850553,1.555475080177761e-05,1.3216960750527873e-05,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-04,TREBESCHI DF,IFCO,6424,sexta-feira,0.0,0.0,0.0,0.2641073002511185,1.3580114288484074e-05,3.0456153781940352e-05,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-05,TREBESCHI DF,IFCO,6424,sábado,0.0,0.0,0.0,0.0,1.1324653999911574e-05,4.8037255108373446e-05,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-07,TREBESCHI DF,IFCO,6424,segunda-feira,0.0,0.0,0.0,1.0296602723001287,9.4112825375723e-06,6.549786502484234e-05,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-08,TREBESCHI DF,IFCO,6424,terça-feira,0.0,0.0,0.0,0.0,7.72584002970908e-06,8.335152013765423e-05,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-09,TREBESCHI DF,IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,5.898543589870006e-06,0.0001012081669690549,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-10,TREBESCHI DF,IFCO,6424,quinta-feira,0.0,0.0,0.0,1.3317902024571575,3.7519877791811207e-06,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-11,TREBESCHI DF,IFCO,6424,sexta-feira,0.0,0.0,0.0,0.26274933511298176,2.2186144383717216e-06,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-12,TREBESCHI DF,IFCO,6424,sábado,0.0,0.0,0.0,0.0,1.8578298676113353e-07,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-14,TREBESCHI DF,IFCO,6424,segunda-feira,0.0,0.0,0.0,1.0242930750312236,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-15,TREBESCHI DF,IFCO,6424,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-16,TREBESCHI DF,IFCO,6424,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-09-17,TREBESCHI DF,IFCO,6424,quinta-feira,0.0,0.0,0.0,1.3248868200023949,0.0,0.0,ajustado,ajustado,ajustado,ajustado,ajustado
+2026-08-28,TREBESCHI DF,IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-29,TREBESCHI DF,IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-08-31,TREBESCHI DF,IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-01,TREBESCHI DF,IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-02,TREBESCHI DF,IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-03,TREBESCHI DF,IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-04,TREBESCHI DF,IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-05,TREBESCHI DF,IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-07,TREBESCHI DF,IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-08,TREBESCHI DF,IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-09,TREBESCHI DF,IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-10,TREBESCHI DF,IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-11,TREBESCHI DF,IFCO,NAO_INFORMADO,sexta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-12,TREBESCHI DF,IFCO,NAO_INFORMADO,sábado,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-14,TREBESCHI DF,IFCO,NAO_INFORMADO,segunda-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-15,TREBESCHI DF,IFCO,NAO_INFORMADO,terça-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-16,TREBESCHI DF,IFCO,NAO_INFORMADO,quarta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana
+2026-09-17,TREBESCHI DF,IFCO,NAO_INFORMADO,quinta-feira,0.0,0.0,0.0,0.0,0.0,0.0,ajustado,ajustado,fallback_mediana,fallback_mediana,fallback_mediana

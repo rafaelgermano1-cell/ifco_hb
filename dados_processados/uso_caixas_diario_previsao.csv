@@ -1,0 +1,1076 @@
+data,dia_semana,numero_dia_semana,origem,familia_caixa,modelo_caixa_previsao,metodo_modelo,quantidade_caixas,registros_origem
+2026-06-01,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,618,explícito,105.0,4
+2026-06-01,segunda-feira,0,PH ALHO/CEBOLA,IFCO,6424,explícito,560.0,2
+2026-06-01,segunda-feira,0,PH UBAJARA,HB,623,explícito,220.0,2
+2026-06-01,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,54.0,50
+2026-06-01,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,30.0,23
+2026-06-01,segunda-feira,0,TREB. MINAS,HB,618,explícito,478.0,25
+2026-06-01,segunda-feira,0,TREB. MINAS,HB,623,explícito,628.0,6
+2026-06-01,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,331.0,8
+2026-06-01,segunda-feira,0,TREB. MINAS,IFCO,6424,explícito,31.0,3
+2026-06-02,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,128.0,4
+2026-06-02,terça-feira,1,PH CORUMBA (PF),HB,623,explícito,440.0,1
+2026-06-02,terça-feira,1,PH CORUMBA (PF),IFCO,6424,explícito,880.0,5
+2026-06-02,terça-feira,1,PH UBAJARA,HB,618,explícito,185.0,16
+2026-06-02,terça-feira,1,PH UBAJARA,HB,623,explícito,68.0,7
+2026-06-02,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,52.0,18
+2026-06-02,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,265.0,33
+2026-06-02,terça-feira,1,TREB. CEARA,IFCO,6424,explícito,41.0,1
+2026-06-02,terça-feira,1,TREB. MINAS,HB,618,explícito,483.0,28
+2026-06-02,terça-feira,1,TREB. MINAS,HB,618,rateio_por_capacidade,107.02959853101777,7
+2026-06-02,terça-feira,1,TREB. MINAS,HB,623,explícito,1215.0,31
+2026-06-02,terça-feira,1,TREB. MINAS,HB,623,rateio_por_capacidade,31.970401468982228,8
+2026-06-03,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,72.0,4
+2026-06-03,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,8.0,1
+2026-06-03,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,49.0,3
+2026-06-03,quarta-feira,2,PH CORUMBA (PF),HB,618,explícito,150.0,1
+2026-06-03,quarta-feira,2,PH CORUMBA (PF),HB,623,explícito,1080.0,2
+2026-06-03,quarta-feira,2,PH CORUMBA (PF),IFCO,6424,explícito,280.0,2
+2026-06-03,quarta-feira,2,PH UBAJARA,HB,618,explícito,160.0,14
+2026-06-03,quarta-feira,2,PH UBAJARA,HB,623,explícito,2.0,1
+2026-06-03,quarta-feira,2,PH UBAJARA,IFCO,6416,explícito,241.0,18
+2026-06-03,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,80.0,10
+2026-06-03,quarta-feira,2,TREB. CEARA,HB,618,explícito,9.0,1
+2026-06-03,quarta-feira,2,TREB. CEARA,IFCO,6416,explícito,32.0,1
+2026-06-03,quarta-feira,2,TREB. MINAS,HB,618,explícito,414.0,5
+2026-06-03,quarta-feira,2,TREB. MINAS,HB,623,explícito,85.0,4
+2026-06-03,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,300.0,32
+2026-06-03,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,118.0,8
+2026-06-04,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,57.0,4
+2026-06-04,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,560.0,1
+2026-06-04,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,112.0,25
+2026-06-04,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,8.0,1
+2026-06-04,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,1.0,1
+2026-06-04,quinta-feira,3,TREB. MINAS,HB,618,explícito,433.0,33
+2026-06-04,quinta-feira,3,TREB. MINAS,HB,623,explícito,100.0,4
+2026-06-04,quinta-feira,3,TREB. MINAS,IFCO,6416,explícito,22.0,4
+2026-06-04,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,34.0,5
+2026-06-05,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,39.0,4
+2026-06-05,sexta-feira,4,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,40.0,1
+2026-06-05,sexta-feira,4,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,520.0,1
+2026-06-05,sexta-feira,4,PH CORUMBA (PF),HB,623,explícito,120.0,2
+2026-06-05,sexta-feira,4,PH UBAJARA,IFCO,6416,explícito,169.0,35
+2026-06-05,sexta-feira,4,PH UBAJARA,IFCO,6424,explícito,51.0,13
+2026-06-05,sexta-feira,4,TREB. CEARA,IFCO,6416,explícito,25.0,2
+2026-06-05,sexta-feira,4,TREB. MINAS,HB,618,explícito,119.0,5
+2026-06-05,sexta-feira,4,TREB. MINAS,HB,623,explícito,562.0,5
+2026-06-05,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,668.0,6
+2026-06-06,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,176.0,7
+2026-06-06,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,100.0,1
+2026-06-06,sábado,5,PH CORUMBA (PF),IFCO,6424,explícito,310.0,4
+2026-06-06,sábado,5,PH UBAJARA,HB,618,explícito,340.0,30
+2026-06-06,sábado,5,PH UBAJARA,HB,623,explícito,47.0,9
+2026-06-06,sábado,5,PH UBAJARA,IFCO,6416,explícito,3.0,1
+2026-06-06,sábado,5,PH UBAJARA,IFCO,6424,explícito,191.0,15
+2026-06-06,sábado,5,TREB. CEARA,HB,618,explícito,25.0,1
+2026-06-06,sábado,5,TREB. CEARA,IFCO,6424,explícito,41.0,1
+2026-06-06,sábado,5,TREB. MINAS,HB,618,explícito,666.0,24
+2026-06-06,sábado,5,TREB. MINAS,HB,623,explícito,270.0,6
+2026-06-06,sábado,5,TREB. MINAS,IFCO,6416,explícito,682.0,22
+2026-06-06,sábado,5,TREB. MINAS,IFCO,6424,explícito,440.0,4
+2026-06-08,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,618,explícito,82.0,5
+2026-06-08,segunda-feira,0,PH CORUMBA (PF),HB,623,explícito,450.0,1
+2026-06-08,segunda-feira,0,PH CORUMBA (PF),IFCO,6424,explícito,80.0,4
+2026-06-08,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,5.0,3
+2026-06-08,segunda-feira,0,TREB. MINAS,HB,618,explícito,532.0,26
+2026-06-08,segunda-feira,0,TREB. MINAS,HB,623,explícito,192.0,6
+2026-06-08,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,389.0,5
+2026-06-09,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,351.0,7
+2026-06-09,terça-feira,1,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,40.0,1
+2026-06-09,terça-feira,1,PH CORUMBA (PF),IFCO,6424,explícito,240.0,2
+2026-06-09,terça-feira,1,PH UBAJARA,HB,618,explícito,96.0,9
+2026-06-09,terça-feira,1,PH UBAJARA,HB,623,explícito,43.0,7
+2026-06-09,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,120.0,14
+2026-06-09,terça-feira,1,TREB. MINAS,HB,618,explícito,678.0,24
+2026-06-09,terça-feira,1,TREB. MINAS,HB,618,rateio_por_capacidade,91.40877809386163,4
+2026-06-09,terça-feira,1,TREB. MINAS,HB,623,explícito,1252.0,21
+2026-06-09,terça-feira,1,TREB. MINAS,HB,623,rateio_por_capacidade,13.591221906138383,6
+2026-06-09,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,520.0,15
+2026-06-09,terça-feira,1,TREB. MINAS,IFCO,6424,explícito,1248.0,10
+2026-06-10,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,68.0,4
+2026-06-10,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,12.0,4
+2026-06-10,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,866.0,3
+2026-06-10,quarta-feira,2,PH CORUMBA (PF),HB,623,explícito,80.0,1
+2026-06-10,quarta-feira,2,PH CORUMBA (PF),IFCO,6424,explícito,440.0,9
+2026-06-10,quarta-feira,2,PH UBAJARA,HB,618,explícito,149.0,14
+2026-06-10,quarta-feira,2,PH UBAJARA,HB,623,explícito,2.0,1
+2026-06-10,quarta-feira,2,PH UBAJARA,IFCO,6416,explícito,346.0,28
+2026-06-10,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,180.0,7
+2026-06-10,quarta-feira,2,TREB. CEARA,IFCO,6416,explícito,71.0,3
+2026-06-10,quarta-feira,2,TREB. MINAS,HB,618,explícito,66.0,6
+2026-06-10,quarta-feira,2,TREB. MINAS,HB,623,explícito,88.0,4
+2026-06-10,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,320.0,30
+2026-06-10,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,1195.0,15
+2026-06-11,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,301.0,6
+2026-06-11,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,890.0,3
+2026-06-11,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,74.0,1
+2026-06-11,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,401.0,35
+2026-06-11,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,315.0,23
+2026-06-11,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,54.0,8
+2026-06-11,quinta-feira,3,TREB. CEARA,IFCO,6424,explícito,83.0,9
+2026-06-11,quinta-feira,3,TREB. MINAS,HB,618,explícito,588.0,23
+2026-06-11,quinta-feira,3,TREB. MINAS,HB,623,explícito,168.0,6
+2026-06-11,quinta-feira,3,TREB. MINAS,IFCO,6416,explícito,31.0,4
+2026-06-11,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,81.0,8
+2026-06-12,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,46.0,4
+2026-06-12,sexta-feira,4,PH CORUMBA (PF),HB,623,explícito,640.0,1
+2026-06-12,sexta-feira,4,PH UBAJARA,IFCO,6416,explícito,20.0,2
+2026-06-12,sexta-feira,4,PH UBAJARA,IFCO,6424,explícito,686.0,31
+2026-06-12,sexta-feira,4,TREB. MINAS,HB,618,explícito,113.0,5
+2026-06-12,sexta-feira,4,TREB. MINAS,HB,623,explícito,73.0,4
+2026-06-12,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,453.0,5
+2026-06-13,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,190.0,6
+2026-06-13,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,100.0,1
+2026-06-13,sábado,5,PH CORUMBA (PF),IFCO,6424,explícito,240.0,2
+2026-06-13,sábado,5,PH UBAJARA,HB,618,explícito,332.0,39
+2026-06-13,sábado,5,PH UBAJARA,HB,623,explícito,37.0,9
+2026-06-13,sábado,5,PH UBAJARA,IFCO,6416,explícito,292.0,71
+2026-06-13,sábado,5,PH UBAJARA,IFCO,6424,explícito,307.0,53
+2026-06-13,sábado,5,TREB. CEARA,HB,618,explícito,11.0,2
+2026-06-13,sábado,5,TREB. CEARA,IFCO,6416,explícito,65.0,4
+2026-06-13,sábado,5,TREB. MINAS,HB,618,explícito,633.0,29
+2026-06-13,sábado,5,TREB. MINAS,HB,623,explícito,239.0,8
+2026-06-13,sábado,5,TREB. MINAS,IFCO,6416,explícito,438.0,43
+2026-06-13,sábado,5,TREB. MINAS,IFCO,6424,explícito,112.0,13
+2026-06-15,segunda-feira,0,PH CORUMBA (PF),HB,623,explícito,810.0,1
+2026-06-15,segunda-feira,0,PH CORUMBA (PF),IFCO,6424,explícito,280.0,3
+2026-06-15,segunda-feira,0,PH UBAJARA,HB,618,explícito,80.0,2
+2026-06-15,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,89.0,88
+2026-06-15,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,134.0,35
+2026-06-15,segunda-feira,0,TREB. MINAS,HB,618,explícito,311.0,11
+2026-06-15,segunda-feira,0,TREB. MINAS,HB,623,explícito,178.0,6
+2026-06-15,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,347.0,4
+2026-06-16,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,210.0,3
+2026-06-16,terça-feira,1,PH CORUMBA (PF),IFCO,6424,explícito,1590.0,7
+2026-06-16,terça-feira,1,PH UBAJARA,HB,618,explícito,89.0,14
+2026-06-16,terça-feira,1,PH UBAJARA,HB,623,explícito,22.0,5
+2026-06-16,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,7.0,7
+2026-06-16,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,403.0,22
+2026-06-16,terça-feira,1,TREB. CEARA,HB,618,explícito,125.0,4
+2026-06-16,terça-feira,1,TREB. MINAS,HB,618,explícito,708.0,24
+2026-06-16,terça-feira,1,TREB. MINAS,HB,618,rateio_por_capacidade,10.49572775486152,2
+2026-06-16,terça-feira,1,TREB. MINAS,HB,623,explícito,307.0,25
+2026-06-16,terça-feira,1,TREB. MINAS,HB,623,rateio_por_capacidade,0.5042722451384797,1
+2026-06-16,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,408.0,7
+2026-06-17,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,300.0,1
+2026-06-17,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,91.0,6
+2026-06-17,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,231.0,3
+2026-06-17,quarta-feira,2,F. BICAME,HB,623,explícito,450.0,1
+2026-06-17,quarta-feira,2,PH CORUMBA (PF),HB,623,explícito,810.0,1
+2026-06-17,quarta-feira,2,PH CORUMBA (PF),IFCO,6424,explícito,1120.0,2
+2026-06-17,quarta-feira,2,PH UBAJARA,HB,618,explícito,77.0,13
+2026-06-17,quarta-feira,2,PH UBAJARA,HB,623,explícito,2.0,1
+2026-06-17,quarta-feira,2,PH UBAJARA,IFCO,6416,explícito,227.0,15
+2026-06-17,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,198.0,13
+2026-06-17,quarta-feira,2,TREB. CEARA,HB,618,explícito,7.0,2
+2026-06-17,quarta-feira,2,TREB. CEARA,IFCO,6416,explícito,56.0,3
+2026-06-17,quarta-feira,2,TREB. MINAS,HB,618,explícito,154.0,7
+2026-06-17,quarta-feira,2,TREB. MINAS,HB,623,explícito,57.0,4
+2026-06-17,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,581.0,32
+2026-06-17,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,1366.0,18
+2026-06-18,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,29.0,1
+2026-06-18,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,881.0,3
+2026-06-18,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,1272.0,2
+2026-06-18,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,78.0,15
+2026-06-18,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,206.0,2
+2026-06-18,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,14.0,2
+2026-06-18,quinta-feira,3,TREB. MINAS,HB,618,explícito,757.0,45
+2026-06-18,quinta-feira,3,TREB. MINAS,HB,618,rateio_por_capacidade,14.058880715902497,3
+2026-06-18,quinta-feira,3,TREB. MINAS,HB,623,explícito,216.0,16
+2026-06-18,quinta-feira,3,TREB. MINAS,HB,623,rateio_por_capacidade,6.941119284097504,3
+2026-06-18,quinta-feira,3,TREB. MINAS,IFCO,6416,explícito,507.0,9
+2026-06-18,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,28.0,3
+2026-06-19,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,250.0,3
+2026-06-19,sexta-feira,4,PH ALHO/CEBOLA,IFCO,6424,explícito,640.0,4
+2026-06-19,sexta-feira,4,PH CORUMBA (PF),IFCO,6424,explícito,280.0,3
+2026-06-19,sexta-feira,4,PH UBAJARA,HB,618,explícito,24.0,2
+2026-06-19,sexta-feira,4,TREB. MINAS,HB,618,explícito,177.0,5
+2026-06-19,sexta-feira,4,TREB. MINAS,HB,623,explícito,203.0,5
+2026-06-19,sexta-feira,4,TREB. MINAS,IFCO,6424,explícito,520.0,4
+2026-06-20,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,35.0,3
+2026-06-20,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,2.0,1
+2026-06-20,sábado,5,PH CORUMBA (PF),IFCO,6424,explícito,2370.0,7
+2026-06-20,sábado,5,PH UBAJARA,HB,618,explícito,336.0,49
+2026-06-20,sábado,5,PH UBAJARA,HB,623,explícito,38.0,7
+2026-06-20,sábado,5,PH UBAJARA,IFCO,6416,explícito,310.0,61
+2026-06-20,sábado,5,PH UBAJARA,IFCO,6424,explícito,405.0,53
+2026-06-20,sábado,5,TREB. CEARA,HB,618,explícito,50.0,3
+2026-06-20,sábado,5,TREB. CEARA,IFCO,6416,explícito,106.0,4
+2026-06-20,sábado,5,TREB. CEARA,IFCO,6424,explícito,12.0,3
+2026-06-20,sábado,5,TREB. MINAS,HB,618,explícito,749.0,38
+2026-06-20,sábado,5,TREB. MINAS,HB,618,rateio_por_capacidade,14.058880715902497,3
+2026-06-20,sábado,5,TREB. MINAS,HB,623,explícito,396.0,20
+2026-06-20,sábado,5,TREB. MINAS,HB,623,rateio_por_capacidade,6.941119284097504,3
+2026-06-20,sábado,5,TREB. MINAS,IFCO,6416,explícito,479.0,26
+2026-06-20,sábado,5,TREB. MINAS,IFCO,6424,explícito,1528.0,7
+2026-06-22,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,337.0,76
+2026-06-22,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,31.0,20
+2026-06-22,segunda-feira,0,TREB. MINAS,HB,618,explícito,334.0,7
+2026-06-22,segunda-feira,0,TREB. MINAS,HB,623,explícito,991.0,7
+2026-06-22,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,282.0,4
+2026-06-23,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,2.0,1
+2026-06-23,terça-feira,1,PH ALHO/CEBOLA,IFCO,6424,explícito,1040.0,5
+2026-06-23,terça-feira,1,PH CORUMBA (PF),IFCO,6424,explícito,540.0,4
+2026-06-23,terça-feira,1,PH UBAJARA,HB,618,explícito,122.0,15
+2026-06-23,terça-feira,1,PH UBAJARA,HB,623,explícito,42.0,6
+2026-06-23,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,12.0,2
+2026-06-23,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,198.0,24
+2026-06-23,terça-feira,1,TREB. CEARA,HB,618,explícito,28.0,1
+2026-06-23,terça-feira,1,TREB. MINAS,HB,618,explícito,604.0,23
+2026-06-23,terça-feira,1,TREB. MINAS,HB,618,rateio_por_capacidade,20.0,2
+2026-06-23,terça-feira,1,TREB. MINAS,HB,623,explícito,887.0,23
+2026-06-23,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,391.0,7
+2026-06-23,terça-feira,1,TREB. MINAS,IFCO,6424,explícito,2888.0,10
+2026-06-24,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,53.0,5
+2026-06-24,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,217.0,3
+2026-06-24,quarta-feira,2,PH CORUMBA (PF),HB,623,explícito,690.0,1
+2026-06-24,quarta-feira,2,PH UBAJARA,HB,618,explícito,104.0,11
+2026-06-24,quarta-feira,2,PH UBAJARA,HB,623,explícito,1.0,1
+2026-06-24,quarta-feira,2,PH UBAJARA,IFCO,6416,explícito,222.0,24
+2026-06-24,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,693.0,42
+2026-06-24,quarta-feira,2,TREB. CEARA,HB,618,explícito,10.0,2
+2026-06-24,quarta-feira,2,TREB. CEARA,IFCO,6416,explícito,62.0,2
+2026-06-24,quarta-feira,2,TREB. MINAS,HB,618,explícito,194.0,6
+2026-06-24,quarta-feira,2,TREB. MINAS,HB,623,explícito,145.0,5
+2026-06-24,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,464.0,26
+2026-06-24,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,2817.0,19
+2026-06-25,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,280.0,1
+2026-06-25,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,3448.0,7
+2026-06-25,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,128.0,26
+2026-06-25,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,263.0,21
+2026-06-25,quinta-feira,3,TREB. MINAS,HB,618,explícito,463.0,35
+2026-06-25,quinta-feira,3,TREB. MINAS,HB,623,explícito,113.0,6
+2026-06-25,quinta-feira,3,TREB. MINAS,IFCO,6416,explícito,180.0,1
+2026-06-25,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,2500.0,5
+2026-06-26,sexta-feira,4,PH CASCAVEL,HB,623,explícito,80.0,1
+2026-06-26,sexta-feira,4,PH CASCAVEL,IFCO,6424,explícito,1200.0,6
+2026-06-26,sexta-feira,4,TREB. MINAS,HB,618,explícito,148.0,5
+2026-06-26,sexta-feira,4,TREB. MINAS,HB,623,explícito,18.0,3
+2026-06-26,sexta-feira,4,TREB. MINAS,IFCO,6424,explícito,2638.0,4
+2026-06-27,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,2.0,2
+2026-06-27,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,40.0,1
+2026-06-27,sábado,5,PH CASCAVEL,IFCO,6424,explícito,970.0,2
+2026-06-27,sábado,5,PH CORUMBA (PF),HB,623,explícito,640.0,1
+2026-06-27,sábado,5,PH CORUMBA (PF),IFCO,6424,explícito,350.0,2
+2026-06-27,sábado,5,PH UBAJARA,HB,618,explícito,263.0,37
+2026-06-27,sábado,5,PH UBAJARA,HB,623,explícito,33.0,7
+2026-06-27,sábado,5,PH UBAJARA,IFCO,6416,explícito,229.0,70
+2026-06-27,sábado,5,PH UBAJARA,IFCO,6424,explícito,145.0,65
+2026-06-27,sábado,5,TREB. CEARA,HB,618,explícito,14.0,1
+2026-06-27,sábado,5,TREB. CEARA,IFCO,6424,explícito,1.0,1
+2026-06-27,sábado,5,TREB. MINAS,HB,618,explícito,552.0,28
+2026-06-27,sábado,5,TREB. MINAS,HB,618,rateio_por_capacidade,119.23605128021615,6
+2026-06-27,sábado,5,TREB. MINAS,HB,623,explícito,1512.0,31
+2026-06-27,sábado,5,TREB. MINAS,HB,623,rateio_por_capacidade,12.763948719783853,6
+2026-06-27,sábado,5,TREB. MINAS,IFCO,6416,explícito,105.0,31
+2026-06-27,sábado,5,TREB. MINAS,IFCO,6424,explícito,400.0,2
+2026-06-29,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,623,explícito,16.0,1
+2026-06-29,segunda-feira,0,PH CASCAVEL,HB,623,explícito,80.0,1
+2026-06-29,segunda-feira,0,PH CASCAVEL,IFCO,6424,explícito,560.0,3
+2026-06-29,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,171.0,28
+2026-06-29,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,191.0,15
+2026-06-29,segunda-feira,0,TREB. CEARA,IFCO,6416,explícito,62.0,4
+2026-06-29,segunda-feira,0,TREB. MINAS,HB,618,explícito,551.0,22
+2026-06-29,segunda-feira,0,TREB. MINAS,HB,623,explícito,784.0,6
+2026-06-29,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,18.0,4
+2026-06-29,segunda-feira,0,TREB. MINAS,IFCO,6424,explícito,28.0,3
+2026-06-30,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,178.0,4
+2026-06-30,terça-feira,1,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,100.0,1
+2026-06-30,terça-feira,1,PH CASCAVEL,IFCO,6424,explícito,90.0,1
+2026-06-30,terça-feira,1,PH CORUMBA (PF),IFCO,6424,explícito,450.0,2
+2026-06-30,terça-feira,1,PH UBAJARA,HB,618,explícito,89.0,9
+2026-06-30,terça-feira,1,PH UBAJARA,HB,623,explícito,33.0,6
+2026-06-30,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,26.0,13
+2026-06-30,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,161.0,23
+2026-06-30,terça-feira,1,TREB. CEARA,IFCO,6424,explícito,3.0,1
+2026-06-30,terça-feira,1,TREB. MINAS,HB,618,explícito,338.0,23
+2026-06-30,terça-feira,1,TREB. MINAS,HB,623,explícito,226.0,10
+2026-06-30,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,100.0,3
+2026-06-30,terça-feira,1,TREB. MINAS,IFCO,6424,explícito,80.0,2
+2026-07-01,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,168.0,3
+2026-07-01,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,11.0,1
+2026-07-01,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,12.0,2
+2026-07-01,quarta-feira,2,PH CORUMBA (PF),HB,623,explícito,1901.0,3
+2026-07-01,quarta-feira,2,PH CORUMBA (PF),IFCO,6424,explícito,640.0,1
+2026-07-01,quarta-feira,2,PH UBAJARA,HB,618,explícito,69.0,13
+2026-07-01,quarta-feira,2,PH UBAJARA,HB,623,explícito,1.0,1
+2026-07-01,quarta-feira,2,PH UBAJARA,IFCO,6416,explícito,52.0,9
+2026-07-01,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,34.0,6
+2026-07-01,quarta-feira,2,TREB. MINAS,HB,618,explícito,413.0,7
+2026-07-01,quarta-feira,2,TREB. MINAS,HB,623,explícito,2672.0,7
+2026-07-01,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,1797.0,31
+2026-07-01,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,936.0,18
+2026-07-02,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,279.0,5
+2026-07-02,quinta-feira,3,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,40.0,1
+2026-07-02,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,1540.0,2
+2026-07-02,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,41.0,1
+2026-07-02,quinta-feira,3,PH UBAJARA,HB,618,explícito,55.0,4
+2026-07-02,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,319.0,45
+2026-07-02,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,188.0,17
+2026-07-02,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,42.0,5
+2026-07-02,quinta-feira,3,TREB. MINAS,HB,618,explícito,428.0,35
+2026-07-02,quinta-feira,3,TREB. MINAS,HB,623,explícito,2768.0,8
+2026-07-02,quinta-feira,3,TREB. MINAS,IFCO,6416,explícito,27.0,4
+2026-07-02,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,1037.0,7
+2026-07-03,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,46.0,3
+2026-07-03,sexta-feira,4,PH CASCAVEL,IFCO,6424,explícito,880.0,1
+2026-07-03,sexta-feira,4,PH CORUMBA (PF),HB,623,explícito,690.0,1
+2026-07-03,sexta-feira,4,PH UBAJARA,IFCO,6416,explícito,15.0,1
+2026-07-03,sexta-feira,4,PH UBAJARA,IFCO,6424,explícito,195.0,13
+2026-07-03,sexta-feira,4,TREB. MINAS,HB,618,explícito,364.0,5
+2026-07-03,sexta-feira,4,TREB. MINAS,HB,623,explícito,1323.0,4
+2026-07-03,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,468.0,5
+2026-07-03,sexta-feira,4,TREB. MINAS,IFCO,6424,explícito,640.0,2
+2026-07-04,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,18.0,3
+2026-07-04,sábado,5,AGROINDUSTRIA TREBESCHI,HB,623,explícito,7.0,1
+2026-07-04,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,80.0,1
+2026-07-04,sábado,5,PH CASCAVEL,IFCO,6424,explícito,880.0,3
+2026-07-04,sábado,5,PH UBAJARA,HB,618,explícito,343.0,38
+2026-07-04,sábado,5,PH UBAJARA,HB,623,explícito,35.0,7
+2026-07-04,sábado,5,PH UBAJARA,IFCO,6416,explícito,110.0,27
+2026-07-04,sábado,5,PH UBAJARA,IFCO,6424,explícito,373.0,37
+2026-07-04,sábado,5,TREB. CEARA,HB,618,explícito,19.0,2
+2026-07-04,sábado,5,TREB. MINAS,HB,618,explícito,677.0,33
+2026-07-04,sábado,5,TREB. MINAS,HB,623,explícito,2017.0,14
+2026-07-04,sábado,5,TREB. MINAS,IFCO,6416,explícito,404.0,22
+2026-07-04,sábado,5,TREB. MINAS,IFCO,6424,explícito,80.0,1
+2026-07-06,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,618,explícito,400.0,2
+2026-07-06,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,623,explícito,71.0,3
+2026-07-06,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,447.0,193
+2026-07-06,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,235.0,63
+2026-07-06,segunda-feira,0,TREB. CEARA,IFCO,6416,explícito,67.0,4
+2026-07-06,segunda-feira,0,TREB. MINAS,HB,618,explícito,336.0,8
+2026-07-06,segunda-feira,0,TREB. MINAS,HB,618,rateio_por_capacidade,23.058880715902497,4
+2026-07-06,segunda-feira,0,TREB. MINAS,HB,623,explícito,676.0,30
+2026-07-06,segunda-feira,0,TREB. MINAS,HB,623,rateio_por_capacidade,9.941119284097505,4
+2026-07-06,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,186.0,5
+2026-07-07,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,54.0,3
+2026-07-07,terça-feira,1,PH CASCAVEL,IFCO,6424,explícito,240.0,2
+2026-07-07,terça-feira,1,PH CORUMBA (PF),IFCO,6424,explícito,480.0,1
+2026-07-07,terça-feira,1,PH UBAJARA,HB,618,explícito,108.0,13
+2026-07-07,terça-feira,1,PH UBAJARA,HB,623,explícito,41.0,6
+2026-07-07,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,57.0,24
+2026-07-07,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,97.0,28
+2026-07-07,terça-feira,1,TREB. CEARA,HB,618,explícito,18.0,1
+2026-07-07,terça-feira,1,TREB. CEARA,IFCO,6424,explícito,28.0,3
+2026-07-07,terça-feira,1,TREB. MINAS,HB,618,explícito,390.0,24
+2026-07-07,terça-feira,1,TREB. MINAS,HB,623,explícito,1965.0,11
+2026-07-07,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,40.0,2
+2026-07-07,terça-feira,1,TREB. MINAS,IFCO,6424,explícito,80.0,1
+2026-07-08,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,65.0,3
+2026-07-08,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,7.0,2
+2026-07-08,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,9.0,1
+2026-07-08,quarta-feira,2,PH CORUMBA (PF),IFCO,6424,explícito,480.0,1
+2026-07-08,quarta-feira,2,PH UBAJARA,HB,618,explícito,146.0,14
+2026-07-08,quarta-feira,2,PH UBAJARA,HB,623,explícito,1.0,1
+2026-07-08,quarta-feira,2,PH UBAJARA,IFCO,6416,explícito,235.0,21
+2026-07-08,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,214.0,19
+2026-07-08,quarta-feira,2,TREB. CEARA,HB,618,explícito,7.0,2
+2026-07-08,quarta-feira,2,TREB. CEARA,IFCO,6416,explícito,13.0,5
+2026-07-08,quarta-feira,2,TREB. MINAS,HB,618,explícito,473.0,7
+2026-07-08,quarta-feira,2,TREB. MINAS,HB,623,explícito,75.0,4
+2026-07-08,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,208.0,33
+2026-07-08,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,955.0,15
+2026-07-09,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,56.0,3
+2026-07-09,quinta-feira,3,PH CASCAVEL,IFCO,6424,explícito,1120.0,2
+2026-07-09,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,360.0,1
+2026-07-09,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,50.0,1
+2026-07-09,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,140.0,37
+2026-07-09,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,7.0,5
+2026-07-09,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,1.0,1
+2026-07-09,quinta-feira,3,TREB. MINAS,HB,618,explícito,372.0,23
+2026-07-09,quinta-feira,3,TREB. MINAS,HB,623,explícito,4102.0,8
+2026-07-09,quinta-feira,3,TREB. MINAS,IFCO,6416,explícito,26.0,4
+2026-07-09,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,195.0,6
+2026-07-10,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,46.0,3
+2026-07-10,sexta-feira,4,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,80.0,2
+2026-07-10,sexta-feira,4,PH CASCAVEL,HB,623,explícito,280.0,1
+2026-07-10,sexta-feira,4,PH CASCAVEL,IFCO,6424,explícito,880.0,1
+2026-07-10,sexta-feira,4,PH CORUMBA (PF),HB,623,explícito,1260.0,1
+2026-07-10,sexta-feira,4,TREB. MINAS,HB,618,explícito,261.0,7
+2026-07-10,sexta-feira,4,TREB. MINAS,HB,623,explícito,2574.0,6
+2026-07-10,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,398.0,4
+2026-07-10,sexta-feira,4,TREB. MINAS,IFCO,6424,explícito,1280.1333333333332,5
+2026-07-11,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,70.0,3
+2026-07-11,sábado,5,AGROINDUSTRIA TREBESCHI,HB,623,explícito,9.0,1
+2026-07-11,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,40.0,1
+2026-07-11,sábado,5,PH CASCAVEL,IFCO,6424,explícito,1120.0,3
+2026-07-11,sábado,5,PH CORUMBA (PF),IFCO,6424,explícito,560.0,2
+2026-07-11,sábado,5,PH UBAJARA,HB,618,explícito,401.0,42
+2026-07-11,sábado,5,PH UBAJARA,HB,623,explícito,48.0,7
+2026-07-11,sábado,5,PH UBAJARA,IFCO,6416,explícito,213.0,58
+2026-07-11,sábado,5,PH UBAJARA,IFCO,6424,explícito,306.0,45
+2026-07-11,sábado,5,TREB. CEARA,HB,618,explícito,29.0,3
+2026-07-11,sábado,5,TREB. CEARA,IFCO,6424,explícito,25.0,1
+2026-07-11,sábado,5,TREB. MINAS,HB,618,explícito,440.0,8
+2026-07-11,sábado,5,TREB. MINAS,HB,623,explícito,1465.0,6
+2026-07-11,sábado,5,TREB. MINAS,IFCO,6416,explícito,508.0,22
+2026-07-11,sábado,5,TREB. MINAS,IFCO,6424,explícito,810.0,3
+2026-07-13,segunda-feira,0,PH CORUMBA (PF),IFCO,6424,explícito,520.0,1
+2026-07-13,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,127.0,15
+2026-07-13,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,79.0,8
+2026-07-13,segunda-feira,0,TREB. CEARA,IFCO,6416,explícito,90.0,4
+2026-07-13,segunda-feira,0,TREB. MINAS,HB,618,explícito,402.0,7
+2026-07-13,segunda-feira,0,TREB. MINAS,HB,623,explícito,785.0,5
+2026-07-13,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,150.0,9
+2026-07-13,segunda-feira,0,TREB. MINAS,IFCO,6424,explícito,964.0,7
+2026-07-14,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,300.0,1
+2026-07-14,terça-feira,1,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,30.0,1
+2026-07-14,terça-feira,1,PH CASCAVEL,HB,623,explícito,120.0,1
+2026-07-14,terça-feira,1,PH CASCAVEL,IFCO,6424,explícito,530.0,6
+2026-07-14,terça-feira,1,PH CORUMBA (PF),HB,623,explícito,690.0,1
+2026-07-14,terça-feira,1,PH CORUMBA (PF),IFCO,6424,explícito,640.0,2
+2026-07-14,terça-feira,1,PH UBAJARA,HB,618,explícito,184.0,15
+2026-07-14,terça-feira,1,PH UBAJARA,HB,623,explícito,51.0,6
+2026-07-14,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,32.0,9
+2026-07-14,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,446.0,41
+2026-07-14,terça-feira,1,TREB. CEARA,HB,618,explícito,16.0,1
+2026-07-14,terça-feira,1,TREB. MINAS,HB,618,explícito,519.0,17
+2026-07-14,terça-feira,1,TREB. MINAS,HB,618,rateio_por_capacidade,13.83428150772432,3
+2026-07-14,terça-feira,1,TREB. MINAS,HB,623,explícito,822.0,18
+2026-07-14,terça-feira,1,TREB. MINAS,HB,623,rateio_por_capacidade,16.16571849227568,4
+2026-07-14,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,382.0,6
+2026-07-14,terça-feira,1,TREB. MINAS,IFCO,6424,explícito,520.0,2
+2026-07-15,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,63.0,3
+2026-07-15,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,8.0,4
+2026-07-15,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,48.0,2
+2026-07-15,quarta-feira,2,PH CASCAVEL,IFCO,6424,explícito,1520.0,3
+2026-07-15,quarta-feira,2,PH CORUMBA (PF),IFCO,6424,explícito,640.0,1
+2026-07-15,quarta-feira,2,PH UBAJARA,HB,618,explícito,128.0,13
+2026-07-15,quarta-feira,2,PH UBAJARA,IFCO,6416,explícito,60.0,4
+2026-07-15,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,645.0,38
+2026-07-15,quarta-feira,2,TREB. CEARA,HB,618,explícito,8.0,2
+2026-07-15,quarta-feira,2,TREB. CEARA,IFCO,6424,explícito,15.0,2
+2026-07-15,quarta-feira,2,TREB. MINAS,HB,618,explícito,457.0,7
+2026-07-15,quarta-feira,2,TREB. MINAS,HB,623,explícito,1031.0,7
+2026-07-15,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,2058.0,34
+2026-07-15,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,342.0,10
+2026-07-16,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,57.0,5
+2026-07-16,quinta-feira,3,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,50.0,2
+2026-07-16,quinta-feira,3,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,200.0,1
+2026-07-16,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,540.0,1
+2026-07-16,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,65.0,1
+2026-07-16,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,357.0,49
+2026-07-16,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,204.0,13
+2026-07-16,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,71.0,5
+2026-07-16,quinta-feira,3,TREB. MINAS,HB,618,explícito,571.0,33
+2026-07-16,quinta-feira,3,TREB. MINAS,HB,623,explícito,2546.0,11
+2026-07-16,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,1841.0,6
+2026-07-17,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,56.0,3
+2026-07-17,sexta-feira,4,PH CASCAVEL,HB,623,explícito,200.0,1
+2026-07-17,sexta-feira,4,PH CORUMBA (PF),HB,623,explícito,900.0,1
+2026-07-17,sexta-feira,4,PH UBAJARA,IFCO,6416,explícito,66.0,20
+2026-07-17,sexta-feira,4,PH UBAJARA,IFCO,6424,explícito,19.0,17
+2026-07-17,sexta-feira,4,TREB. MINAS,HB,618,explícito,351.0,5
+2026-07-17,sexta-feira,4,TREB. MINAS,HB,623,explícito,2610.0,4
+2026-07-17,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,390.0,4
+2026-07-18,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,37.0,4
+2026-07-18,sábado,5,PH ALHO/CEBOLA,IFCO,6424,explícito,120.0,2
+2026-07-18,sábado,5,PH CASCAVEL,HB,623,explícito,160.0,1
+2026-07-18,sábado,5,PH CASCAVEL,IFCO,6424,explícito,410.0,3
+2026-07-18,sábado,5,PH UBAJARA,HB,618,explícito,361.0,40
+2026-07-18,sábado,5,PH UBAJARA,HB,623,explícito,53.0,7
+2026-07-18,sábado,5,PH UBAJARA,IFCO,6416,explícito,57.0,33
+2026-07-18,sábado,5,PH UBAJARA,IFCO,6424,explícito,119.0,35
+2026-07-18,sábado,5,TREB. CEARA,HB,618,explícito,7.0,3
+2026-07-18,sábado,5,TREB. CEARA,IFCO,6416,explícito,3.0,1
+2026-07-18,sábado,5,TREB. MINAS,HB,618,explícito,811.0,28
+2026-07-18,sábado,5,TREB. MINAS,HB,618,rateio_por_capacidade,95.93640418796508,6
+2026-07-18,sábado,5,TREB. MINAS,HB,623,explícito,3085.0,27
+2026-07-18,sábado,5,TREB. MINAS,HB,623,rateio_por_capacidade,18.063595812034915,4
+2026-07-18,sábado,5,TREB. MINAS,IFCO,6416,explícito,497.0,23
+2026-07-18,sábado,5,TREB. MINAS,IFCO,6424,explícito,2140.0,2
+2026-07-20,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,618,explícito,10.0,3
+2026-07-20,segunda-feira,0,PH CASCAVEL,IFCO,6424,explícito,920.0,2
+2026-07-20,segunda-feira,0,PH CORUMBA (PF),HB,623,explícito,720.0,1
+2026-07-20,segunda-feira,0,PH UBAJARA,HB,618,explícito,68.0,4
+2026-07-20,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,225.0,34
+2026-07-20,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,287.0,15
+2026-07-20,segunda-feira,0,TREB. CEARA,IFCO,6416,explícito,32.0,4
+2026-07-20,segunda-feira,0,TREB. MINAS,HB,618,explícito,669.0,25
+2026-07-20,segunda-feira,0,TREB. MINAS,HB,618,rateio_por_capacidade,79.11303942662154,4
+2026-07-20,segunda-feira,0,TREB. MINAS,HB,623,explícito,380.0,7
+2026-07-20,segunda-feira,0,TREB. MINAS,HB,623,rateio_por_capacidade,16.886960573378463,3
+2026-07-20,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,216.0,6
+2026-07-21,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,26.0,4
+2026-07-21,terça-feira,1,PH CASCAVEL,HB,623,explícito,400.0,1
+2026-07-21,terça-feira,1,PH CASCAVEL,IFCO,6424,explícito,250.0,2
+2026-07-21,terça-feira,1,PH CORUMBA (PF),IFCO,6424,explícito,575.0,3
+2026-07-21,terça-feira,1,PH UBAJARA,HB,618,explícito,119.0,14
+2026-07-21,terça-feira,1,PH UBAJARA,HB,623,explícito,42.0,6
+2026-07-21,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,30.0,20
+2026-07-21,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,113.0,30
+2026-07-21,terça-feira,1,TREB. CEARA,HB,618,explícito,11.0,1
+2026-07-21,terça-feira,1,TREB. CEARA,IFCO,6424,explícito,1.0,1
+2026-07-21,terça-feira,1,TREB. MINAS,HB,618,explícito,426.0,25
+2026-07-21,terça-feira,1,TREB. MINAS,HB,623,explícito,1562.0,10
+2026-07-21,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,351.0,5
+2026-07-21,terça-feira,1,TREB. MINAS,IFCO,6424,explícito,636.0,2
+2026-07-22,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,16.0,3
+2026-07-22,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,6.0,1
+2026-07-22,quarta-feira,2,PH ALHO/CEBOLA,IFCO,6424,explícito,640.0,1
+2026-07-22,quarta-feira,2,PH CORUMBA (PF),HB,623,explícito,2520.0,2
+2026-07-22,quarta-feira,2,PH UBAJARA,HB,618,explícito,82.0,13
+2026-07-22,quarta-feira,2,PH UBAJARA,HB,618,rateio_por_capacidade,1.6638185032410135,1
+2026-07-22,quarta-feira,2,PH UBAJARA,HB,623,rateio_por_capacidade,0.33618149675898645,1
+2026-07-22,quarta-feira,2,PH UBAJARA,IFCO,6416,explícito,161.0,15
+2026-07-22,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,206.0,12
+2026-07-22,quarta-feira,2,TREB. CEARA,HB,618,explícito,5.0,2
+2026-07-22,quarta-feira,2,TREB. CEARA,IFCO,6416,explícito,105.0,4
+2026-07-22,quarta-feira,2,TREB. MINAS,HB,618,explícito,334.0,7
+2026-07-22,quarta-feira,2,TREB. MINAS,HB,623,explícito,160.0,4
+2026-07-22,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,4011.0,35
+2026-07-22,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,1952.0,19
+2026-07-23,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,17.0,4
+2026-07-23,quinta-feira,3,PH CASCAVEL,IFCO,6424,explícito,640.0,2
+2026-07-23,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,1900.0,3
+2026-07-23,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,20.0,1
+2026-07-23,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,156.0,33
+2026-07-23,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,82.0,8
+2026-07-23,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,1.0,1
+2026-07-23,quinta-feira,3,TREB. MINAS,HB,618,explícito,845.0,42
+2026-07-23,quinta-feira,3,TREB. MINAS,HB,623,explícito,5272.0,13
+2026-07-23,quinta-feira,3,TREB. MINAS,IFCO,6416,explícito,26.0,6
+2026-07-23,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,1520.0,5
+2026-07-24,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,12.0,3
+2026-07-24,sexta-feira,4,PH CASCAVEL,HB,623,explícito,160.0,1
+2026-07-24,sexta-feira,4,PH CORUMBA (PF),IFCO,6424,explícito,3360.0,3
+2026-07-24,sexta-feira,4,PH UBAJARA,IFCO,6416,explícito,132.0,26
+2026-07-24,sexta-feira,4,PH UBAJARA,IFCO,6424,explícito,94.0,14
+2026-07-24,sexta-feira,4,TREB. MINAS,HB,618,explícito,426.0,8
+2026-07-24,sexta-feira,4,TREB. MINAS,HB,623,explícito,1768.0,6
+2026-07-24,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,296.0,4
+2026-07-24,sexta-feira,4,TREB. MINAS,IFCO,6424,explícito,1120.0,1
+2026-07-25,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,18.0,4
+2026-07-25,sábado,5,AGROINDUSTRIA TREBESCHI,HB,623,explícito,20.0,2
+2026-07-25,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,2.0,2
+2026-07-25,sábado,5,PH CASCAVEL,IFCO,6424,explícito,250.0,2
+2026-07-25,sábado,5,PH UBAJARA,HB,618,explícito,408.0,50
+2026-07-25,sábado,5,PH UBAJARA,HB,623,explícito,46.0,8
+2026-07-25,sábado,5,PH UBAJARA,IFCO,6416,explícito,14.0,6
+2026-07-25,sábado,5,PH UBAJARA,IFCO,6424,explícito,232.0,28
+2026-07-25,sábado,5,TREB. CEARA,HB,618,explícito,36.0,3
+2026-07-25,sábado,5,TREB. MINAS,HB,618,explícito,935.0,39
+2026-07-25,sábado,5,TREB. MINAS,HB,618,rateio_por_capacidade,28.33000926258584,5
+2026-07-25,sábado,5,TREB. MINAS,HB,623,explícito,3142.0,38
+2026-07-25,sábado,5,TREB. MINAS,HB,623,rateio_por_capacidade,10.66999073741416,5
+2026-07-25,sábado,5,TREB. MINAS,IFCO,6416,explícito,444.0,35
+2026-07-25,sábado,5,TREB. MINAS,IFCO,6424,explícito,100.0,1
+2026-07-27,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,618,explícito,73.0,4
+2026-07-27,segunda-feira,0,PH CASCAVEL,IFCO,6424,explícito,1040.0,3
+2026-07-27,segunda-feira,0,PH UBAJARA,HB,623,explícito,40.0,1
+2026-07-27,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,286.0,97
+2026-07-27,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,141.0,45
+2026-07-27,segunda-feira,0,TREB. CEARA,IFCO,6416,explícito,41.0,4
+2026-07-27,segunda-feira,0,TREB. MINAS,HB,618,explícito,535.0,9
+2026-07-27,segunda-feira,0,TREB. MINAS,HB,623,explícito,1155.0,5
+2026-07-27,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,186.0,4
+2026-07-27,segunda-feira,0,TREB. MINAS,IFCO,6424,explícito,850.0,2
+2026-07-28,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,82.0,6
+2026-07-28,terça-feira,1,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,20.0,1
+2026-07-28,terça-feira,1,PH CASCAVEL,IFCO,6424,explícito,240.0,2
+2026-07-28,terça-feira,1,PH CORUMBA (PF),HB,623,explícito,720.0,1
+2026-07-28,terça-feira,1,PH CORUMBA (PF),IFCO,6424,explícito,54.0,1
+2026-07-28,terça-feira,1,PH UBAJARA,HB,618,explícito,162.0,15
+2026-07-28,terça-feira,1,PH UBAJARA,HB,623,explícito,59.0,6
+2026-07-28,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,38.0,9
+2026-07-28,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,192.0,25
+2026-07-28,terça-feira,1,TREB. CEARA,HB,618,explícito,13.0,1
+2026-07-28,terça-feira,1,TREB. CEARA,IFCO,6424,explícito,0.0,1
+2026-07-28,terça-feira,1,TREB. MINAS,HB,618,explícito,610.0,36
+2026-07-28,terça-feira,1,TREB. MINAS,HB,623,explícito,570.0,11
+2026-07-28,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,344.0,5
+2026-07-28,terça-feira,1,TREB. MINAS,IFCO,6424,explícito,640.0,1
+2026-07-29,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,26.0,4
+2026-07-29,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,3.0,1
+2026-07-29,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,6.0,1
+2026-07-29,quarta-feira,2,PH CASCAVEL,HB,623,explícito,320.0,1
+2026-07-29,quarta-feira,2,PH CASCAVEL,IFCO,6424,explícito,640.0,1
+2026-07-29,quarta-feira,2,PH SUL (PF),IFCO,6424,explícito,170.0,1
+2026-07-29,quarta-feira,2,PH UBAJARA,HB,618,explícito,116.0,14
+2026-07-29,quarta-feira,2,PH UBAJARA,HB,623,explícito,3.0,1
+2026-07-29,quarta-feira,2,PH UBAJARA,IFCO,6416,explícito,177.0,22
+2026-07-29,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,252.0,19
+2026-07-29,quarta-feira,2,TREB. CEARA,IFCO,6416,explícito,55.0,4
+2026-07-29,quarta-feira,2,TREB. MINAS,HB,618,explícito,505.0,6
+2026-07-29,quarta-feira,2,TREB. MINAS,HB,623,explícito,2040.0,5
+2026-07-29,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,670.0,30
+2026-07-29,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,1658.0,11
+2026-07-30,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,54.0,3
+2026-07-30,quinta-feira,3,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,120.0,2
+2026-07-30,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,690.0,1
+2026-07-30,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,50.0,1
+2026-07-30,quinta-feira,3,PH SUL (PF),IFCO,6424,explícito,113.0,5
+2026-07-30,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,268.0,137
+2026-07-30,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,67.0,25
+2026-07-30,quinta-feira,3,TREB. MINAS,HB,618,explícito,349.0,17
+2026-07-30,quinta-feira,3,TREB. MINAS,HB,623,explícito,3062.0,10
+2026-07-30,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,1460.0,3
+2026-07-31,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,34.0,3
+2026-07-31,sexta-feira,4,PH CASCAVEL,IFCO,6424,explícito,640.0,2
+2026-07-31,sexta-feira,4,PH SUL (PF),IFCO,6424,explícito,41.0,2
+2026-07-31,sexta-feira,4,PH UBAJARA,HB,623,explícito,1.0,1
+2026-07-31,sexta-feira,4,PH UBAJARA,IFCO,6416,explícito,155.0,40
+2026-07-31,sexta-feira,4,PH UBAJARA,IFCO,6424,explícito,521.0,65
+2026-07-31,sexta-feira,4,TREB. MINAS,HB,618,explícito,227.0,8
+2026-07-31,sexta-feira,4,TREB. MINAS,HB,623,explícito,3608.0,7
+2026-07-31,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,402.0,4
+2026-07-31,sexta-feira,4,TREB. MINAS,IFCO,6424,explícito,640.0,2
+2026-08-01,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,22.0,7
+2026-08-01,sábado,5,AGROINDUSTRIA TREBESCHI,HB,623,explícito,14.0,1
+2026-08-01,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,20.0,1
+2026-08-01,sábado,5,PH CASCAVEL,IFCO,6424,explícito,850.0,3
+2026-08-01,sábado,5,PH CORUMBA (PF),HB,623,explícito,690.0,1
+2026-08-01,sábado,5,PH CORUMBA (PF),IFCO,6424,explícito,300.0,2
+2026-08-01,sábado,5,PH SUL (PF),IFCO,6424,explícito,280.0,8
+2026-08-01,sábado,5,PH UBAJARA,HB,618,explícito,314.0,39
+2026-08-01,sábado,5,PH UBAJARA,HB,623,explícito,26.0,6
+2026-08-01,sábado,5,PH UBAJARA,IFCO,6416,explícito,10.0,6
+2026-08-01,sábado,5,PH UBAJARA,IFCO,6424,explícito,270.0,27
+2026-08-01,sábado,5,TREB. CEARA,HB,618,explícito,56.0,5
+2026-08-01,sábado,5,TREB. MINAS,HB,618,explícito,899.0,30
+2026-08-01,sábado,5,TREB. MINAS,HB,618,rateio_por_capacidade,13.663818503241014,2
+2026-08-01,sábado,5,TREB. MINAS,HB,623,explícito,2874.0,22
+2026-08-01,sábado,5,TREB. MINAS,HB,623,rateio_por_capacidade,0.33618149675898645,1
+2026-08-01,sábado,5,TREB. MINAS,IFCO,6416,explícito,333.0,22
+2026-08-01,sábado,5,TREB. MINAS,IFCO,6424,explícito,300.0,1
+2026-08-03,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,618,explícito,47.0,4
+2026-08-03,segunda-feira,0,PH CASCAVEL,IFCO,6424,explícito,880.0,1
+2026-08-03,segunda-feira,0,PH SUL (PF),IFCO,6424,explícito,72.0,5
+2026-08-03,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,90.0,13
+2026-08-03,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,156.0,14
+2026-08-03,segunda-feira,0,TREB. CEARA,IFCO,6416,explícito,19.0,3
+2026-08-03,segunda-feira,0,TREB. MINAS,HB,618,explícito,766.0,29
+2026-08-03,segunda-feira,0,TREB. MINAS,HB,623,explícito,905.0,5
+2026-08-03,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,192.0,2
+2026-08-04,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,16.0,3
+2026-08-04,terça-feira,1,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,20.0,1
+2026-08-04,terça-feira,1,PH CASCAVEL,HB,623,explícito,200.0,1
+2026-08-04,terça-feira,1,PH CASCAVEL,IFCO,6424,explícito,1100.0,3
+2026-08-04,terça-feira,1,PH SUL (PF),IFCO,6424,explícito,124.0,6
+2026-08-04,terça-feira,1,PH UBAJARA,HB,618,explícito,171.0,17
+2026-08-04,terça-feira,1,PH UBAJARA,HB,623,explícito,26.0,4
+2026-08-04,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,35.0,22
+2026-08-04,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,214.0,31
+2026-08-04,terça-feira,1,TREB. MINAS,HB,618,explícito,638.0,33
+2026-08-04,terça-feira,1,TREB. MINAS,HB,623,explícito,1011.0,12
+2026-08-04,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,326.0,5
+2026-08-05,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,16.0,3
+2026-08-05,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,19.0,4
+2026-08-05,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,46.0,2
+2026-08-05,quarta-feira,2,PH CASCAVEL,IFCO,6424,explícito,60.0,2
+2026-08-05,quarta-feira,2,PH SUL (PF),IFCO,6424,explícito,67.0,2
+2026-08-05,quarta-feira,2,PH UBAJARA,HB,618,explícito,128.0,14
+2026-08-05,quarta-feira,2,PH UBAJARA,HB,623,explícito,2.0,1
+2026-08-05,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,35.0,3
+2026-08-05,quarta-feira,2,TREB. CEARA,HB,618,explícito,6.0,2
+2026-08-05,quarta-feira,2,TREB. MINAS,HB,618,explícito,610.0,8
+2026-08-05,quarta-feira,2,TREB. MINAS,HB,623,explícito,175.0,4
+2026-08-05,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,741.0,28
+2026-08-05,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,1703.0,10
+2026-08-06,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,13.0,4
+2026-08-06,quinta-feira,3,PH CASCAVEL,IFCO,6424,explícito,151.0,5
+2026-08-06,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,2520.0,2
+2026-08-06,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,395.0,2
+2026-08-06,quinta-feira,3,PH SUL (PF),IFCO,6424,explícito,5.0,1
+2026-08-06,quinta-feira,3,PH UBAJARA,HB,618,explícito,15.0,1
+2026-08-06,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,404.0,62
+2026-08-06,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,631.0,56
+2026-08-06,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,60.0,3
+2026-08-06,quinta-feira,3,TREB. MINAS,HB,618,explícito,390.0,16
+2026-08-06,quinta-feira,3,TREB. MINAS,HB,618,rateio_por_capacidade,27.66856301544864,3
+2026-08-06,quinta-feira,3,TREB. MINAS,HB,623,explícito,2302.0,13
+2026-08-06,quinta-feira,3,TREB. MINAS,HB,623,rateio_por_capacidade,22.331436984551363,4
+2026-08-06,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,1260.0,2
+2026-08-07,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,7.0,4
+2026-08-07,sexta-feira,4,PH CORUMBA (PF),HB,623,explícito,3210.0,3
+2026-08-07,sexta-feira,4,PH UBAJARA,IFCO,6416,explícito,131.0,26
+2026-08-07,sexta-feira,4,PH UBAJARA,IFCO,6424,explícito,55.0,12
+2026-08-07,sexta-feira,4,TREB. MINAS,HB,618,explícito,635.0,6
+2026-08-07,sexta-feira,4,TREB. MINAS,HB,623,explícito,3330.0,8
+2026-08-07,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,551.0,4
+2026-08-07,sexta-feira,4,TREB. MINAS,IFCO,6424,explícito,720.0,2
+2026-08-08,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,25.0,6
+2026-08-08,sábado,5,AGROINDUSTRIA TREBESCHI,HB,623,explícito,14.0,1
+2026-08-08,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,80.0,1
+2026-08-08,sábado,5,PH CASCAVEL,IFCO,6424,explícito,220.0,2
+2026-08-08,sábado,5,PH UBAJARA,HB,618,explícito,372.0,43
+2026-08-08,sábado,5,PH UBAJARA,HB,623,explícito,39.0,7
+2026-08-08,sábado,5,PH UBAJARA,IFCO,6416,explícito,46.0,33
+2026-08-08,sábado,5,PH UBAJARA,IFCO,6424,explícito,176.0,33
+2026-08-08,sábado,5,TREB. CEARA,HB,618,explícito,2.0,1
+2026-08-08,sábado,5,TREB. MINAS,HB,618,explícito,933.0,31
+2026-08-08,sábado,5,TREB. MINAS,HB,623,explícito,2118.0,11
+2026-08-08,sábado,5,TREB. MINAS,IFCO,6416,explícito,315.0,27
+2026-08-08,sábado,5,TREB. MINAS,IFCO,6424,explícito,400.0,1
+2026-08-10,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,618,explícito,21.0,4
+2026-08-10,segunda-feira,0,PH CORUMBA (PF),HB,623,explícito,720.0,1
+2026-08-10,segunda-feira,0,PH CORUMBA (PF),IFCO,6424,explícito,50.0,1
+2026-08-10,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,210.0,72
+2026-08-10,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,228.0,39
+2026-08-10,segunda-feira,0,TREB. CEARA,IFCO,6416,explícito,82.0,4
+2026-08-10,segunda-feira,0,TREB. MINAS,HB,618,explícito,512.0,28
+2026-08-10,segunda-feira,0,TREB. MINAS,HB,623,explícito,790.0,4
+2026-08-10,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,252.0,6
+2026-08-10,segunda-feira,0,TREB. MINAS,IFCO,6424,explícito,25.0,5
+2026-08-11,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,153.0,3
+2026-08-11,terça-feira,1,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,20.0,1
+2026-08-11,terça-feira,1,PH CASCAVEL,IFCO,6424,explícito,220.0,2
+2026-08-11,terça-feira,1,PH CORUMBA (PF),IFCO,6424,explícito,50.0,1
+2026-08-11,terça-feira,1,PH SUL (PF),HB,623,explícito,182.0,3
+2026-08-11,terça-feira,1,PH UBAJARA,HB,618,explícito,143.0,15
+2026-08-11,terça-feira,1,PH UBAJARA,HB,623,explícito,36.0,6
+2026-08-11,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,32.0,16
+2026-08-11,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,190.0,24
+2026-08-11,terça-feira,1,TREB. MINAS,HB,618,explícito,403.0,28
+2026-08-11,terça-feira,1,TREB. MINAS,HB,623,explícito,1910.0,13
+2026-08-11,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,420.0,6
+2026-08-11,terça-feira,1,TREB. MINAS,IFCO,6424,explícito,640.0,1
+2026-08-12,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,159.0,3
+2026-08-12,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,14.0,1
+2026-08-12,quarta-feira,2,PH CORUMBA (PF),HB,623,explícito,690.0,1
+2026-08-12,quarta-feira,2,PH CORUMBA (PF),IFCO,6424,explícito,1260.0,2
+2026-08-12,quarta-feira,2,PH SUL (PF),HB,623,explícito,25.0,1
+2026-08-12,quarta-feira,2,PH UBAJARA,HB,618,explícito,112.0,11
+2026-08-12,quarta-feira,2,TREB. CEARA,HB,618,explícito,5.0,2
+2026-08-12,quarta-feira,2,TREB. MINAS,HB,618,explícito,392.0,7
+2026-08-12,quarta-feira,2,TREB. MINAS,HB,623,explícito,1610.0,5
+2026-08-12,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,2035.0,30
+2026-08-12,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,1167.0,7
+2026-08-13,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,118.0,4
+2026-08-13,quinta-feira,3,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,4.0,1
+2026-08-13,quinta-feira,3,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,22.0,1
+2026-08-13,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,640.0,1
+2026-08-13,quinta-feira,3,PH SUL (PF),HB,623,explícito,143.0,5
+2026-08-13,quinta-feira,3,PH UBAJARA,HB,623,explícito,40.0,1
+2026-08-13,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,387.0,53
+2026-08-13,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,219.0,19
+2026-08-13,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,44.0,3
+2026-08-13,quinta-feira,3,TREB. MINAS,HB,618,explícito,576.0,46
+2026-08-13,quinta-feira,3,TREB. MINAS,HB,623,explícito,162.0,9
+2026-08-13,quinta-feira,3,TREB. MINAS,IFCO,6416,explícito,37.0,3
+2026-08-13,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,1171.0,7
+2026-08-14,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,118.0,4
+2026-08-14,sexta-feira,4,PH CORUMBA (PF),HB,623,explícito,640.0,1
+2026-08-14,sexta-feira,4,PH SUL (PF),HB,623,explícito,166.0,9
+2026-08-14,sexta-feira,4,PH UBAJARA,IFCO,6416,explícito,165.0,46
+2026-08-14,sexta-feira,4,PH UBAJARA,IFCO,6424,explícito,29.0,15
+2026-08-14,sexta-feira,4,TREB. MINAS,HB,623,explícito,1950.0,2
+2026-08-14,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,1864.0,5
+2026-08-15,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,74.0,4
+2026-08-15,sábado,5,AGROINDUSTRIA TREBESCHI,HB,623,explícito,4.0,1
+2026-08-15,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,20.0,1
+2026-08-15,sábado,5,PH CASCAVEL,IFCO,6424,explícito,220.0,2
+2026-08-15,sábado,5,PH CORUMBA (PF),IFCO,6424,explícito,1294.0,3
+2026-08-15,sábado,5,PH UBAJARA,HB,618,explícito,394.0,39
+2026-08-15,sábado,5,PH UBAJARA,HB,623,explícito,36.0,7
+2026-08-15,sábado,5,PH UBAJARA,IFCO,6416,explícito,74.0,51
+2026-08-15,sábado,5,PH UBAJARA,IFCO,6424,explícito,225.0,40
+2026-08-15,sábado,5,TREB. CEARA,HB,618,explícito,6.0,2
+2026-08-15,sábado,5,TREB. MINAS,HB,618,explícito,818.0,39
+2026-08-15,sábado,5,TREB. MINAS,HB,618,rateio_por_capacidade,39.99620002193066,5
+2026-08-15,sábado,5,TREB. MINAS,HB,623,explícito,1186.0,31
+2026-08-15,sábado,5,TREB. MINAS,HB,623,rateio_por_capacidade,23.003799978069335,5
+2026-08-15,sábado,5,TREB. MINAS,IFCO,6416,explícito,615.0,31
+2026-08-15,sábado,5,TREB. MINAS,IFCO,6424,explícito,560.0,2
+2026-08-17,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,618,explícito,169.0,4
+2026-08-17,segunda-feira,0,PH SUL (PF),HB,623,explícito,156.0,6
+2026-08-17,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,279.0,36
+2026-08-17,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,704.0,61
+2026-08-17,segunda-feira,0,TREB. CEARA,IFCO,6416,explícito,64.0,4
+2026-08-17,segunda-feira,0,TREB. MINAS,HB,618,explícito,779.0,29
+2026-08-17,segunda-feira,0,TREB. MINAS,HB,623,explícito,336.0,5
+2026-08-17,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,209.0,3
+2026-08-17,segunda-feira,0,TREB. MINAS,IFCO,6424,explícito,200.0,1
+2026-08-18,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,71.0,4
+2026-08-18,terça-feira,1,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,20.0,1
+2026-08-18,terça-feira,1,PH CASCAVEL,IFCO,6424,explícito,220.0,2
+2026-08-18,terça-feira,1,PH SUL (PF),HB,623,explícito,21.0,4
+2026-08-18,terça-feira,1,PH UBAJARA,HB,618,explícito,130.0,14
+2026-08-18,terça-feira,1,PH UBAJARA,HB,623,explícito,56.0,6
+2026-08-18,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,10.0,9
+2026-08-18,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,189.0,24
+2026-08-18,terça-feira,1,TREB. CEARA,HB,618,explícito,52.0,3
+2026-08-18,terça-feira,1,TREB. MINAS,HB,618,explícito,610.0,17
+2026-08-18,terça-feira,1,TREB. MINAS,HB,623,explícito,342.0,7
+2026-08-18,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,385.0,5
+2026-08-19,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,147.0,4
+2026-08-19,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,3.0,1
+2026-08-19,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,27.0,2
+2026-08-19,quarta-feira,2,PH SUL (PF),HB,623,explícito,276.0,4
+2026-08-19,quarta-feira,2,PH UBAJARA,HB,618,explícito,82.0,10
+2026-08-19,quarta-feira,2,TREB. CEARA,HB,618,explícito,3.0,1
+2026-08-19,quarta-feira,2,TREB. MINAS,HB,618,explícito,520.0,7
+2026-08-19,quarta-feira,2,TREB. MINAS,HB,623,explícito,915.0,5
+2026-08-19,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,681.0,25
+2026-08-19,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,2009.0,12
+2026-08-20,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,68.0,5
+2026-08-20,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,640.0,1
+2026-08-20,quinta-feira,3,PH SUL (PF),IFCO,6424,explícito,5.0,1
+2026-08-20,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,203.0,36
+2026-08-20,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,103.0,14
+2026-08-20,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,36.0,4
+2026-08-20,quinta-feira,3,TREB. MINAS,HB,618,explícito,940.0,39
+2026-08-20,quinta-feira,3,TREB. MINAS,HB,623,explícito,1707.0,19
+2026-08-20,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,1081.0,3
+2026-08-21,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,43.0,3
+2026-08-21,sexta-feira,4,PH ALHO/CEBOLA,IFCO,6424,explícito,480.0,2
+2026-08-21,sexta-feira,4,PH CORUMBA (PF),IFCO,6424,explícito,640.0,1
+2026-08-21,sexta-feira,4,PH UBAJARA,IFCO,6416,explícito,124.0,37
+2026-08-21,sexta-feira,4,PH UBAJARA,IFCO,6424,explícito,12.0,11
+2026-08-21,sexta-feira,4,TREB. MINAS,HB,618,explícito,252.0,6
+2026-08-21,sexta-feira,4,TREB. MINAS,HB,623,explícito,3495.0,8
+2026-08-21,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,570.0,3
+2026-08-22,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,130.0,4
+2026-08-22,sábado,5,AGROINDUSTRIA TREBESCHI,HB,623,explícito,19.0,3
+2026-08-22,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,20.0,1
+2026-08-22,sábado,5,PH CASCAVEL,IFCO,6424,explícito,220.0,2
+2026-08-22,sábado,5,PH CORUMBA (PF),IFCO,6424,explícito,640.0,1
+2026-08-22,sábado,5,PH UBAJARA,HB,618,explícito,347.0,45
+2026-08-22,sábado,5,PH UBAJARA,HB,623,explícito,16.0,6
+2026-08-22,sábado,5,PH UBAJARA,IFCO,6416,explícito,130.0,43
+2026-08-22,sábado,5,PH UBAJARA,IFCO,6424,explícito,266.0,44
+2026-08-22,sábado,5,TREB. CEARA,HB,618,explícito,2.0,1
+2026-08-22,sábado,5,TREB. MINAS,HB,618,explícito,718.0,18
+2026-08-22,sábado,5,TREB. MINAS,HB,618,rateio_por_capacidade,11.49572775486152,2
+2026-08-22,sábado,5,TREB. MINAS,HB,623,explícito,708.0,19
+2026-08-22,sábado,5,TREB. MINAS,HB,623,rateio_por_capacidade,0.5042722451384797,1
+2026-08-22,sábado,5,TREB. MINAS,IFCO,6416,explícito,666.0,28
+2026-08-22,sábado,5,TREB. MINAS,IFCO,6424,explícito,637.0,1
+2026-08-24,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,618,explícito,76.0,3
+2026-08-24,segunda-feira,0,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,120.0,1
+2026-08-24,segunda-feira,0,PH CORUMBA (PF),IFCO,6424,explícito,1280.0,2
+2026-08-24,segunda-feira,0,TREB. MINAS,HB,618,explícito,450.0,8
+2026-08-24,segunda-feira,0,TREB. MINAS,HB,623,explícito,1195.0,5
+2026-08-24,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,403.0,3
+2026-08-24,segunda-feira,0,TREB. MINAS,IFCO,6424,explícito,1120.0,2
+2026-08-25,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,94.0,4
+2026-08-25,terça-feira,1,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,20.0,1
+2026-08-25,terça-feira,1,PH CASCAVEL,IFCO,6424,explícito,70.0,1
+2026-08-25,terça-feira,1,PH CORUMBA (PF),HB,623,explícito,690.0,1
+2026-08-25,terça-feira,1,PH CORUMBA (PF),IFCO,6424,explícito,640.0,1
+2026-08-25,terça-feira,1,PH SUL (PF),HB,623,explícito,238.0,4
+2026-08-25,terça-feira,1,PH UBAJARA,HB,618,explícito,116.0,15
+2026-08-25,terça-feira,1,PH UBAJARA,HB,623,explícito,55.0,6
+2026-08-25,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,443.0,212
+2026-08-25,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,362.0,99
+2026-08-25,terça-feira,1,TREB. CEARA,IFCO,6416,explícito,128.0,4
+2026-08-25,terça-feira,1,TREB. MINAS,HB,618,explícito,610.0,18
+2026-08-25,terça-feira,1,TREB. MINAS,HB,618,rateio_por_capacidade,11.49572775486152,2
+2026-08-25,terça-feira,1,TREB. MINAS,HB,623,explícito,300.0,20
+2026-08-25,terça-feira,1,TREB. MINAS,HB,623,rateio_por_capacidade,0.5042722451384797,1
+2026-08-25,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,414.0,5
+2026-08-25,terça-feira,1,TREB. MINAS,IFCO,6424,explícito,1120.0,2
+2026-08-26,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,94.0,3
+2026-08-26,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,623,explícito,6.0,1
+2026-08-26,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,10.0,4
+2026-08-26,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,16.0,2
+2026-08-26,quarta-feira,2,PH CORUMBA (PF),HB,623,explícito,720.0,1
+2026-08-26,quarta-feira,2,PH SUL (PF),HB,623,explícito,65.0,2
+2026-08-26,quarta-feira,2,PH UBAJARA,HB,618,explícito,106.0,20
+2026-08-26,quarta-feira,2,PH UBAJARA,IFCO,6416,explícito,40.0,2
+2026-08-26,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,371.0,24
+2026-08-26,quarta-feira,2,TREB. MINAS,HB,618,explícito,333.0,9
+2026-08-26,quarta-feira,2,TREB. MINAS,HB,623,explícito,240.0,4
+2026-08-26,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,835.0,33
+2026-08-26,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,2817.0,12
+2026-08-27,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,84.0,4
+2026-08-27,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,640.0,1
+2026-08-27,quinta-feira,3,PH SUL (PF),HB,623,explícito,177.0,6
+2026-08-27,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,209.0,27
+2026-08-27,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,114.0,11
+2026-08-27,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,12.0,1
+2026-08-27,quinta-feira,3,TREB. MINAS,HB,618,explícito,947.0,34
+2026-08-27,quinta-feira,3,TREB. MINAS,HB,623,explícito,419.0,8
+2026-08-27,quinta-feira,3,TREB. MINAS,IFCO,6416,explícito,17.0,2
+2026-08-27,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,1443.0,6
+2026-08-28,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,35.0,4
+2026-08-28,sexta-feira,4,PH CORUMBA (PF),IFCO,6424,explícito,2491.0,4
+2026-08-28,sexta-feira,4,PH SUL (PF),HB,623,explícito,60.0,3
+2026-08-28,sexta-feira,4,PH UBAJARA,IFCO,6416,explícito,148.0,41
+2026-08-28,sexta-feira,4,PH UBAJARA,IFCO,6424,explícito,4.0,4
+2026-08-28,sexta-feira,4,TREB. MINAS,HB,618,explícito,90.0,5
+2026-08-28,sexta-feira,4,TREB. MINAS,HB,623,explícito,95.0,3
+2026-08-28,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,677.0,4
+2026-08-28,sexta-feira,4,TREB. MINAS,IFCO,6424,explícito,2238.0,3
+2026-08-29,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,19.0,2
+2026-08-29,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,2.0,2
+2026-08-29,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,20.0,1
+2026-08-29,sábado,5,PH CASCAVEL,IFCO,6424,explícito,220.0,2
+2026-08-29,sábado,5,PH CORUMBA (PF),HB,623,explícito,1260.0,1
+2026-08-29,sábado,5,PH SUL (PF),HB,623,explícito,56.0,3
+2026-08-29,sábado,5,PH UBAJARA,HB,618,explícito,275.0,40
+2026-08-29,sábado,5,PH UBAJARA,HB,623,explícito,35.0,6
+2026-08-29,sábado,5,PH UBAJARA,IFCO,6416,explícito,46.0,25
+2026-08-29,sábado,5,PH UBAJARA,IFCO,6424,explícito,265.0,55
+2026-08-29,sábado,5,TREB. CEARA,HB,618,explícito,15.0,3
+2026-08-29,sábado,5,TREB. CEARA,IFCO,6424,explícito,3.0,2
+2026-08-29,sábado,5,TREB. MINAS,HB,618,explícito,631.0,15
+2026-08-29,sábado,5,TREB. MINAS,HB,618,rateio_por_capacidade,17.66856301544864,2
+2026-08-29,sábado,5,TREB. MINAS,HB,623,explícito,1411.0,25
+2026-08-29,sábado,5,TREB. MINAS,HB,623,rateio_por_capacidade,22.331436984551363,4
+2026-08-29,sábado,5,TREB. MINAS,IFCO,6416,explícito,492.0,25
+2026-08-31,segunda-feira,0,AGROINDUSTRIA TREBESCHI,HB,618,explícito,85.0,4
+2026-08-31,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,191.0,31
+2026-08-31,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,268.0,15
+2026-08-31,segunda-feira,0,TREB. CEARA,IFCO,6416,explícito,66.0,2
+2026-08-31,segunda-feira,0,TREB. MINAS,HB,618,explícito,357.0,8
+2026-08-31,segunda-feira,0,TREB. MINAS,HB,623,explícito,285.0,4
+2026-08-31,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,481.0,4
+2026-09-01,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,166.0,6
+2026-09-01,terça-feira,1,PH CASCAVEL,IFCO,6424,explícito,230.0,2
+2026-09-01,terça-feira,1,PH CORUMBA (PF),HB,623,explícito,1260.0,1
+2026-09-01,terça-feira,1,PH UBAJARA,HB,618,explícito,104.0,11
+2026-09-01,terça-feira,1,PH UBAJARA,HB,623,explícito,30.0,5
+2026-09-01,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,26.0,4
+2026-09-01,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,494.0,63
+2026-09-01,terça-feira,1,TREB. MINAS,HB,618,explícito,329.0,15
+2026-09-01,terça-feira,1,TREB. MINAS,HB,623,explícito,321.0,6
+2026-09-01,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,623.0,6
+2026-09-02,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,618,explícito,12.0,2
+2026-09-02,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,8.0,1
+2026-09-02,quarta-feira,2,F. BICAME,IFCO,6424,explícito,403.0,2
+2026-09-02,quarta-feira,2,PH CORUMBA (PF),HB,623,explícito,1260.0,1
+2026-09-02,quarta-feira,2,TREB. MINAS,HB,618,explícito,455.0,8
+2026-09-02,quarta-feira,2,TREB. MINAS,HB,623,explícito,1046.0,15
+2026-09-02,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,650.0,32
+2026-09-02,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,1050.0,12
+2026-09-03,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,12.0,3
+2026-09-03,quinta-feira,3,F. BICAME,IFCO,6424,explícito,1537.0,3
+2026-09-03,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,360.0,1
+2026-09-03,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,960.0,2
+2026-09-03,quinta-feira,3,PH UBAJARA,HB,618,explícito,118.0,16
+2026-09-03,quinta-feira,3,PH UBAJARA,HB,623,explícito,2.0,1
+2026-09-03,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,188.0,39
+2026-09-03,quinta-feira,3,PH UBAJARA,IFCO,6420,explícito,5.0,1
+2026-09-03,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,159.0,14
+2026-09-03,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,9.0,1
+2026-09-03,quinta-feira,3,TREB. MINAS,HB,618,explícito,637.0,14
+2026-09-03,quinta-feira,3,TREB. MINAS,HB,623,explícito,2276.0,8
+2026-09-03,quinta-feira,3,TREB. MINAS,IFCO,6416,explícito,17.0,2
+2026-09-03,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,1161.0,11
+2026-09-04,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,47.0,4
+2026-09-04,sexta-feira,4,F. BICAME,IFCO,6424,explícito,720.0,4
+2026-09-04,sexta-feira,4,PH ALHO/CEBOLA,HB,618,explícito,3.0,1
+2026-09-04,sexta-feira,4,PH CORUMBA (PF),IFCO,6424,explícito,240.0,2
+2026-09-04,sexta-feira,4,PH UBAJARA,IFCO,6416,explícito,126.0,35
+2026-09-04,sexta-feira,4,PH UBAJARA,IFCO,6424,explícito,6.0,6
+2026-09-04,sexta-feira,4,TREB. MINAS,HB,618,explícito,390.0,5
+2026-09-04,sexta-feira,4,TREB. MINAS,HB,623,explícito,940.0,5
+2026-09-04,sexta-feira,4,TREB. MINAS,IFCO,6424,explícito,5.0,1
+2026-09-05,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,94.0,7
+2026-09-05,sábado,5,AGROINDUSTRIA TREBESCHI,HB,623,explícito,8.0,1
+2026-09-05,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,7.0,3
+2026-09-05,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,20.0,1
+2026-09-05,sábado,5,F. BICAME,IFCO,6424,explícito,586.0,3
+2026-09-05,sábado,5,PH CORUMBA (PF),IFCO,6424,explícito,397.0,1
+2026-09-05,sábado,5,PH UBAJARA,HB,618,explícito,334.0,39
+2026-09-05,sábado,5,PH UBAJARA,HB,623,explícito,82.0,6
+2026-09-05,sábado,5,PH UBAJARA,IFCO,6424,explícito,177.0,47
+2026-09-05,sábado,5,TREB. MINAS,HB,618,explícito,982.0,23
+2026-09-05,sábado,5,TREB. MINAS,HB,623,explícito,480.0,7
+2026-09-05,sábado,5,TREB. MINAS,IFCO,6416,explícito,127.0,22
+2026-09-07,segunda-feira,0,TREB. MINAS,HB,618,explícito,495.0,7
+2026-09-07,segunda-feira,0,TREB. MINAS,HB,623,explícito,190.0,3
+2026-09-07,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,474.0,6
+2026-09-08,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,94.0,4
+2026-09-08,terça-feira,1,PH CORUMBA (PF),HB,623,explícito,630.0,1
+2026-09-08,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,279.0,41
+2026-09-08,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,229.0,20
+2026-09-08,terça-feira,1,TREB. CEARA,IFCO,6416,explícito,11.0,1
+2026-09-08,terça-feira,1,TREB. MINAS,HB,618,explícito,474.0,9
+2026-09-08,terça-feira,1,TREB. MINAS,HB,623,explícito,1950.0,18
+2026-09-08,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,680.0,6
+2026-09-09,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,5.0,1
+2026-09-09,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,34.0,3
+2026-09-09,quarta-feira,2,F. BICAME,IFCO,6424,explícito,440.0,1
+2026-09-09,quarta-feira,2,PH CORUMBA (PF),IFCO,6424,explícito,1170.0,5
+2026-09-09,quarta-feira,2,PH UBAJARA,HB,618,explícito,165.0,10
+2026-09-09,quarta-feira,2,PH UBAJARA,HB,623,explícito,35.0,5
+2026-09-09,quarta-feira,2,PH UBAJARA,IFCO,6416,explícito,6.0,4
+2026-09-09,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,200.0,32
+2026-09-09,quarta-feira,2,TREB. MINAS,HB,618,explícito,551.0,19
+2026-09-09,quarta-feira,2,TREB. MINAS,HB,623,explícito,190.0,4
+2026-09-09,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,1567.0,28
+2026-09-09,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,263.0,7
+2026-09-10,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,67.0,4
+2026-09-10,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,1950.0,2
+2026-09-10,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,900.0,1
+2026-09-10,quinta-feira,3,PH UBAJARA,HB,618,explícito,117.0,18
+2026-09-10,quinta-feira,3,PH UBAJARA,HB,623,explícito,46.0,2
+2026-09-10,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,352.0,45
+2026-09-10,quinta-feira,3,PH UBAJARA,IFCO,6420,explícito,8.0,1
+2026-09-10,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,107.0,10
+2026-09-10,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,30.0,2
+2026-09-10,quinta-feira,3,TREB. MINAS,HB,618,explícito,639.0,14
+2026-09-10,quinta-feira,3,TREB. MINAS,HB,618,rateio_por_capacidade,17.66856301544864,2
+2026-09-10,quinta-feira,3,TREB. MINAS,HB,623,explícito,77211.0,15
+2026-09-10,quinta-feira,3,TREB. MINAS,HB,623,rateio_por_capacidade,22.331436984551363,4
+2026-09-10,quinta-feira,3,TREB. MINAS,IFCO,6424,explícito,596.0,2
+2026-09-11,sexta-feira,4,AGROINDUSTRIA TREBESCHI,HB,618,explícito,52.0,3
+2026-09-11,sexta-feira,4,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,80.0,2
+2026-09-11,sexta-feira,4,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,160.0,1
+2026-09-11,sexta-feira,4,PH CORUMBA (PF),IFCO,6424,explícito,915.0,5
+2026-09-11,sexta-feira,4,TREB. MINAS,HB,618,explícito,210.0,5
+2026-09-11,sexta-feira,4,TREB. MINAS,HB,623,explícito,830.0,5
+2026-09-11,sexta-feira,4,TREB. MINAS,IFCO,6416,explícito,828.0,5
+2026-09-11,sexta-feira,4,TREB. MINAS,IFCO,6424,explícito,40.0,1
+2026-09-12,sábado,5,AGROINDUSTRIA TREBESCHI,HB,618,explícito,130.0,7
+2026-09-12,sábado,5,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,20.0,1
+2026-09-12,sábado,5,F. BICAME,IFCO,6424,explícito,453.0,3
+2026-09-12,sábado,5,PH CORUMBA (PF),HB,623,explícito,640.0,1
+2026-09-12,sábado,5,PH CORUMBA (PF),IFCO,6424,explícito,900.0,1
+2026-09-12,sábado,5,PH UBAJARA,HB,618,explícito,413.0,36
+2026-09-12,sábado,5,PH UBAJARA,HB,623,explícito,63.0,7
+2026-09-12,sábado,5,PH UBAJARA,IFCO,6416,explícito,116.0,41
+2026-09-12,sábado,5,PH UBAJARA,IFCO,6424,explícito,256.0,35
+2026-09-12,sábado,5,TREB. MINAS,HB,618,explícito,775.0,20
+2026-09-12,sábado,5,TREB. MINAS,HB,623,explícito,1325.0,9
+2026-09-12,sábado,5,TREB. MINAS,IFCO,6416,explícito,724.0,23
+2026-09-12,sábado,5,TREB. MINAS,IFCO,6424,explícito,80.0,1
+2026-09-14,segunda-feira,0,F. BICAME,IFCO,6424,explícito,680.0,3
+2026-09-14,segunda-feira,0,PH CORUMBA (PF),HB,623,explícito,630.0,1
+2026-09-14,segunda-feira,0,PH CORUMBA (PF),IFCO,6424,explícito,850.0,4
+2026-09-14,segunda-feira,0,PH UBAJARA,IFCO,6416,explícito,40.0,4
+2026-09-14,segunda-feira,0,PH UBAJARA,IFCO,6424,explícito,513.0,46
+2026-09-14,segunda-feira,0,TREB. MINAS,HB,618,explícito,405.0,7
+2026-09-14,segunda-feira,0,TREB. MINAS,HB,623,explícito,860.0,4
+2026-09-14,segunda-feira,0,TREB. MINAS,IFCO,6416,explícito,494.0,5
+2026-09-14,segunda-feira,0,TREB. MINAS,IFCO,6424,explícito,240.0,1
+2026-09-15,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,618,explícito,45.0,3
+2026-09-15,terça-feira,1,AGROINDUSTRIA TREBESCHI,HB,623,explícito,22.0,3
+2026-09-15,terça-feira,1,PH UBAJARA,HB,618,explícito,127.0,11
+2026-09-15,terça-feira,1,PH UBAJARA,HB,623,explícito,43.0,6
+2026-09-15,terça-feira,1,PH UBAJARA,IFCO,6416,explícito,24.0,5
+2026-09-15,terça-feira,1,PH UBAJARA,IFCO,6424,explícito,113.0,26
+2026-09-15,terça-feira,1,TREB. CEARA,HB,618,explícito,20.0,2
+2026-09-15,terça-feira,1,TREB. CEARA,IFCO,6424,explícito,3.0,1
+2026-09-15,terça-feira,1,TREB. MINAS,HB,618,explícito,569.0,34
+2026-09-15,terça-feira,1,TREB. MINAS,HB,618,rateio_por_capacidade,3.327637006482027,1
+2026-09-15,terça-feira,1,TREB. MINAS,HB,623,explícito,788.0,21
+2026-09-15,terça-feira,1,TREB. MINAS,HB,623,rateio_por_capacidade,0.6723629935179729,1
+2026-09-15,terça-feira,1,TREB. MINAS,IFCO,6416,explícito,698.0,7
+2026-09-15,terça-feira,1,TREB. MINAS,IFCO,6424,explícito,400.0,2
+2026-09-16,quarta-feira,2,AGROINDUSTRIA TREBESCHI,HB,623,explícito,20.0,1
+2026-09-16,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6416,explícito,4.0,1
+2026-09-16,quarta-feira,2,AGROINDUSTRIA TREBESCHI,IFCO,6424,explícito,43.0,3
+2026-09-16,quarta-feira,2,PH CORUMBA (PF),HB,623,explícito,1000.0,3
+2026-09-16,quarta-feira,2,PH CORUMBA (PF),IFCO,6424,explícito,900.0,1
+2026-09-16,quarta-feira,2,PH UBAJARA,HB,618,explícito,149.0,16
+2026-09-16,quarta-feira,2,PH UBAJARA,HB,623,explícito,1.0,1
+2026-09-16,quarta-feira,2,PH UBAJARA,IFCO,6424,explícito,70.0,1
+2026-09-16,quarta-feira,2,TREB. CEARA,HB,618,explícito,5.0,2
+2026-09-16,quarta-feira,2,TREB. MINAS,HB,618,explícito,228.0,6
+2026-09-16,quarta-feira,2,TREB. MINAS,HB,623,explícito,870.0,4
+2026-09-16,quarta-feira,2,TREB. MINAS,IFCO,6416,explícito,503.0,29
+2026-09-16,quarta-feira,2,TREB. MINAS,IFCO,6424,explícito,2124.0,16
+2026-09-17,quinta-feira,3,AGROINDUSTRIA TREBESCHI,HB,618,explícito,44.0,4
+2026-09-17,quinta-feira,3,F. BICAME,IFCO,6424,explícito,417.0,2
+2026-09-17,quinta-feira,3,PH CORUMBA (PF),HB,623,explícito,1320.0,3
+2026-09-17,quinta-feira,3,PH CORUMBA (PF),IFCO,6424,explícito,1260.0,1
+2026-09-17,quinta-feira,3,PH UBAJARA,IFCO,6416,explícito,536.0,47
+2026-09-17,quinta-feira,3,PH UBAJARA,IFCO,6420,explícito,10.0,1
+2026-09-17,quinta-feira,3,PH UBAJARA,IFCO,6424,explícito,341.0,13
+2026-09-17,quinta-feira,3,TREB. CEARA,IFCO,6416,explícito,99.0,5
+2026-09-17,quinta-feira,3,TREB. MINAS,HB,618,explícito,555.0,24
+2026-09-17,quinta-feira,3,TREB. MINAS,HB,623,explícito,1238.0,12

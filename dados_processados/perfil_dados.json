@@ -1,0 +1,543 @@
+{
+  "arquivo_origem": "vendas 01jun a 16 set.xlsx",
+  "planilha": "new sheet",
+  "estrutura": {
+    "linhas_origem": 75334,
+    "colunas": 48,
+    "cabecalhos": [
+      "Status",
+      "Status Romanteio",
+      "Tipo Operação",
+      "Cód. Parceiro",
+      "Cód. Emb",
+      "Nro. Un. Ped.",
+      "Num. Pedido",
+      "Dt. Entrega",
+      "Observação",
+      "Data",
+      "Prioridade",
+      "Cliente",
+      "Estado",
+      "Cód. Emp.",
+      "Origem",
+      "Cód. Prod.",
+      "Desc. Produto",
+      "Cor",
+      "Qtd.",
+      "Qtd. Entreg.",
+      "Unidade",
+      "Cód. Embal.",
+      "Desc. Embal.",
+      "NROPRODPH",
+      "SEQUENCIA",
+      "Qtd. Caixa",
+      "Num. Romaneio",
+      "Equip. Cod",
+      "Equipe",
+      "Ordem Carga",
+      "Vendedor",
+      "Gramatura",
+      "Peso",
+      "Categoria Produto",
+      "MP Produto",
+      "NomeParcMatriz",
+      "Grupo Produto",
+      "Altura IFCO",
+      "Nr Packing",
+      "CODCXVOL",
+      "CXVOL",
+      "PACKING",
+      "NROEQUIPE",
+      "AD_CODGRUPAINEL",
+      "NOMEPAINEL",
+      "EQUIPEPROD",
+      "Tipo Venda",
+      "DH Confirm. Pedido"
+    ],
+    "linhas_vazias": 0,
+    "colunas_vazias": [
+      38
+    ],
+    "celulas_mescladas": null
+  },
+  "tipos": [
+    {
+      "indice": 1,
+      "coluna": "Status",
+      "tipo_detectado": "inteiro",
+      "exemplo": 4,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 2,
+      "coluna": "Status Romanteio",
+      "tipo_detectado": "texto",
+      "exemplo": "Confirmado",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 3,
+      "coluna": "Tipo Operação",
+      "tipo_detectado": "texto",
+      "exemplo": "Venda",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 4,
+      "coluna": "Cód. Parceiro",
+      "tipo_detectado": "inteiro",
+      "exemplo": 44820,
+      "percentual_preenchido": 99.92
+    },
+    {
+      "indice": 5,
+      "coluna": "Cód. Emb",
+      "tipo_detectado": "identificador/código (texto preservado)",
+      "exemplo": "CX",
+      "percentual_preenchido": 97.67
+    },
+    {
+      "indice": 6,
+      "coluna": "Nro. Un. Ped.",
+      "tipo_detectado": "inteiro",
+      "exemplo": 5598112,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 7,
+      "coluna": "Num. Pedido",
+      "tipo_detectado": "inteiro",
+      "exemplo": 35737,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 8,
+      "coluna": "Dt. Entrega",
+      "tipo_detectado": "data",
+      "exemplo": "2026-06-02 00:00:00",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 9,
+      "coluna": "Observação",
+      "tipo_detectado": "texto",
+      "exemplo": "TROCA DE NOTA",
+      "percentual_preenchido": 89.51
+    },
+    {
+      "indice": 10,
+      "coluna": "Data",
+      "tipo_detectado": "data",
+      "exemplo": "2026-06-01 00:00:00",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 11,
+      "coluna": "Prioridade",
+      "tipo_detectado": "vazio/nulo",
+      "exemplo": "",
+      "percentual_preenchido": 0.98
+    },
+    {
+      "indice": 12,
+      "coluna": "Cliente",
+      "tipo_detectado": "texto",
+      "exemplo": "ATACADAO CHAPADA MT - NOVO",
+      "percentual_preenchido": 99.95
+    },
+    {
+      "indice": 13,
+      "coluna": "Estado",
+      "tipo_detectado": "texto",
+      "exemplo": "MT",
+      "percentual_preenchido": 99.95
+    },
+    {
+      "indice": 14,
+      "coluna": "Cód. Emp.",
+      "tipo_detectado": "inteiro",
+      "exemplo": 76,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 15,
+      "coluna": "Origem",
+      "tipo_detectado": "texto",
+      "exemplo": "PH CORUMBA (PF)",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 16,
+      "coluna": "Cód. Prod.",
+      "tipo_detectado": "inteiro",
+      "exemplo": 33415,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 17,
+      "coluna": "Desc. Produto",
+      "tipo_detectado": "texto",
+      "exemplo": "TOMATE LV AA MISTO COR 1/2 PAPELAO 18KG",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 18,
+      "coluna": "Cor",
+      "tipo_detectado": "texto",
+      "exemplo": "TOMATE LV AA MISTO",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 19,
+      "coluna": "Qtd.",
+      "tipo_detectado": "inteiro",
+      "exemplo": 150,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 20,
+      "coluna": "Qtd. Entreg.",
+      "tipo_detectado": "inteiro",
+      "exemplo": 150,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 21,
+      "coluna": "Unidade",
+      "tipo_detectado": "texto",
+      "exemplo": "CX",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 22,
+      "coluna": "Cód. Embal.",
+      "tipo_detectado": "identificador/código (texto preservado)",
+      "exemplo": "CX",
+      "percentual_preenchido": 97.67
+    },
+    {
+      "indice": 23,
+      "coluna": "Desc. Embal.",
+      "tipo_detectado": "texto",
+      "exemplo": "Caixa",
+      "percentual_preenchido": 97.67
+    },
+    {
+      "indice": 24,
+      "coluna": "NROPRODPH",
+      "tipo_detectado": "inteiro",
+      "exemplo": 340900,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 25,
+      "coluna": "SEQUENCIA",
+      "tipo_detectado": "inteiro",
+      "exemplo": 1,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 26,
+      "coluna": "Qtd. Caixa",
+      "tipo_detectado": "inteiro",
+      "exemplo": 150,
+      "percentual_preenchido": 99.96
+    },
+    {
+      "indice": 27,
+      "coluna": "Num. Romaneio",
+      "tipo_detectado": "inteiro",
+      "exemplo": 5599254,
+      "percentual_preenchido": 97.94
+    },
+    {
+      "indice": 28,
+      "coluna": "Equip. Cod",
+      "tipo_detectado": "inteiro",
+      "exemplo": 23,
+      "percentual_preenchido": 96.49
+    },
+    {
+      "indice": 29,
+      "coluna": "Equipe",
+      "tipo_detectado": "texto",
+      "exemplo": "Equipe 2",
+      "percentual_preenchido": 51.38
+    },
+    {
+      "indice": 30,
+      "coluna": "Ordem Carga",
+      "tipo_detectado": "inteiro",
+      "exemplo": 60083,
+      "percentual_preenchido": 98.34
+    },
+    {
+      "indice": 31,
+      "coluna": "Vendedor",
+      "tipo_detectado": "texto",
+      "exemplo": "FELIPE CASTILHO",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 32,
+      "coluna": "Gramatura",
+      "tipo_detectado": "decimal",
+      "exemplo": 18,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 33,
+      "coluna": "Peso",
+      "tipo_detectado": "decimal",
+      "exemplo": 2700,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 34,
+      "coluna": "Categoria Produto",
+      "tipo_detectado": "texto",
+      "exemplo": "TOMATE LV AA",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 35,
+      "coluna": "MP Produto",
+      "tipo_detectado": "texto",
+      "exemplo": "TOMATE LV EXTRA AA Cx Plastica24Kg",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 36,
+      "coluna": "NomeParcMatriz",
+      "tipo_detectado": "texto",
+      "exemplo": "ATACADAO GRUPO CARREFOUR BRASIL",
+      "percentual_preenchido": 99.78
+    },
+    {
+      "indice": 37,
+      "coluna": "Grupo Produto",
+      "tipo_detectado": "texto",
+      "exemplo": "TOMATE LV GRANEL",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 38,
+      "coluna": "Altura IFCO",
+      "tipo_detectado": "vazio/nulo",
+      "exemplo": "",
+      "percentual_preenchido": 0.0
+    },
+    {
+      "indice": 39,
+      "coluna": "Nr Packing",
+      "tipo_detectado": "inteiro",
+      "exemplo": 11,
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 40,
+      "coluna": "CODCXVOL",
+      "tipo_detectado": "inteiro",
+      "exemplo": 910,
+      "percentual_preenchido": 77.99
+    },
+    {
+      "indice": 41,
+      "coluna": "CXVOL",
+      "tipo_detectado": "texto",
+      "exemplo": "TOMATE LV AA MISTO COR 1/2 PAPELAO 18KG",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 42,
+      "coluna": "PACKING",
+      "tipo_detectado": "texto",
+      "exemplo": "PH ANAPOLIS GRANEL",
+      "percentual_preenchido": 100.0
+    },
+    {
+      "indice": 43,
+      "coluna": "NROEQUIPE",
+      "tipo_detectado": "inteiro",
+      "exemplo": 23,
+      "percentual_preenchido": 96.49
+    },
+    {
+      "indice": 44,
+      "coluna": "AD_CODGRUPAINEL",
+      "tipo_detectado": "inteiro",
+      "exemplo": 31,
+      "percentual_preenchido": 87.86
+    },
+    {
+      "indice": 45,
+      "coluna": "NOMEPAINEL",
+      "tipo_detectado": "texto",
+      "exemplo": "LV AA 1 E 2",
+      "percentual_preenchido": 87.86
+    },
+    {
+      "indice": 46,
+      "coluna": "EQUIPEPROD",
+      "tipo_detectado": "texto",
+      "exemplo": "AA COLOR.",
+      "percentual_preenchido": 96.49
+    },
+    {
+      "indice": 47,
+      "coluna": "Tipo Venda",
+      "tipo_detectado": "texto",
+      "exemplo": "Normal",
+      "percentual_preenchido": 98.43
+    },
+    {
+      "indice": 48,
+      "coluna": "DH Confirm. Pedido",
+      "tipo_detectado": "texto",
+      "exemplo": "01/06/2026 11:20:56",
+      "percentual_preenchido": 99.76
+    }
+  ],
+  "validacao": {
+    "linhas_origem": 75334,
+    "linhas_csv": 75334,
+    "colunas_origem": 48,
+    "colunas_csv": 48,
+    "cabecalhos_iguais": true,
+    "nulos_origem_por_coluna": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 58,
+      "5": 1755,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 7902,
+      "10": 0,
+      "11": 74597,
+      "12": 34,
+      "13": 34,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 1755,
+      "23": 1755,
+      "24": 0,
+      "25": 0,
+      "26": 31,
+      "27": 1553,
+      "28": 2646,
+      "29": 36626,
+      "30": 1254,
+      "31": 0,
+      "32": 0,
+      "33": 0,
+      "34": 0,
+      "35": 0,
+      "36": 168,
+      "37": 0,
+      "38": 75334,
+      "39": 0,
+      "40": 16581,
+      "41": 0,
+      "42": 0,
+      "43": 2646,
+      "44": 9144,
+      "45": 9144,
+      "46": 2646,
+      "47": 1185,
+      "48": 178
+    },
+    "nulos_csv_por_coluna": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 58,
+      "5": 1755,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 7902,
+      "10": 0,
+      "11": 74597,
+      "12": 34,
+      "13": 34,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 1755,
+      "23": 1755,
+      "24": 0,
+      "25": 0,
+      "26": 31,
+      "27": 1553,
+      "28": 2646,
+      "29": 36626,
+      "30": 1254,
+      "31": 0,
+      "32": 0,
+      "33": 0,
+      "34": 0,
+      "35": 0,
+      "36": 168,
+      "37": 0,
+      "38": 75334,
+      "39": 0,
+      "40": 16581,
+      "41": 0,
+      "42": 0,
+      "43": 2646,
+      "44": 9144,
+      "45": 9144,
+      "46": 2646,
+      "47": 1185,
+      "48": 178
+    },
+    "amostras_validadas": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      8767,
+      8957,
+      19130,
+      30730,
+      33459,
+      38099,
+      41452,
+      62974,
+      63319,
+      74600,
+      75325,
+      75326,
+      75327,
+      75328,
+      75329,
+      75330,
+      75331,
+      75332,
+      75333,
+      75334
+    ],
+    "amostras_equivalentes": true,
+    "tamanho_csv_bytes": 39359651
+  },
+  "como_ler_no_pandas": "Use dtype=str nas colunas classificadas como identificador/código para preservar zeros à esquerda."
+}

@@ -1,0 +1,41 @@
+{
+  "linhas": 1075,
+  "colunas": [
+    "data",
+    "dia_semana",
+    "numero_dia_semana",
+    "origem",
+    "familia_caixa",
+    "modelo_caixa_previsao",
+    "metodo_modelo",
+    "quantidade_caixas",
+    "registros_origem"
+  ],
+  "colunas_obrigatorias_faltantes": [],
+  "datas_invalidas": 0,
+  "origens_vazias": 0,
+  "quantidades_invalidas": 0,
+  "quantidades_negativas": 0,
+  "domingos": 0,
+  "dias_inconsistentes": 0,
+  "familias_invalidas": [],
+  "modelos_invalidos": [],
+  "caracteres_problematicos": 0,
+  "datas": [
+    "2026-06-01",
+    "2026-09-17"
+  ],
+  "apta_para_previsao": true,
+  "periodo_treino": [
+    "2026-06-01",
+    "2026-08-27"
+  ],
+  "periodo_teste": [
+    "2026-08-28",
+    "2026-09-17"
+  ],
+  "datas_teste": 18,
+  "melhor_modelo_global": "mediana_dia_semana",
+  "metrica_selecao": "WAPE_pct",
+  "WAPE_pct_melhor_modelo": 87.09190743707903
+}

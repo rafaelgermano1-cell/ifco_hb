@@ -1,0 +1,62 @@
+{
+  "entrada": "dados_processados\\dados_processados.csv",
+  "regra": "Desc. Embal. tem prioridade; Desc. Produto é usado como alternativa.",
+  "modelos_esperados": {
+    "IFCO": [
+      "6416",
+      "6420",
+      "6424"
+    ],
+    "HB": [
+      "618",
+      "623"
+    ]
+  },
+  "estatisticas": {
+    "linhas_lidas": 75334,
+    "linhas_sem_ifco_hb": 63597,
+    "linhas_normalizadas": 11737,
+    "familia_HB": 4562,
+    "fonte_Desc. Produto": 1179,
+    "familia_IFCO": 7175,
+    "fonte_Desc. Embal.": 10558
+  },
+  "pendencias_modelo": [
+    [
+      "HB | HB C/ 20UN",
+      26
+    ],
+    [
+      "HB | HB C/ 48UN",
+      18
+    ],
+    [
+      "HB | HB C/ 38UN",
+      12
+    ],
+    [
+      "HB | HB C/ 44UN",
+      12
+    ],
+    [
+      "HB | HB C/ 70UN",
+      10
+    ],
+    [
+      "HB | HB C/ 10KG",
+      7
+    ],
+    [
+      "HB | HB C/ 12UN",
+      2
+    ],
+    [
+      "HB | HB C/ 5KG",
+      2
+    ],
+    [
+      "HB | HB C/ 26UN",
+      2
+    ]
+  ]
+}

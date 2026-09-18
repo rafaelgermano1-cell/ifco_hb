@@ -1,0 +1,95 @@
+{
+  "arquivo": "dados_processados_completo\\dados_processados.csv",
+  "linhas_brutas": 789660,
+  "periodo_bruto": [
+    "2023-01-02",
+    "2026-09-17"
+  ],
+  "ausentes_nas_colunas_relevantes": {
+    "Data": 0,
+    "Origem": 0,
+    "Desc. Produto": 0,
+    "Desc. Embal.": 52950,
+    "Qtd. Caixa": 1615
+  },
+  "datas_invalidas": 0,
+  "quantidades_invalidas": 1615,
+  "quantidades_negativas": 2,
+  "linhas_normalizadas": 156276,
+  "origens_normalizadas": 13,
+  "familias": [
+    "HB",
+    "IFCO"
+  ],
+  "modelos_por_familia": [
+    {
+      "familia_caixa": "HB",
+      "modelo_caixa": "618",
+      "count": 26241,
+      "sum": 564166.4760516036
+    },
+    {
+      "familia_caixa": "HB",
+      "modelo_caixa": "623",
+      "count": 10450,
+      "sum": 1411365.327809933
+    },
+    {
+      "familia_caixa": "HB",
+      "modelo_caixa": "NAO_INFORMADO",
+      "count": 12213,
+      "sum": 248197.65587073745
+    },
+    {
+      "familia_caixa": "IFCO",
+      "modelo_caixa": "6416",
+      "count": 76194,
+      "sum": 1461659.9821738033
+    },
+    {
+      "familia_caixa": "IFCO",
+      "modelo_caixa": "6420",
+      "count": 3,
+      "sum": 23.0
+    },
+    {
+      "familia_caixa": "IFCO",
+      "modelo_caixa": "6424",
+      "count": 30606,
+      "sum": 2215283.504370806
+    },
+    {
+      "familia_caixa": "IFCO",
+      "modelo_caixa": "NAO_INFORMADO",
+      "count": 569,
+      "sum": 3350.4666666666667
+    }
+  ],
+  "quantidade_total_normalizada": 5904046.412943549,
+  "outliers_iqr_quantidade_por_linha": {
+    "q1": 2.0,
+    "q3": 20.0,
+    "limite_superior": 47.0,
+    "linhas": 19204,
+    "percentual_linhas": 12.288515191072205,
+    "quantidade": 4636588.966666667,
+    "percentual_quantidade": 78.5323935886037,
+    "tratamento": "mantidos; representam volumes operacionais e não foram removidos"
+  },
+  "quantidades_por_familia": {
+    "HB": {
+      "count": 48904,
+      "sum": 2223729.459732274
+    },
+    "IFCO": {
+      "count": 107372,
+      "sum": 3680316.9532112754
+    }
+  },
+  "tratamentos_aplicados": [
+    "datas e quantidades inválidas foram excluídas pelo normalizador e contabilizadas no relatório",
+    "família/modelo foram padronizados por regras explícitas de identificação",
+    "HB sem modelo foi rateado por capacidade quando existia base histórica",
+    "outliers de quantidade foram mantidos por serem potencialmente pedidos reais"
+  ]
+}

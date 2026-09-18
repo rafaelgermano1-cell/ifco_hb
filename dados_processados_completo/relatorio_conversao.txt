@@ -1,0 +1,63 @@
+RELATÓRIO DE CONVERSÃO
+Origem: vendas 2023 a 2026.xlsx
+Planilha: new sheet
+Tamanho da origem: 183,742,400 bytes
+Tamanho do CSV: 395,281,540 bytes
+
+Linhas: origem=789,660; CSV=789,660
+Colunas: origem=48; CSV=48
+Cabeçalhos iguais: True
+Amostras (primeiras, últimas e aleatórias) equivalentes: True
+Linhas vazias preservadas: 0
+Linhas com erro Excel: 0
+Tempo de conversão: 321.8 s
+
+TIPOS DETECTADOS
+Status | não inferido no parser XML |  | None%
+Status Romanteio | não inferido no parser XML |  | None%
+Tipo Operação | não inferido no parser XML |  | None%
+Cód. Parceiro | não inferido no parser XML |  | None%
+Cód. Emb | não inferido no parser XML |  | None%
+Nro. Un. Ped. | não inferido no parser XML |  | None%
+Num. Pedido | não inferido no parser XML |  | None%
+Dt. Entrega | não inferido no parser XML |  | None%
+Observação | não inferido no parser XML |  | None%
+Data | não inferido no parser XML |  | None%
+Prioridade | não inferido no parser XML |  | None%
+Cliente | não inferido no parser XML |  | None%
+Estado | não inferido no parser XML |  | None%
+Cód. Emp. | não inferido no parser XML |  | None%
+Origem | não inferido no parser XML |  | None%
+Cód. Prod. | não inferido no parser XML |  | None%
+Desc. Produto | não inferido no parser XML |  | None%
+Cor | não inferido no parser XML |  | None%
+Qtd. | não inferido no parser XML |  | None%
+Qtd. Entreg. | não inferido no parser XML |  | None%
+Unidade | não inferido no parser XML |  | None%
+Cód. Embal. | não inferido no parser XML |  | None%
+Desc. Embal. | não inferido no parser XML |  | None%
+NROPRODPH | não inferido no parser XML |  | None%
+SEQUENCIA | não inferido no parser XML |  | None%
+Qtd. Caixa | não inferido no parser XML |  | None%
+Num. Romaneio | não inferido no parser XML |  | None%
+Equip. Cod | não inferido no parser XML |  | None%
+Equipe | não inferido no parser XML |  | None%
+Ordem Carga | não inferido no parser XML |  | None%
+Vendedor | não inferido no parser XML |  | None%
+Gramatura | não inferido no parser XML |  | None%
+Peso | não inferido no parser XML |  | None%
+Categoria Produto | não inferido no parser XML |  | None%
+MP Produto | não inferido no parser XML |  | None%
+NomeParcMatriz | não inferido no parser XML |  | None%
+Grupo Produto | não inferido no parser XML |  | None%
+Altura IFCO | não inferido no parser XML |  | None%
+Nr Packing | não inferido no parser XML |  | None%
+CODCXVOL | não inferido no parser XML |  | None%
+CXVOL | não inferido no parser XML |  | None%
+PACKING | não inferido no parser XML |  | None%
+NROEQUIPE | não inferido no parser XML |  | None%
+AD_CODGRUPAINEL | não inferido no parser XML |  | None%
+NOMEPAINEL | não inferido no parser XML |  | None%
+EQUIPEPROD | não inferido no parser XML |  | None%
+Tipo Venda | não inferido no parser XML |  | None%
+DH Confirm. Pedido | não inferido no parser XML |  | None%

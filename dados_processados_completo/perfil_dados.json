@@ -1,0 +1,409 @@
+{
+  "arquivo_origem": "vendas 2023 a 2026.xlsx",
+  "planilha": "new sheet",
+  "estrutura": {
+    "linhas_origem": 789660,
+    "colunas": 48,
+    "cabecalhos": [
+      "Status",
+      "Status Romanteio",
+      "Tipo Operação",
+      "Cód. Parceiro",
+      "Cód. Emb",
+      "Nro. Un. Ped.",
+      "Num. Pedido",
+      "Dt. Entrega",
+      "Observação",
+      "Data",
+      "Prioridade",
+      "Cliente",
+      "Estado",
+      "Cód. Emp.",
+      "Origem",
+      "Cód. Prod.",
+      "Desc. Produto",
+      "Cor",
+      "Qtd.",
+      "Qtd. Entreg.",
+      "Unidade",
+      "Cód. Embal.",
+      "Desc. Embal.",
+      "NROPRODPH",
+      "SEQUENCIA",
+      "Qtd. Caixa",
+      "Num. Romaneio",
+      "Equip. Cod",
+      "Equipe",
+      "Ordem Carga",
+      "Vendedor",
+      "Gramatura",
+      "Peso",
+      "Categoria Produto",
+      "MP Produto",
+      "NomeParcMatriz",
+      "Grupo Produto",
+      "Altura IFCO",
+      "Nr Packing",
+      "CODCXVOL",
+      "CXVOL",
+      "PACKING",
+      "NROEQUIPE",
+      "AD_CODGRUPAINEL",
+      "NOMEPAINEL",
+      "EQUIPEPROD",
+      "Tipo Venda",
+      "DH Confirm. Pedido"
+    ],
+    "linhas_vazias": 0,
+    "colunas_vazias": [],
+    "celulas_mescladas": null
+  },
+  "tipos": [
+    {
+      "indice": 1,
+      "coluna": "Status",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 2,
+      "coluna": "Status Romanteio",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 3,
+      "coluna": "Tipo Operação",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 4,
+      "coluna": "Cód. Parceiro",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 5,
+      "coluna": "Cód. Emb",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 6,
+      "coluna": "Nro. Un. Ped.",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 7,
+      "coluna": "Num. Pedido",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 8,
+      "coluna": "Dt. Entrega",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 9,
+      "coluna": "Observação",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 10,
+      "coluna": "Data",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 11,
+      "coluna": "Prioridade",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 12,
+      "coluna": "Cliente",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 13,
+      "coluna": "Estado",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 14,
+      "coluna": "Cód. Emp.",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 15,
+      "coluna": "Origem",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 16,
+      "coluna": "Cód. Prod.",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 17,
+      "coluna": "Desc. Produto",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 18,
+      "coluna": "Cor",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 19,
+      "coluna": "Qtd.",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 20,
+      "coluna": "Qtd. Entreg.",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 21,
+      "coluna": "Unidade",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 22,
+      "coluna": "Cód. Embal.",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 23,
+      "coluna": "Desc. Embal.",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 24,
+      "coluna": "NROPRODPH",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 25,
+      "coluna": "SEQUENCIA",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 26,
+      "coluna": "Qtd. Caixa",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 27,
+      "coluna": "Num. Romaneio",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 28,
+      "coluna": "Equip. Cod",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 29,
+      "coluna": "Equipe",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 30,
+      "coluna": "Ordem Carga",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 31,
+      "coluna": "Vendedor",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 32,
+      "coluna": "Gramatura",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 33,
+      "coluna": "Peso",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 34,
+      "coluna": "Categoria Produto",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 35,
+      "coluna": "MP Produto",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 36,
+      "coluna": "NomeParcMatriz",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 37,
+      "coluna": "Grupo Produto",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 38,
+      "coluna": "Altura IFCO",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 39,
+      "coluna": "Nr Packing",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 40,
+      "coluna": "CODCXVOL",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 41,
+      "coluna": "CXVOL",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 42,
+      "coluna": "PACKING",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 43,
+      "coluna": "NROEQUIPE",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 44,
+      "coluna": "AD_CODGRUPAINEL",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 45,
+      "coluna": "NOMEPAINEL",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 46,
+      "coluna": "EQUIPEPROD",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 47,
+      "coluna": "Tipo Venda",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    },
+    {
+      "indice": 48,
+      "coluna": "DH Confirm. Pedido",
+      "tipo_detectado": "não inferido no parser XML",
+      "exemplo": "",
+      "percentual_preenchido": null
+    }
+  ],
+  "validacao": {
+    "linhas_origem": 789660,
+    "linhas_csv": 789660,
+    "colunas_origem": 48,
+    "colunas_csv": 48,
+    "cabecalhos_iguais": true,
+    "amostras_equivalentes": true,
+    "tamanho_csv_bytes": 395281540
+  },
+  "como_ler_no_pandas": "Use dtype=str nas colunas classificadas como identificador/código para preservar zeros à esquerda."
+}

@@ -1,0 +1,247 @@
+{
+  "protocolo": "comparação somente nos mesmos casos (data, origem, família e modelo)",
+  "modelos_classicos": [
+    {
+      "arquivo": "previsoes_teste_modelos.csv",
+      "casos_comuns": 486,
+      "reais_divergentes_por_rateio": 9,
+      "diferenca_absoluta_caixas_reais": 83.61671705828894,
+      "recente": {
+        "MAE": 469.5986912201042,
+        "RMSE": 4859.926580309491,
+        "WAPE_pct": 147.6706334085866,
+        "vies": 1502.9999999999945,
+        "observacoes": 486,
+        "caixas_reais": 154550.0
+      },
+      "completo": {
+        "MAE": 469.70969086922605,
+        "RMSE": 4859.46109667397,
+        "WAPE_pct": 147.63198520468214,
+        "vies": 1425.999999999999,
+        "observacoes": 486,
+        "caixas_reais": 154627.0
+      },
+      "diferenca_WAPE_pontos_percentuais": -0.03864820390447221,
+      "modelo": "ultima_semana"
+    },
+    {
+      "arquivo": "previsoes_teste_modelos.csv",
+      "casos_comuns": 486,
+      "reais_divergentes_por_rateio": 9,
+      "diferenca_absoluta_caixas_reais": 83.61671705828894,
+      "recente": {
+        "MAE": 299.0169685255522,
+        "RMSE": 3443.0676552316972,
+        "WAPE_pct": 94.02927641761137,
+        "vies": -63441.8161782662,
+        "observacoes": 486,
+        "caixas_reais": 154550.0
+      },
+      "completo": {
+        "MAE": 315.7468250256922,
+        "RMSE": 3485.950946188467,
+        "WAPE_pct": 99.24072572221307,
+        "vies": -72126.03355634978,
+        "observacoes": 486,
+        "caixas_reais": 154627.0
+      },
+      "diferenca_WAPE_pontos_percentuais": 5.2114493046017,
+      "modelo": "media_dia_semana"
+    },
+    {
+      "arquivo": "previsoes_teste_modelos.csv",
+      "casos_comuns": 486,
+      "reais_divergentes_por_rateio": 9,
+      "diferenca_absoluta_caixas_reais": 83.61671705828894,
+      "recente": {
+        "MAE": 276.9558496790239,
+        "RMSE": 3427.119241342597,
+        "WAPE_pct": 87.09190743707903,
+        "vies": -88685.86303495339,
+        "observacoes": 486,
+        "caixas_reais": 154550.0
+      },
+      "completo": {
+        "MAE": 283.709624591307,
+        "RMSE": 3499.395791983288,
+        "WAPE_pct": 89.17128156879147,
+        "vies": -119485.10563351845,
+        "observacoes": 486,
+        "caixas_reais": 154627.0
+      },
+      "diferenca_WAPE_pontos_percentuais": 2.0793741317124415,
+      "modelo": "mediana_dia_semana"
+    },
+    {
+      "arquivo": "previsoes_teste_modelos.csv",
+      "casos_comuns": 486,
+      "reais_divergentes_por_rateio": 9,
+      "diferenca_absoluta_caixas_reais": 83.61671705828894,
+      "recente": {
+        "MAE": 313.83131854970713,
+        "RMSE": 3474.857629901984,
+        "WAPE_pct": 98.68781676813826,
+        "vies": -54468.10895638123,
+        "observacoes": 486,
+        "caixas_reais": 154550.0
+      },
+      "completo": {
+        "MAE": 312.31476349820315,
+        "RMSE": 3478.539235998159,
+        "WAPE_pct": 98.1620124946657,
+        "vies": -69018.16771761361,
+        "observacoes": 486,
+        "caixas_reais": 154627.0
+      },
+      "diferenca_WAPE_pontos_percentuais": -0.5258042734725592,
+      "modelo": "media_exponencial"
+    },
+    {
+      "arquivo": "previsoes_teste_modelos.csv",
+      "casos_comuns": 486,
+      "reais_divergentes_por_rateio": 9,
+      "diferenca_absoluta_caixas_reais": 83.61671705828894,
+      "recente": {
+        "MAE": 375.05553106225005,
+        "RMSE": 3880.1240329098123,
+        "WAPE_pct": 117.9404646368512,
+        "vies": -37400.3135402001,
+        "observacoes": 486,
+        "caixas_reais": 154550.0
+      },
+      "completo": {
+        "MAE": 374.9650152207223,
+        "RMSE": 3879.8340420210648,
+        "WAPE_pct": 117.8532839654595,
+        "vies": -37477.33911320916,
+        "observacoes": 486,
+        "caixas_reais": 154627.0
+      },
+      "diferenca_WAPE_pontos_percentuais": -0.08718067139170671,
+      "modelo": "tendencia_dia_semana"
+    }
+  ],
+  "modelos_avancados": [
+    {
+      "arquivo": "previsoes_teste_modelos_avancados.csv",
+      "casos_comuns": 486,
+      "reais_divergentes_por_rateio": 9,
+      "diferenca_absoluta_caixas_reais": 83.61671705828894,
+      "recente": {
+        "MAE": 276.9558496790239,
+        "RMSE": 3427.119241342597,
+        "WAPE_pct": 87.09190743707903,
+        "vies": -88685.86303495339,
+        "observacoes": 486,
+        "caixas_reais": 154550.0
+      },
+      "completo": {
+        "MAE": 283.709624591307,
+        "RMSE": 3499.395791983288,
+        "WAPE_pct": 89.17128156879147,
+        "vies": -119485.10563351845,
+        "observacoes": 486,
+        "caixas_reais": 154627.0
+      },
+      "diferenca_WAPE_pontos_percentuais": 2.0793741317124415,
+      "modelo": "mediana_sazonal"
+    },
+    {
+      "arquivo": "previsoes_teste_modelos_avancados.csv",
+      "casos_comuns": 486,
+      "reais_divergentes_por_rateio": 9,
+      "diferenca_absoluta_caixas_reais": 83.61671705828894,
+      "recente": {
+        "MAE": 457.0553008888944,
+        "RMSE": 4012.9123751421007,
+        "WAPE_pct": 143.72622208476395,
+        "vies": -1115.333333333319,
+        "observacoes": 486,
+        "caixas_reais": 154550.0
+      },
+      "completo": {
+        "MAE": 457.2143248115424,
+        "RMSE": 4012.930205990729,
+        "WAPE_pct": 143.7046323464916,
+        "vies": -1192.333333333319,
+        "observacoes": 486,
+        "caixas_reais": 154627.0
+      },
+      "diferenca_WAPE_pontos_percentuais": -0.021589738272353998,
+      "modelo": "media_movel_3"
+    },
+    {
+      "arquivo": "previsoes_teste_modelos_avancados.csv",
+      "casos_comuns": 486,
+      "reais_divergentes_por_rateio": 9,
+      "diferenca_absoluta_caixas_reais": 83.61671705828894,
+      "recente": {
+        "MAE": 641.5194777941329,
+        "RMSE": 6555.7901292294555,
+        "WAPE_pct": 201.7330742206073,
+        "vies": 96325.3806125262,
+        "observacoes": 486,
+        "caixas_reais": 154550.0
+      },
+      "completo": {
+        "MAE": 326.8206804435222,
+        "RMSE": 3545.2792512477763,
+        "WAPE_pct": 102.72129103943799,
+        "vies": -49613.53243876929,
+        "observacoes": 486,
+        "caixas_reais": 154627.0
+      },
+      "diferenca_WAPE_pontos_percentuais": -99.01178318116932,
+      "modelo": "holt_winters"
+    },
+    {
+      "arquivo": "previsoes_teste_modelos_avancados.csv",
+      "casos_comuns": 486,
+      "reais_divergentes_por_rateio": 9,
+      "diferenca_absoluta_caixas_reais": 83.61671705828894,
+      "recente": {
+        "MAE": 492.94290848489027,
+        "RMSE": 4945.591755210993,
+        "WAPE_pct": 155.01148723627088,
+        "vies": 24757.756140373316,
+        "observacoes": 486,
+        "caixas_reais": 154550.0
+      },
+      "completo": {
+        "MAE": 325.25965710396525,
+        "RMSE": 3491.568484252494,
+        "WAPE_pct": 102.23065399479205,
+        "vies": -57652.1774544919,
+        "observacoes": 486,
+        "caixas_reais": 154627.0
+      },
+      "diferenca_WAPE_pontos_percentuais": -52.78083324147883,
+      "modelo": "arima_111"
+    },
+    {
+      "arquivo": "previsoes_teste_modelos_avancados.csv",
+      "casos_comuns": 486,
+      "reais_divergentes_por_rateio": 9,
+      "diferenca_absoluta_caixas_reais": 83.61671705828894,
+      "recente": {
+        "MAE": 645.2814515510818,
+        "RMSE": 5805.6434877449965,
+        "WAPE_pct": 202.91606952690117,
+        "vies": 93096.03212406849,
+        "observacoes": 486,
+        "caixas_reais": 154550.0
+      },
+      "completo": {
+        "MAE": 466.2504050412455,
+        "RMSE": 4332.8268069006435,
+        "WAPE_pct": 146.54471525027665,
+        "vies": 11527.295098668936,
+        "observacoes": 486,
+        "caixas_reais": 154627.0
+      },
+      "diferenca_WAPE_pontos_percentuais": -56.371354276624515,
+      "modelo": "sarima_111_100_6"
+    }
+  ]
+}

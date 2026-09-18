@@ -1,0 +1,215 @@
+{
+  "entrada": "dados_processados_completo\\dados_processados.csv",
+  "regra": "Desc. Embal. tem prioridade; Desc. Produto é usado como alternativa.",
+  "modelos_esperados": {
+    "IFCO": [
+      "6416",
+      "6420",
+      "6424"
+    ],
+    "HB": [
+      "618",
+      "623"
+    ]
+  },
+  "estatisticas": {
+    "linhas_lidas": 789660,
+    "linhas_sem_ifco_hb": 633375,
+    "linhas_normalizadas": 156276,
+    "familia_IFCO": 107372,
+    "fonte_Desc. Embal.": 142041,
+    "familia_HB": 48904,
+    "fonte_Desc. Produto": 14235,
+    "linhas_ifco_hb_invalidas": 9
+  },
+  "pendencias_modelo": [
+    [
+      "HB | HB C/ 70UN",
+      1993
+    ],
+    [
+      "HB | HB C/ 20UN",
+      1972
+    ],
+    [
+      "HB | HB C/ 30UN",
+      1154
+    ],
+    [
+      "HB | HB C/ 57UN",
+      928
+    ],
+    [
+      "HB | HB C/ 44UN",
+      905
+    ],
+    [
+      "HB | HB C/ 26UN",
+      587
+    ],
+    [
+      "HB | HB C/ 10KG",
+      531
+    ],
+    [
+      "HB | HB C/ 38UN",
+      469
+    ],
+    [
+      "IFCO | IFCO BAIXA ST6416 C/ 10UN GPA",
+      461
+    ],
+    [
+      "HB | HB C/ 48UN",
+      438
+    ],
+    [
+      "HB | HB C/ 42UN",
+      356
+    ],
+    [
+      "HB | HB C/ 52UN",
+      346
+    ],
+    [
+      "HB | HB C/ 18KG",
+      324
+    ],
+    [
+      "HB | HB C/ 27UN",
+      281
+    ],
+    [
+      "HB | HB C/ 60UN",
+      255
+    ],
+    [
+      "HB | HB C/ 16UN",
+      220
+    ],
+    [
+      "HB | HB C/ 56UN",
+      214
+    ],
+    [
+      "HB | HB C/ 12UN",
+      194
+    ],
+    [
+      "HB | HB C/ 28UN",
+      182
+    ],
+    [
+      "HB | HB C/ 22UN",
+      137
+    ],
+    [
+      "HB | HB C/ 9UN",
+      117
+    ],
+    [
+      "HB | HB C/ 32UN",
+      111
+    ],
+    [
+      "HB | HB C/ 17UN",
+      71
+    ],
+    [
+      "HB | HB C/ 15KG",
+      70
+    ],
+    [
+      "HB | HB C/ 9KG",
+      65
+    ],
+    [
+      "HB | HB C/ 36UN",
+      60
+    ],
+    [
+      "HB | HB C/ 2 DISPLAY",
+      48
+    ],
+    [
+      "IFCO | IFCO BAIXA ST 6416C/ 2 DISPLAY",
+      39
+    ],
+    [
+      "HB | HB C/ 46UN",
+      38
+    ],
+    [
+      "IFCO | IFCO 1/2 BAIXA ST 3415 C/ 6KG",
+      33
+    ],
+    [
+      "HB | HB C/ 35UN",
+      32
+    ],
+    [
+      "HB | HB C/ 100UN",
+      29
+    ],
+    [
+      "IFCO | IFCO BAIXA ST6416 C/ 20UN - CE",
+      28
+    ],
+    [
+      "HB | HB C/ 20KG",
+      25
+    ],
+    [
+      "HB | HB C/ 18UN",
+      20
+    ],
+    [
+      "HB | HB C/ 45UN",
+      15
+    ],
+    [
+      "HB | HB C/ 15UN",
+      7
+    ],
+    [
+      "HB | HB C/ 8UN",
+      6
+    ],
+    [
+      "HB | HB C/ 5KG",
+      6
+    ],
+    [
+      "IFCO | CEREJA AMARELO [KG] - IFCO 10KG - GPA",
+      3
+    ],
+    [
+      "HB | HB C/ 10UN",
+      3
+    ],
+    [
+      "IFCO | IFCO 1/2 BAIXA ST 3415 C/ 10UN",
+      3
+    ],
+    [
+      "HB | HB C/ 110UN",
+      2
+    ],
+    [
+      "HB | HB C/ 34UN",
+      1
+    ],
+    [
+      "IFCO | IFCO BAIXA ST6416 C/30UN SONDA",
+      1
+    ],
+    [
+      "HB | HB C/ 14KG",
+      1
+    ],
+    [
+      "IFCO | IFCO 1/2 BAIXA ST 3415 C/ 24UN",
+      1
+    ]
+  ]
+}

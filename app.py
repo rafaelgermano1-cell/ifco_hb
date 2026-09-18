@@ -30,10 +30,17 @@ MODEL_LABELS = {
 LABEL_TO_MODEL = {label: model for model, label in MODEL_LABELS.items()}
 BUFFER_MINIMO = 0.30
 BUFFER_SUAVE_MODELOS = {"623", "6424"}
-BUFFER_SUAVE_MINIMO = 0.15
-BUFFER_SUAVE_PICO_PESO = 0.35
+BUFFER_SUAVE_MINIMO = 0.18
+BUFFER_SUAVE_PICO_PESO = 0.50
 JANELA_BUFFER_DIAS = 56
 ESTOQUE_MINIMO_6420 = 1500
+PALLET_POR_MODELO = {
+    "618": 250,
+    "623": 250,
+    "6416": 285,
+    "6420": 285,
+    "6424": 285,
+}
 DIAS_SEMANA = ["segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado", "domingo"]
 MESES_ABREVIADOS = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"]
 ARAGUARI_PACKINGS = {"PH ARAGUARI - GRANEL", "PH ARAGUARI - EMBALADOS"}
@@ -73,6 +80,21 @@ def destacar_negativo(valor):
     return "color: #b42318; background-color: #fde8e7;" if float(valor) < 0 else ""
 
 
+def arredondar_para_pallet(quantidade, modelo):
+    pallet = PALLET_POR_MODELO.get(str(modelo), 1)
+    return int(math.ceil(max(0.0, float(quantidade)) / pallet) * pallet)
+
+
+def quantidade_pallets(quantidade, modelo):
+    pallet = PALLET_POR_MODELO.get(str(modelo), 1)
+    return int(math.ceil(max(0.0, float(quantidade)) / pallet))
+
+
+def formatar_coluna_coleta(valor):
+    data = pd.Timestamp(valor)
+    return f"{DIAS_SEMANA[data.weekday()].split('-')[0].capitalize()}\n{data.day:02d}/{data.month:02d}"
+
+
 def corrigir_inconsistencias_quantidade(raw):
     """Corrige o registro conhecido com escala decimal perdida em Qtd. Caixa."""
     mascara = (
@@ -87,12 +109,11 @@ def corrigir_inconsistencias_quantidade(raw):
 
 
 def calcular_coletas(forecast, selected_models, stock):
-    """Calcula coletas conforme as janelas operacionais de abastecimento."""
+    """Calcula o déficit da próxima janela operacional por modelo e pallet."""
     consumo = forecast.pivot(index="data", columns="modelo", values="previsao")
     consumo = consumo.reindex(columns=selected_models, fill_value=0).fillna(0)
     consumo = consumo.sort_index()
     saldo = {modelo: float(stock[modelo]) for modelo in selected_models}
-    datas = list(consumo.index)
     janelas = {
         0: [1, 2],       # coleta de segunda abastece terça e quarta
         2: [3, 4],       # coleta de quarta abastece quinta e sexta
@@ -100,25 +121,36 @@ def calcular_coletas(forecast, selected_models, stock):
     }
     linhas = []
     for data_coleta, consumos in consumo.iterrows():
-        coletas = {}
+        if data_coleta.weekday() not in janelas:
+            for modelo in selected_models:
+                saldo[modelo] -= float(consumos[modelo])
+            continue
+
+        dias_abastecidos = janelas[data_coleta.weekday()]
+        datas_janela = [
+            next(
+                (
+                    data
+                    for data in consumo.index
+                    if data > data_coleta and data.weekday() == dia_semana
+                ),
+                None,
+            )
+            for dia_semana in dias_abastecidos
+        ]
+        datas_janela = [data for data in datas_janela if data is not None]
+        coletas = {"data": data_coleta}
         for modelo in selected_models:
             saldo[modelo] -= float(consumos[modelo])
-            if data_coleta.weekday() not in {0, 2, 4}:
-                continue
-            dias_semana = janelas[data_coleta.weekday()]
-            datas_abastecidas = [
-                data for data in datas
-                if data > data_coleta and data.weekday() in dias_semana
-            ]
-            consumo_janela = float(consumo.loc[datas_abastecidas, modelo].sum()) if datas_abastecidas else 0.0
+            consumo_janela = float(consumo.loc[datas_janela, modelo].sum())
             estoque_alvo = math.ceil(consumo_janela)
             if modelo == "6420":
                 estoque_alvo = max(estoque_alvo, ESTOQUE_MINIMO_6420)
-            quantidade = math.ceil(max(0.0, estoque_alvo - saldo[modelo]))
+            deficit = max(0.0, estoque_alvo - saldo[modelo])
+            quantidade = arredondar_para_pallet(deficit, modelo)
             coletas[modelo] = quantidade
             saldo[modelo] += quantidade
-        if data_coleta.weekday() in {0, 2, 4}:
-            linhas.append({"data": data_coleta, **coletas})
+        linhas.append(coletas)
     return pd.DataFrame(linhas)
 
 
@@ -348,13 +380,15 @@ collection_forecast = model_forecast(
 st.subheader("Previsão de consumo — hoje + próximos 5 dias operacionais")
 st.caption(
     "Valores abaixo são a previsão operacional. Para HB 623 e IFCO 6424, a proteção contra picos "
-    "usa 15% mínimo e 35% da distância até o percentil 75; os demais modelos mantêm o buffer de 30%."
+    "usa 18% mínimo e 50% da distância até o percentil 75; os demais modelos mantêm o buffer de 30%."
 )
+if "forecast_editor_version" not in st.session_state:
+    st.session_state["forecast_editor_version"] = 0
+if "collection_editor_version" not in st.session_state:
+    st.session_state["collection_editor_version"] = 0
 if st.button("Restaurar previsões do modelo", key="restore_forecast"):
-    forecast["previsao"] = forecast["previsao_modelo"]
-    collection_forecast["previsao"] = collection_forecast["previsao_modelo"]
-    st.session_state.pop("forecast_editor", None)
-    st.session_state.pop("collection_editor", None)
+    st.session_state["forecast_editor_version"] += 1
+    st.session_state["collection_editor_version"] += 1
     st.rerun()
 forecast_table = (
     forecast.pivot(index="data", columns="modelo", values="previsao")
@@ -371,7 +405,7 @@ edited_forecast = st.data_editor(
     forecast_editor,
     hide_index=True,
     use_container_width=True,
-    key="forecast_editor",
+    key=f"forecast_editor_{st.session_state['forecast_editor_version']}",
     column_config={
         column: st.column_config.NumberColumn(
             MODEL_LABELS.get(column, f"Caixa {column}"),
@@ -453,11 +487,12 @@ else:
     coletas.columns = [MODEL_LABELS.get(str(valor), f"Caixa {valor}") for valor in coletas.columns]
     coletas.index = [formatar_data(valor) for valor in coletas.index]
     coletas.index.name = "data de coleta"
+    editor_coletas = coletas.reset_index()
     edited_coletas = st.data_editor(
-        coletas.reset_index(),
+        editor_coletas,
         hide_index=True,
         use_container_width=True,
-        key="collection_editor",
+        key=f"collection_editor_{st.session_state['collection_editor_version']}",
         column_config={
             column: st.column_config.NumberColumn(
                 column,
@@ -468,13 +503,58 @@ else:
             for column in coletas.columns
         },
     )
-    st.caption("As quantidades de coleta também podem ser ajustadas manualmente.")
+    coletas_ajustadas = edited_coletas.set_index("data de coleta")
+    for model in selected_models:
+        column = MODEL_LABELS.get(model, f"Caixa {model}")
+        if column in coletas_ajustadas:
+            coletas_ajustadas[column] = coletas_ajustadas[column].apply(
+                lambda value: arredondar_para_pallet(value, model)
+            )
+    st.caption(
+        "As quantidades podem ser ajustadas manualmente. O valor operacional é sempre "
+        "arredondado para cima ao pallet completo."
+    )
+    grupo_hb = [model for model in selected_models if model in {"618", "623"}]
+    grupo_ifco = [model for model in selected_models if model in {"6416", "6420", "6424"}]
+    pallets = pd.DataFrame(index=coletas_ajustadas.index)
+    if grupo_hb:
+        pallets["HB"] = coletas_ajustadas[
+            [MODEL_LABELS.get(model, f"Caixa {model}") for model in grupo_hb]
+        ].apply(
+            lambda row: sum(
+                quantidade_pallets(
+                    row[MODEL_LABELS.get(model, f"Caixa {model}")],
+                    model,
+                )
+                for model in grupo_hb
+            ),
+            axis=1,
+        )
+    if grupo_ifco:
+        pallets["IFCO"] = coletas_ajustadas[
+            [MODEL_LABELS.get(model, f"Caixa {model}") for model in grupo_ifco]
+        ].apply(
+            lambda row: sum(
+                quantidade_pallets(
+                    row[MODEL_LABELS.get(model, f"Caixa {model}")],
+                    model,
+                )
+                for model in grupo_ifco
+            ),
+            axis=1,
+        )
+    pallets["TOTAL"] = pallets.sum(axis=1)
+    st.markdown("**Quantidade de pallets por coleta**")
+    st.dataframe(
+        pallets.style.format("{:,.0f}", na_rep="-"),
+        use_container_width=True,
+    )
 
 st.info(
     "A previsão-base usa o histórico completo da localidade e escolhe o método mais estável por tipo de caixa: "
     "mediana para 618 e 6424, média exponencial ponderada para 623 e 6416. A referência é o mesmo dia da semana "
     "ao longo do histórico, sem uso de informação futura. Para reduzir o risco de falta nos picos, a previsão "
-    "operacional aplica buffer adaptativo: 15% e aproximação parcial do percentil 75 para HB 623 e IFCO 6424; "
+    "operacional aplica buffer adaptativo: 18% e aproximação parcial de 50% do percentil 75 para HB 623 e IFCO 6424; "
     "os demais modelos usam buffer mínimo de 30% e cobertura pelo percentil 75 dos últimos 56 dias. "
     "Os domingos não entram no horizonte operacional, e valores negativos de estoque indicam possível ruptura de abastecimento."
 )

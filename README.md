@@ -25,7 +25,7 @@ futura:
 Para reduzir o risco de falta nos dias de pico, o dashboard aplica uma proteção
 adaptativa:
 
-1. para HB 623 e IFCO 6424, mínimo de 15% e 35% da distância até o percentil
+1. para HB 623 e IFCO 6424, mínimo de 18% e 50% da distância até o percentil
    75 dos consumos dos últimos 56 dias do mesmo dia da semana;
 2. para os demais modelos, previsão-base acrescida de 30% ou percentil 75,
    prevalecendo o maior valor.

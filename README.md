@@ -22,15 +22,22 @@ futura:
 - modelos 623 e 6416: média exponencial ponderada;
 - demais modelos: mediana como comportamento padrão.
 
-Para reduzir o risco de falta nos dias de pico, o dashboard aplica a maior
-entre:
+Para reduzir o risco de falta nos dias de pico, o dashboard aplica uma proteção
+adaptativa:
 
-1. previsão-base acrescida de 30% de buffer mínimo; e
-2. percentil 75 dos consumos dos últimos 56 dias do mesmo dia da semana.
+1. para HB 623 e IFCO 6424, mínimo de 15% e 35% da distância até o percentil
+   75 dos consumos dos últimos 56 dias do mesmo dia da semana;
+2. para os demais modelos, previsão-base acrescida de 30% ou percentil 75,
+   prevalecendo o maior valor.
 
 O valor protegido é utilizado na evolução do estoque e na previsão de coleta.
 Esse mecanismo reduz o risco de ruptura, mas não garante cobertura de eventos
 excepcionais fora do padrão histórico.
+
+Após a geração da previsão, o usuário pode editar os valores diretamente no
+dashboard. A evolução do estoque é recalculada com a previsão editada, e a
+previsão de coleta também pode ser ajustada manualmente. O botão **Restaurar
+previsões do modelo** remove as alterações e retorna aos valores calculados.
 
 ## Localidade Araguari
 

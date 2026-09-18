@@ -4,7 +4,6 @@ Execute com: streamlit run app.py
 """
 
 from pathlib import Path
-import re
 import math
 from datetime import date, timedelta
 
@@ -30,6 +29,9 @@ MODEL_LABELS = {
 }
 LABEL_TO_MODEL = {label: model for model, label in MODEL_LABELS.items()}
 BUFFER_MINIMO = 0.30
+BUFFER_SUAVE_MODELOS = {"623", "6424"}
+BUFFER_SUAVE_MINIMO = 0.15
+BUFFER_SUAVE_PICO_PESO = 0.35
 JANELA_BUFFER_DIAS = 56
 ESTOQUE_MINIMO_6420 = 1500
 DIAS_SEMANA = ["segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado", "domingo"]
@@ -191,7 +193,17 @@ def model_forecast(history, models, days):
             serie = history[(history["modelo"] == model) & (history["data"].dt.dayofweek == day.weekday())].copy()
             serie = serie.sort_values("data")
             if serie.empty:
-                rows.append({"data": day, "modelo": model, "metodo": "sem_historico", "previsao": 0.0})
+                rows.append(
+                    {
+                        "data": day,
+                        "modelo": model,
+                        "metodo": "sem_historico",
+                        "previsao_base": 0.0,
+                        "buffer_seguranca": 0.0,
+                        "previsao_modelo": 0.0,
+                        "previsao": 0.0,
+                    }
+                )
                 continue
             valores = serie["quantidade"].astype(float).to_numpy()
             mediana = float(np.median(valores))
@@ -212,7 +224,14 @@ def model_forecast(history, models, days):
                 & (history["data"].dt.dayofweek == day.weekday())
             ]["quantidade"].astype(float)
             pico_recente = float(np.percentile(janela, 75)) if not janela.empty else value
-            previsao_operacional = max(value * (1 + BUFFER_MINIMO), pico_recente)
+            if model in BUFFER_SUAVE_MODELOS:
+                previsao_operacional = max(
+                    value * (1 + BUFFER_SUAVE_MINIMO),
+                    value + BUFFER_SUAVE_PICO_PESO * (pico_recente - value),
+                )
+            else:
+                previsao_operacional = max(value * (1 + BUFFER_MINIMO), pico_recente)
+            previsao_operacional = max(value, previsao_operacional)
             rows.append(
                 {
                     "data": day,
@@ -220,6 +239,7 @@ def model_forecast(history, models, days):
                     "metodo": metodo,
                     "previsao_base": math.ceil(value),
                     "buffer_seguranca": math.ceil(max(0.0, previsao_operacional - value)),
+                    "previsao_modelo": math.ceil(previsao_operacional),
                     "previsao": math.ceil(previsao_operacional),
                 }
             )
@@ -327,9 +347,15 @@ collection_forecast = model_forecast(
 )
 st.subheader("Previsão de consumo — hoje + próximos 5 dias operacionais")
 st.caption(
-    "Valores abaixo são a previsão operacional: previsão-base acrescida de buffer mínimo de 30% "
-    "ou elevada ao percentil 75 dos consumos recentes do mesmo dia da semana, prevalecendo o maior valor."
+    "Valores abaixo são a previsão operacional. Para HB 623 e IFCO 6424, a proteção contra picos "
+    "usa 15% mínimo e 35% da distância até o percentil 75; os demais modelos mantêm o buffer de 30%."
 )
+if st.button("Restaurar previsões do modelo", key="restore_forecast"):
+    forecast["previsao"] = forecast["previsao_modelo"]
+    collection_forecast["previsao"] = collection_forecast["previsao_modelo"]
+    st.session_state.pop("forecast_editor", None)
+    st.session_state.pop("collection_editor", None)
+    st.rerun()
 forecast_table = (
     forecast.pivot(index="data", columns="modelo", values="previsao")
     .reindex(columns=selected_models, fill_value=0)
@@ -339,10 +365,40 @@ forecast_table = (
 forecast_table.columns = [MODEL_LABELS.get(str(valor), f"Caixa {valor}") for valor in forecast_table.columns]
 forecast_table.index = [formatar_data(valor) for valor in forecast_table.index]
 forecast_table.index.name = "data"
-st.dataframe(
-    forecast_table.style.format(formatar_numero),
+forecast_editor = forecast_table.reset_index()
+forecast_editor.columns = ["data", *[str(column) for column in forecast_table.columns]]
+edited_forecast = st.data_editor(
+    forecast_editor,
+    hide_index=True,
     use_container_width=True,
+    key="forecast_editor",
+    column_config={
+        column: st.column_config.NumberColumn(
+            MODEL_LABELS.get(column, f"Caixa {column}"),
+            min_value=0,
+            step=1,
+            format="%.0f",
+        )
+        for column in forecast_editor.columns[1:]
+    },
 )
+for _, row in edited_forecast.iterrows():
+    data_formatada = row["data"]
+    data_alvo = next(
+        (data for data in forecast["data"] if formatar_data(data) == data_formatada),
+        None,
+    )
+    if data_alvo is None:
+        continue
+    for model in selected_models:
+        coluna = MODEL_LABELS.get(str(model), f"Caixa {model}")
+        valor = pd.to_numeric(row.get(coluna), errors="coerce")
+        if pd.notna(valor):
+            forecast.loc[
+                (forecast["data"] == data_alvo) & (forecast["modelo"] == model),
+                "previsao",
+            ] = max(0.0, float(valor))
+st.caption("Você pode editar diretamente os valores previstos. Use o botão acima para voltar ao modelo.")
 
 st.subheader("Estoque atual e evolução projetada")
 st.caption(
@@ -397,13 +453,29 @@ else:
     coletas.columns = [MODEL_LABELS.get(str(valor), f"Caixa {valor}") for valor in coletas.columns]
     coletas.index = [formatar_data(valor) for valor in coletas.index]
     coletas.index.name = "data de coleta"
-    st.dataframe(coletas.style.format(formatar_numero), use_container_width=True)
+    edited_coletas = st.data_editor(
+        coletas.reset_index(),
+        hide_index=True,
+        use_container_width=True,
+        key="collection_editor",
+        column_config={
+            column: st.column_config.NumberColumn(
+                column,
+                min_value=0,
+                step=1,
+                format="%.0f",
+            )
+            for column in coletas.columns
+        },
+    )
+    st.caption("As quantidades de coleta também podem ser ajustadas manualmente.")
 
 st.info(
     "A previsão-base usa o histórico completo da localidade e escolhe o método mais estável por tipo de caixa: "
     "mediana para 618 e 6424, média exponencial ponderada para 623 e 6416. A referência é o mesmo dia da semana "
     "ao longo do histórico, sem uso de informação futura. Para reduzir o risco de falta nos picos, a previsão "
-    "operacional aplica buffer mínimo de 30% e cobertura pelo percentil 75 dos últimos 56 dias do mesmo dia da semana. "
+    "operacional aplica buffer adaptativo: 15% e aproximação parcial do percentil 75 para HB 623 e IFCO 6424; "
+    "os demais modelos usam buffer mínimo de 30% e cobertura pelo percentil 75 dos últimos 56 dias. "
     "Os domingos não entram no horizonte operacional, e valores negativos de estoque indicam possível ruptura de abastecimento."
 )
 st.caption("Tratamento aplicado: registro inconsistente de 10/09/2026 da HB 623 corrigido de 76875 para 76,875 caixas, conforme 1.230 kg / 16 unidades.")
